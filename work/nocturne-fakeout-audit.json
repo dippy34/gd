@@ -1,0 +1,29 @@
+{
+  "objects": 34010,
+  "added_art_objects": 7257,
+  "fakeouts": 977,
+  "by_kind": {
+    "false landing rail": 136,
+    "false opening in solid bank": 597,
+    "false teleport shelf": 244
+  },
+  "by_section": {
+    "CIPHER": 58,
+    "CUTWIRE": 67,
+    "SWITCHYARD": 67,
+    "BLINDFOLD": 10,
+    "OFFBEAT": 58,
+    "PARALLAX": 10,
+    "BLIND ELEVATOR": 153,
+    "CROSSCODE": 45,
+    "FAULTLINE": 18,
+    "RECALL": 232,
+    "UNDERTOW": 23,
+    "NEEDLEWORK": 65,
+    "FALSE FLOOR": 86,
+    "COUNTERFEIT": 40,
+    "LAST WORD": 45
+  },
+  "switch_skins": 68,
+  "sha256": "9475e0337baeb567baf6fa5719a9dadd85f3b43b51786d9ed6e91c07636706cc"
+}

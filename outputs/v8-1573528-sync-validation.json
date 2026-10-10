@@ -1,0 +1,861 @@
+{
+  "file": "v8-1573528-sync.gmd",
+  "sha256": "b4c2346e51535a356d87de9e5c8251185da51bae1c728f0a60a21a784153d131",
+  "objects": 25741,
+  "song": 1573528,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "summary": {
+    "coloured_trim_objects": 0,
+    "spider_art_rebuilt": 2175,
+    "spider_style_preserved": true,
+    "spider_fakeouts": 262,
+    "random_decisions": 23,
+    "circular_orb_skins": 92,
+    "hidden_helpers": 7747,
+    "normal_size_portals": 61
+  },
+  "sync_measurements": [
+    {
+      "version": "previous",
+      "inputs": 401,
+      "within_25ms": 126,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "inputs": 30,
+          "within_25ms": 17,
+          "median_ms": 0.0,
+          "p90_ms": 200.00000000000017
+        },
+        {
+          "section": "CUTWIRE",
+          "inputs": 15,
+          "within_25ms": 12,
+          "median_ms": 0.0,
+          "p90_ms": 206.61090311363208
+        },
+        {
+          "section": "SWITCHYARD",
+          "inputs": 16,
+          "within_25ms": 11,
+          "median_ms": 0.0,
+          "p90_ms": 128.0837075733885
+        },
+        {
+          "section": "BLINDFOLD",
+          "inputs": 32,
+          "within_25ms": 3,
+          "median_ms": 105.96793893130041,
+          "p90_ms": 200.04502630770205
+        },
+        {
+          "section": "OFFBEAT",
+          "inputs": 28,
+          "within_25ms": 9,
+          "median_ms": 56.038333335024504,
+          "p90_ms": 157.14448048092535
+        },
+        {
+          "section": "PARALLAX",
+          "inputs": 96,
+          "within_25ms": 16,
+          "median_ms": 83.72098493319413,
+          "p90_ms": 187.4150000008683
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "inputs": 20,
+          "within_25ms": 9,
+          "median_ms": 87.18034879475312,
+          "p90_ms": 218.12285918848033
+        },
+        {
+          "section": "CROSSCODE",
+          "inputs": 30,
+          "within_25ms": 12,
+          "median_ms": 69.24499999999512,
+          "p90_ms": 170.0000000000017
+        },
+        {
+          "section": "FAULTLINE",
+          "inputs": 17,
+          "within_25ms": 2,
+          "median_ms": 98.66277656307432,
+          "p90_ms": 189.9516996274031
+        },
+        {
+          "section": "RECALL",
+          "inputs": 22,
+          "within_25ms": 9,
+          "median_ms": 61.61633587786497,
+          "p90_ms": 203.715034761008
+        },
+        {
+          "section": "UNDERTOW",
+          "inputs": 16,
+          "within_25ms": 1,
+          "median_ms": 109.02128580652004,
+          "p90_ms": 178.31977375907115
+        },
+        {
+          "section": "NEEDLEWORK",
+          "inputs": 14,
+          "within_25ms": 10,
+          "median_ms": 0.0,
+          "p90_ms": 207.9738144436618
+        },
+        {
+          "section": "FALSE FLOOR",
+          "inputs": 13,
+          "within_25ms": 9,
+          "median_ms": 0.0,
+          "p90_ms": 164.78597604257175
+        },
+        {
+          "section": "COUNTERFEIT",
+          "inputs": 25,
+          "within_25ms": 3,
+          "median_ms": 87.61000000387753,
+          "p90_ms": 186.22999999852823
+        },
+        {
+          "section": "LAST WORD",
+          "inputs": 27,
+          "within_25ms": 3,
+          "median_ms": 91.43000000003099,
+          "p90_ms": 163.42695102847532
+        }
+      ]
+    },
+    {
+      "version": "new",
+      "inputs": 352,
+      "within_25ms": 286,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "inputs": 30,
+          "within_25ms": 17,
+          "median_ms": 0.0,
+          "p90_ms": 200.00000000000017
+        },
+        {
+          "section": "CUTWIRE",
+          "inputs": 15,
+          "within_25ms": 12,
+          "median_ms": 0.0,
+          "p90_ms": 206.61090311363208
+        },
+        {
+          "section": "SWITCHYARD",
+          "inputs": 16,
+          "within_25ms": 11,
+          "median_ms": 0.0,
+          "p90_ms": 128.0837075733885
+        },
+        {
+          "section": "BLINDFOLD",
+          "inputs": 29,
+          "within_25ms": 29,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "OFFBEAT",
+          "inputs": 21,
+          "within_25ms": 21,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "PARALLAX",
+          "inputs": 24,
+          "within_25ms": 24,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "inputs": 19,
+          "within_25ms": 18,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "CROSSCODE",
+          "inputs": 30,
+          "within_25ms": 12,
+          "median_ms": 69.24499999999512,
+          "p90_ms": 170.0000000000017
+        },
+        {
+          "section": "FAULTLINE",
+          "inputs": 27,
+          "within_25ms": 27,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "RECALL",
+          "inputs": 26,
+          "within_25ms": 24,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "UNDERTOW",
+          "inputs": 31,
+          "within_25ms": 31,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "NEEDLEWORK",
+          "inputs": 14,
+          "within_25ms": 10,
+          "median_ms": 0.0,
+          "p90_ms": 207.9738144436618
+        },
+        {
+          "section": "FALSE FLOOR",
+          "inputs": 13,
+          "within_25ms": 9,
+          "median_ms": 0.0,
+          "p90_ms": 164.78597604257175
+        },
+        {
+          "section": "COUNTERFEIT",
+          "inputs": 22,
+          "within_25ms": 22,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "LAST WORD",
+          "inputs": 35,
+          "within_25ms": 19,
+          "median_ms": 0.3400000000226555,
+          "p90_ms": 169.9999999999875
+        }
+      ]
+    }
+  ],
+  "final_cube_timing": [
+    {
+      "version": "previous",
+      "passes": 133,
+      "total": 250
+    },
+    {
+      "version": "new",
+      "passes": 101,
+      "total": 250
+    }
+  ],
+  "random_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "time": 83.11816,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "time": 89.78249,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "RECALL",
+      "time": 126.64923,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "RECALL",
+      "time": 131.18891,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 162.88744,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 166.72870999999998,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 170.83937,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 174.64147255196858,
+      "probability": 0.5,
+      "both_correct_choices_pass": true,
+      "both_wrong_choices_block": true
+    }
+  ],
+  "portal_checks": [
+    {
+      "id": 200,
+      "x": 0.0,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 3687.69582,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 745,
+      "x": 3704.02122,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 6448.53857,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 47,
+      "x": 6464.86397,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 8977.05832,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 9210.89182,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 660,
+      "x": 9231.14452,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 201,
+      "x": 9203.10232,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 13520.50702,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 13520.50702,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 13539.20182,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 13776.05002,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 111,
+      "x": 13792.37542,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 200,
+      "x": 13769.77102,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 17249.96668,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 17249.96668,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 17265.03628,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 17458.68418,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 13,
+      "x": 17478.93688,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 201,
+      "x": 17450.89468,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 21768.29939,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 21768.29939,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 21786.99419,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 22023.84239,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 1331,
+      "x": 22040.16779,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 200,
+      "x": 22017.56339,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 24784.68513,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 24801.01053,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 28465.8088,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 660,
+      "x": 28482.1342,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 11,
+      "x": 29031.96131,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 29142.22307,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 11,
+      "x": 29961.65266,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 30074.41848,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 31939.72546,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 31939.72546,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 31954.79506,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 32146.93246,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 1331,
+      "x": 32163.25786,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 35828.05613,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 13,
+      "x": 35844.38153,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 39301.97279,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 39301.97279,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 39317.04239,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 39509.17979,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 745,
+      "x": 39525.50519,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 42270.02254,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 47,
+      "x": 42286.34794,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 42561.34271,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 11,
+      "x": 43408.33711,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 44046.78781,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 11,
+      "x": 44852.03361,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 45513.48552,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 45951.1462,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 111,
+      "x": 45967.4716,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 10,
+      "x": 49425.06287,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 49425.06287,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 49440.13247,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 99,
+      "x": 49632.26987,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    },
+    {
+      "id": 12,
+      "x": 49648.59527,
+      "visible_scale": 1,
+      "extended_activation_invisible": true,
+      "bypass_closed": true
+    }
+  ],
+  "spider_style_preserved": true,
+  "added_spider_jump_orbs": 13,
+  "route_samples": 49479,
+  "route_failures": 0,
+  "replay_sections": 15,
+  "replay_failures": 0,
+  "native_import_verified": false,
+  "limitations": "Route physics and conservative portal cores are model assumptions. Full damage-enabled native completion and an exact demon rating remain unverified.",
+  "references": [
+    "https://www.robtopgames.com/files/GDEditor.pdf",
+    "https://www.gdcreatorschool.com/docs/guides/gameplay-1/gameplay-objects/",
+    "https://www.gdcreatorschool.com/docs/guides/gameplay-1/making-sync/"
+  ]
+}

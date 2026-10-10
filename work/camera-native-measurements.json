@@ -1,0 +1,33 @@
+{
+  "before_ship": {
+    "image": "camera-ship-native.png",
+    "white_reference_rows": [
+      134.5,
+      195.0,
+      438.5,
+      681.5
+    ],
+    "height": 768,
+    "width": 1224
+  },
+  "after_ship": {
+    "image": "camera-refresh-ship-native.png",
+    "white_reference_rows": [
+      127.5,
+      371.0,
+      614.5
+    ],
+    "height": 768,
+    "width": 1223
+  },
+  "after_wave": {
+    "image": "camera-refresh-wave-native.png",
+    "white_reference_rows": [
+      127.5,
+      371.0,
+      614.5
+    ],
+    "height": 768,
+    "width": 1223
+  }
+}

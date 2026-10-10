@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "source_unchanged": true,
+  "roundtrip_valid": true,
+  "scope": [
+    16785.0,
+    24925.0
+  ],
+  "total_objects": 57465,
+  "object_reduction_from_foundry": 2678,
+  "source_objects_outside_scope_untouched": 5520,
+  "source_objects_given_editor_layers": 1100,
+  "factory_objects_organized": 51929,
+  "editor_legend_objects": 16,
+  "source_visual_edits": 929,
+  "visual_shader_resets": 1,
+  "added_collision_objects": 0,
+  "ship_skin_objects_retained": 3477,
+  "wave_early_robot_skin_objects_retained": 7122,
+  "ash_geometry_objects_retained": 10124,
+  "falling_ash_particles": 1144,
+  "interaction_housings": 19,
+  "isolated_blue_orb_group": 1156,
+  "blue_orb_trim_objects": 105,
+  "ending_group_24_objects_unchanged": 29,
+  "ending_group_24_pulse_preserved": true,
+  "missed_exit_hazards_finished": 10,
+  "root_fade_positions": [
+    24985.0,
+    25105.0
+  ],
+  "custom_spikes": 84,
+  "native_interactions_visually_hidden": 8,
+  "native_visual_alpha_group": 1157,
+  "portal_rollback_exact": true,
+  "custom_orbs_retained_exactly": true,
+  "all_other_added_art_unchanged": true,
+  "native_playtest": false,
+  "sha256": "802bc6c3ed846833bac104d893f3002918e3d170db00f80bb2e0ff161643380c"
+}

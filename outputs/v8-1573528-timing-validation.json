@@ -1,0 +1,2389 @@
+{
+  "file": "v8-1573528-timing.gmd",
+  "sha256": "325eb46a7e1ce583694d5056185172b168ada16471ee52e13cb2d7eaf865a3bc",
+  "objects": 27594,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "mode_count": 7,
+  "rooms": 15,
+  "input_events": 489,
+  "spike_count": 2766,
+  "spikes_outside_playfield": 0,
+  "native_timewarp_objects": 0,
+  "memory_decisions": 40,
+  "nominal_path_samples": 49395,
+  "rooms_with_nominal_overlaps": 0,
+  "results": [
+    {
+      "section": "CIPHER",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CUTWIRE",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "SWITCHYARD",
+      "samples": 2646,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLINDFOLD",
+      "samples": 3535,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "OFFBEAT",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "PARALLAX",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "samples": 2647,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CROSSCODE",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FAULTLINE",
+      "samples": 3542,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "NEEDLEWORK",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "COUNTERFEIT",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FALSE FLOOR",
+      "samples": 3527,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "UNDERTOW",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "RECALL",
+      "samples": 3531,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "LAST WORD",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    }
+  ],
+  "memory_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "correct": true,
+      "group": 101,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 64.69689999999997
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "correct": false,
+      "group": 102,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "correct": true,
+      "group": 103,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 58.62720000000013
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "correct": false,
+      "group": 104,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "correct": true,
+      "group": 105,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 44.8134
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "correct": false,
+      "group": 106,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "correct": true,
+      "group": 107,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 68.88290000000006
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "correct": false,
+      "group": 108,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "correct": false,
+      "group": 120,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "correct": false,
+      "group": 121,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "correct": false,
+      "group": 122,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 53.00887713212242,
+      "correct": false,
+      "group": 137,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 56.42137713212514,
+      "correct": false,
+      "group": 138,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 58.46637713212675,
+      "correct": true,
+      "group": 139,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 60.43387713212833,
+      "correct": false,
+      "group": 140,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 62.495543798796625,
+      "correct": true,
+      "group": 141,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 63.796377132131006,
+      "correct": false,
+      "group": 142,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "correct": false,
+      "group": 159,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "correct": false,
+      "group": 160,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "correct": false,
+      "group": 161,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "correct": false,
+      "group": 162,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 133.53623082168744,
+      "correct": false,
+      "group": 183,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 134.91456415501955,
+      "correct": true,
+      "group": 184,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 136.7612308216845,
+      "correct": false,
+      "group": 185,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 137.70623082168368,
+      "correct": true,
+      "group": 186,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 140.38206415501455,
+      "correct": false,
+      "group": 187,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 141.74789748834667,
+      "correct": true,
+      "group": 188,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 143.16539748834535,
+      "correct": false,
+      "group": 189,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 148.53460232296092,
+      "correct": false,
+      "group": 195,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 151.62304,
+      "correct": false,
+      "group": 196,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 154.60330461303727,
+      "correct": false,
+      "group": 197,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 157.69490766647237,
+      "correct": false,
+      "group": 198,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 191.66181,
+      "correct": true,
+      "group": 215,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 32.37930000000051
+    },
+    {
+      "section": "LAST WORD",
+      "time": 192.98838999999998,
+      "correct": false,
+      "group": 216,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 195.5546786588388,
+      "correct": true,
+      "group": 217,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11539999999513
+    },
+    {
+      "section": "LAST WORD",
+      "time": 197.08907,
+      "correct": false,
+      "group": 218,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 198.67587,
+      "correct": true,
+      "group": 219,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 75.37120000000141
+    },
+    {
+      "section": "LAST WORD",
+      "time": 200.35165999999998,
+      "correct": false,
+      "group": 220,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 201.69862,
+      "correct": true,
+      "group": 221,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11540000000241
+    },
+    {
+      "section": "LAST WORD",
+      "time": 203.26503,
+      "correct": false,
+      "group": 222,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    }
+  ],
+  "limitations": [
+    "Recorded-route finite-body collision audit, not native completion verification.",
+    "Ship/UFO/ball acceleration and portal contact offsets need native testing.",
+    "Target difficulty is not a measured or assigned demon rating."
+  ],
+  "regressions": {
+    "file": "v8-1573528-timing.gmd",
+    "sha256": "325eb46a7e1ce583694d5056185172b168ada16471ee52e13cb2d7eaf865a3bc",
+    "native_size_state": {
+      "mismatched_samples": {},
+      "sample_count": 49395,
+      "mini_orb_inputs": 0,
+      "orb_inputs": 36,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "CUTWIRE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "SWITCHYARD",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "BLINDFOLD",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "OFFBEAT",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "PARALLAX",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "CROSSCODE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "FAULTLINE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "NEEDLEWORK",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "COUNTERFEIT",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "FALSE FLOOR",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "UNDERTOW",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "RECALL",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "LAST WORD",
+          "initial_mini": false,
+          "final_mini": false
+        }
+      ],
+      "native_size_portals": [
+        {
+          "x": 3687.69582,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 6448.53857,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 9210.89182,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 13520.50702,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 13776.05002,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 17458.68418,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 22023.84239,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 24784.68513,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 28465.8088,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 29379.81071,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 30300.09163,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 31105.33743,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 31795.54812,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 31939.72546,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 32146.93246,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 34907.77521,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 38588.89887,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 42270.02254,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 45951.1462,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 49632.26987,
+          "id": 99,
+          "size": "normal"
+        }
+      ]
+    },
+    "preserved_ship_wave_rooms": [
+      "BLINDFOLD",
+      "PARALLAX",
+      "FAULTLINE",
+      "UNDERTOW"
+    ],
+    "unchanged_input_score": true,
+    "unchanged_route_and_size_plan": true,
+    "camera_settings_preserved": true,
+    "features_by_mode": {
+      "cube": 157,
+      "robot": 93,
+      "ball": 90,
+      "ufo": 73,
+      "spider": 96
+    },
+    "purposeful_fakeout_count": 100,
+    "fakeouts": [
+      {
+        "section": "CIPHER",
+        "x": 440.2307364,
+        "y": 215.23166000000003,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 480.4163364,
+        "y": 47.53526000000002,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 1069.2132359999998,
+        "y": 212.87300000000073,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 1104.375636,
+        "y": 39.75500000000073,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 1580.4167651999999,
+        "y": 199.541,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 1623.1139652,
+        "y": 32.99966000000038,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 2221.9296372,
+        "y": 217.53044000000062,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 2259.6036372,
+        "y": 48.030440000000624,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 2793.27594,
+        "y": 208.91534000000064,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 2830.94994,
+        "y": 39.41534000000063,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CIPHER",
+        "x": 3369.6328848000003,
+        "y": 214.541,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 4107.6238476,
+        "y": 212.90850000000063,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 4290.748235465409,
+        "y": 45.58450000000234,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 4576.2281292,
+        "y": 240.79800000000034,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 4725.4071228,
+        "y": 40.6720000000012,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 5097.4579656000005,
+        "y": 236.0677500000011,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 5283.367065999761,
+        "y": 41.00350000000055,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 5556.0384515999995,
+        "y": 218.36925000000147,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 5806.686085200001,
+        "y": 50.096500000000894,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 6066.008467526478,
+        "y": 220.40850000000066,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CUTWIRE",
+        "x": 6257.7820032,
+        "y": 197.9547500000012,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 6701.237633999999,
+        "y": 202.18013194444148,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 6921.846531599999,
+        "y": 234.4928125000032,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 7245.1183911906,
+        "y": 52.8198680555585,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 7433.0525724,
+        "y": 35.50718749999682,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 7796.3178384,
+        "y": 232.18013194444148,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 8009.4095172,
+        "y": 226.9928125000032,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 8315.038586399998,
+        "y": 45.31986805551384,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 8585.7689736,
+        "y": 35.507187500045035,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "x": 8888.891466,
+        "y": 224.68013194448616,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 13913.769418671613,
+        "y": 227.95599999999985,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 14499.80941867208,
+        "y": 88.84959999999917,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 14884.712118672345,
+        "y": 118.28279999999867,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 15181.080918672622,
+        "y": 85.89639999999827,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 15571.216118672892,
+        "y": 110.76759999999777,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 15856.073418673159,
+        "y": 87.5211999999974,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 16534.2054186737,
+        "y": 87.52119999999654,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "OFFBEAT",
+        "x": 16914.92211867396,
+        "y": 120.19359999999602,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "x": 22427.445064473042,
+        "y": 189.0,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "x": 22858.82674386235,
+        "y": 196.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "x": 23382.199292735877,
+        "y": 166.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "x": 23894.142774396703,
+        "y": 174.0,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "x": 24354.28323241197,
+        "y": 166.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 25040.119714735876,
+        "y": 201.42935999999779,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 25312.103390335873,
+        "y": 69.59514000000024,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 25783.83220645777,
+        "y": 84.3302400000008,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 26111.487903535875,
+        "y": 215.40485999999976,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 26528.626989535875,
+        "y": 77.89956000000748,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 26793.080888335877,
+        "y": 70.99050000001198,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 27285.409743535874,
+        "y": 207.10043999999252,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 27612.523039135875,
+        "y": 247.9893599999313,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "CROSSCODE",
+        "x": 28032.168701935876,
+        "y": 82.15206000000481,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 32511.471675535875,
+        "y": 207.3052500000156,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 32651.84751113587,
+        "y": 32.160500000008675,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 32975.062803535875,
+        "y": 225.58800000002253,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 33110.42799713587,
+        "y": 54.66050000000869,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 33374.89396370968,
+        "y": 195.27975000002266,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 33546.51208193588,
+        "y": 40.59050000002453,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 33892.22377553587,
+        "y": 236.8177500000089,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 34030.10056913587,
+        "y": 33.75350000000903,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 34353.31083833587,
+        "y": 224.20725000000857,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "x": 34498.71489713588,
+        "y": 29.439500000013094,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 35039.2156095111,
+        "y": 228.52159999999986,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 35608.511609510584,
+        "y": 86.19359999999917,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 36000.73980951027,
+        "y": 109.50999999999867,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 36189.319109510056,
+        "y": 240.82919999999868,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 36522.94330950979,
+        "y": 180.51239999999908,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 36820.35860950948,
+        "y": 213.54119999999955,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 37468.142109508895,
+        "y": 219.57120000000037,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 37734.790309508695,
+        "y": 118.72200000000012,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "x": 38025.92660950839,
+        "y": 90.0983999999997,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 38791.26785273587,
+        "y": 202.18013194439675,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 39023.041395770735,
+        "y": 211.99281250005146,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 39356.71991790814,
+        "y": 75.31986805560324,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 39568.18861553587,
+        "y": 73.00718749994854,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 39921.43008593587,
+        "y": 209.68013194439675,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 40194.66704993587,
+        "y": 204.49281250005146,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 40507.071062946314,
+        "y": 67.81986805560324,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 40710.88122113587,
+        "y": 65.50718749994854,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 41082.2466354654,
+        "y": 217.18013194439675,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 41323.743685847076,
+        "y": 219.49281250005146,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 41668.04695793587,
+        "y": 75.31986805560324,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "x": 41898.919258366164,
+        "y": 58.00718749994854,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 46326.49010264098,
+        "y": 181.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 46757.87178203029,
+        "y": 166.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 47304.06679913587,
+        "y": 174.0,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 47706.911476686786,
+        "y": 166.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 48221.22777113588,
+        "y": 36.0,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 48682.31483393588,
+        "y": 166.5,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "RECALL",
+        "x": 49202.3679652364,
+        "y": 174.0,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 49841.559395935874,
+        "y": 206.54520130944994,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 49872.366681535874,
+        "y": 213.93040130944996,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 50450.49430433587,
+        "y": 221.56836000000754,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 50486.41018433587,
+        "y": 244.39036000000752,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 51024.347183935875,
+        "y": 227.7518400000098,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 51057.75146393588,
+        "y": 237.23494000000983,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 51634.103385535884,
+        "y": 77.40500000001181,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 51886.37853593587,
+        "y": 214.971,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 52215.47850713588,
+        "y": 237.23494000000983,
+        "actual_solid_dead_end": true
+      },
+      {
+        "section": "LAST WORD",
+        "x": 52630.63342913588,
+        "y": 214.971,
+        "actual_solid_dead_end": true
+      }
+    ],
+    "limitations": [
+      "Static exported-state and geometry checks, not damage-enabled native completion."
+    ]
+  },
+  "single_input_model_comparison": {
+    "method": "Single-input perturbation, 240 Hz approximate replay, 0.70 s horizon, contiguous success interval, \u00b120 ticks cap.",
+    "limitations": "Model sensitivity only. Native physics, triangle hitboxes, buffering and portal contact offsets are not fully reproduced. These are not verified native click windows.",
+    "summary": {
+      "cube": {
+        "tests": 11,
+        "previous_median_ms": 112.5,
+        "current_median_ms": 33.333333333333336,
+        "tightened": 11
+      },
+      "robot": {
+        "tests": 12,
+        "previous_median_ms": 31.25,
+        "current_median_ms": 12.5,
+        "tightened": 12
+      },
+      "ball": {
+        "tests": 6,
+        "previous_median_ms": 91.66666666666667,
+        "current_median_ms": 8.333333333333334,
+        "tightened": 6
+      },
+      "ufo": {
+        "tests": 6,
+        "previous_median_ms": 16.666666666666668,
+        "current_median_ms": 8.333333333333334,
+        "tightened": 6
+      },
+      "spider": {
+        "tests": 6,
+        "previous_median_ms": 29.166666666666668,
+        "current_median_ms": 16.666666666666664,
+        "tightened": 6
+      }
+    },
+    "tests": [
+      {
+        "section": "CIPHER",
+        "mode": "cube",
+        "input_time": 1.65279,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 8,
+            "tested_success_span_ms": 116.66666666666667,
+            "sampled_success_count": 29,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 6,
+            "late_ticks": 2,
+            "tested_success_span_ms": 33.333333333333336,
+            "sampled_success_count": 9,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CIPHER",
+        "mode": "cube",
+        "input_time": 7.31991,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 7,
+            "tested_success_span_ms": 112.5,
+            "sampled_success_count": 28,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 2,
+            "late_ticks": 2,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CIPHER",
+        "mode": "cube",
+        "input_time": 12.40834,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 7,
+            "tested_success_span_ms": 112.5,
+            "sampled_success_count": 28,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 18,
+            "late_ticks": 2,
+            "tested_success_span_ms": 83.33333333333333,
+            "sampled_success_count": 21,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CIPHER",
+        "mode": "cube",
+        "input_time": 6.37247,
+        "input_kind": "orb",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 4,
+            "tested_success_span_ms": 100.0,
+            "sampled_success_count": 25,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 6,
+            "late_ticks": 2,
+            "tested_success_span_ms": 33.333333333333336,
+            "sampled_success_count": 9,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 16.24961,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 1,
+            "late_ticks": 4,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 2,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 20.19066,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 3,
+            "late_ticks": 4,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 23.36345,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 10,
+            "late_ticks": 4,
+            "tested_success_span_ms": 58.333333333333336,
+            "sampled_success_count": 15,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 1,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 16.24961,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 0,
+            "late_ticks": 4,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 0,
+            "late_ticks": 1,
+            "tested_success_span_ms": 4.166666666666667,
+            "sampled_success_count": 2,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 20.19066,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 1,
+            "late_ticks": 4,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 2,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CUTWIRE",
+        "mode": "robot",
+        "input_time": 23.36345,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 4,
+            "tested_success_span_ms": 100.0,
+            "sampled_success_count": 25,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "SWITCHYARD",
+        "mode": "ball",
+        "input_time": 27.29451,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "SWITCHYARD",
+        "mode": "ball",
+        "input_time": 30.93624,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "SWITCHYARD",
+        "mode": "ball",
+        "input_time": 34.59791,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "OFFBEAT",
+        "mode": "ufo",
+        "input_time": 51.78221046545499,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 11,
+            "late_ticks": 4,
+            "tested_success_span_ms": 62.5,
+            "sampled_success_count": 16,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 4,
+            "late_ticks": 2,
+            "tested_success_span_ms": 25.0,
+            "sampled_success_count": 7,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "OFFBEAT",
+        "mode": "ufo",
+        "input_time": 57.52804379879289,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 2,
+            "late_ticks": 2,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "OFFBEAT",
+        "mode": "ufo",
+        "input_time": 63.53637713213101,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 2,
+            "late_ticks": 2,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "mode": "spider",
+        "input_time": 81.75689239929685,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "mode": "spider",
+        "input_time": 86.13079,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "mode": "spider",
+        "input_time": 90.00116720845715,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CROSSCODE",
+        "mode": "cube",
+        "input_time": 92.70624000000001,
+        "input_kind": "orb",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 2,
+            "late_ticks": 4,
+            "tested_success_span_ms": 25.0,
+            "sampled_success_count": 7,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 4,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CROSSCODE",
+        "mode": "cube",
+        "input_time": 98.62277,
+        "input_kind": "orb",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 3,
+            "tested_success_span_ms": 95.83333333333333,
+            "sampled_success_count": 24,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "CROSSCODE",
+        "mode": "cube",
+        "input_time": 104.44916,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 7,
+            "tested_success_span_ms": 112.5,
+            "sampled_success_count": 28,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 6,
+            "late_ticks": 2,
+            "tested_success_span_ms": 33.333333333333336,
+            "sampled_success_count": 9,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 122.28862,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 8,
+            "late_ticks": 4,
+            "tested_success_span_ms": 50.0,
+            "sampled_success_count": 13,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 2,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 126.22966,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 5,
+            "tested_success_span_ms": 104.16666666666667,
+            "sampled_success_count": 26,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 3,
+            "late_ticks": 3,
+            "tested_success_span_ms": 25.0,
+            "sampled_success_count": 7,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 130.09088,
+        "input_kind": "hold",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 1,
+            "late_ticks": 4,
+            "tested_success_span_ms": 20.833333333333332,
+            "sampled_success_count": 6,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 2,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 122.28862,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 4,
+            "tested_success_span_ms": 33.333333333333336,
+            "sampled_success_count": 9,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 126.22966,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 4,
+            "tested_success_span_ms": 100.0,
+            "sampled_success_count": 25,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 2,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "NEEDLEWORK",
+        "mode": "robot",
+        "input_time": 130.09088,
+        "input_kind": "hold",
+        "perturbation": "release",
+        "results": {
+          "previous": {
+            "early_ticks": 0,
+            "late_ticks": 4,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 0,
+            "late_ticks": 2,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "COUNTERFEIT",
+        "mode": "ufo",
+        "input_time": 132.36789748835494,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 4,
+            "tested_success_span_ms": 100.0,
+            "sampled_success_count": 25,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 5,
+            "late_ticks": 2,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "COUNTERFEIT",
+        "mode": "ufo",
+        "input_time": 138.08039748834975,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 2,
+            "late_ticks": 2,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "COUNTERFEIT",
+        "mode": "ufo",
+        "input_time": 144.2595641550108,
+        "input_kind": "hop",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 2,
+            "late_ticks": 2,
+            "tested_success_span_ms": 16.666666666666668,
+            "sampled_success_count": 5,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "FALSE FLOOR",
+        "mode": "ball",
+        "input_time": 148.05460232296093,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "FALSE FLOOR",
+        "mode": "ball",
+        "input_time": 153.47773,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 0,
+            "late_ticks": 1,
+            "tested_success_span_ms": 4.166666666666667,
+            "sampled_success_count": 2,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "FALSE FLOOR",
+        "mode": "ball",
+        "input_time": 158.74576,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 2,
+            "tested_success_span_ms": 91.66666666666667,
+            "sampled_success_count": 23,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 1,
+            "late_ticks": 1,
+            "tested_success_span_ms": 8.333333333333334,
+            "sampled_success_count": 3,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "RECALL",
+        "mode": "spider",
+        "input_time": 176.90956415502203,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 2,
+            "late_ticks": 1,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "RECALL",
+        "mode": "spider",
+        "input_time": 182.97826644509837,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 2,
+            "late_ticks": 1,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "RECALL",
+        "mode": "spider",
+        "input_time": 188.93246491838082,
+        "input_kind": "flip",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 4,
+            "late_ticks": 3,
+            "tested_success_span_ms": 29.166666666666668,
+            "sampled_success_count": 8,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 2,
+            "late_ticks": 1,
+            "tested_success_span_ms": 12.5,
+            "sampled_success_count": 4,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "LAST WORD",
+        "mode": "cube",
+        "input_time": 191.43147,
+        "input_kind": "orb",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 14,
+            "late_ticks": 7,
+            "tested_success_span_ms": 87.5,
+            "sampled_success_count": 22,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 12,
+            "late_ticks": 2,
+            "tested_success_span_ms": 58.333333333333336,
+            "sampled_success_count": 15,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "LAST WORD",
+        "mode": "cube",
+        "input_time": 197.63475499471667,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 7,
+            "tested_success_span_ms": 112.5,
+            "sampled_success_count": 28,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 6,
+            "late_ticks": 3,
+            "tested_success_span_ms": 37.5,
+            "sampled_success_count": 10,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "LAST WORD",
+        "mode": "cube",
+        "input_time": 203.06503,
+        "input_kind": "jump",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 20,
+            "late_ticks": 7,
+            "tested_success_span_ms": 112.5,
+            "sampled_success_count": 28,
+            "capped": true
+          },
+          "current": {
+            "early_ticks": 6,
+            "late_ticks": 3,
+            "tested_success_span_ms": 37.5,
+            "sampled_success_count": 10,
+            "capped": false
+          }
+        }
+      },
+      {
+        "section": "LAST WORD",
+        "mode": "cube",
+        "input_time": 196.15111,
+        "input_kind": "orb",
+        "perturbation": "press",
+        "results": {
+          "previous": {
+            "early_ticks": 18,
+            "late_ticks": 6,
+            "tested_success_span_ms": 100.0,
+            "sampled_success_count": 25,
+            "capped": false
+          },
+          "current": {
+            "early_ticks": 16,
+            "late_ticks": 2,
+            "tested_success_span_ms": 75.0,
+            "sampled_success_count": 19,
+            "capped": false
+          }
+        }
+      }
+    ]
+  },
+  "independent_model_replay": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "BLINDFOLD",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 67.13622949008011,
+      "samples": 3318
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 241.7809180293776,
+      "samples": 3304
+    },
+    {
+      "section": "PARALLAX",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 145.67760002127625,
+      "samples": 3302
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3530
+    },
+    {
+      "section": "FAULTLINE",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 88.8440069939506,
+      "samples": 3325
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 201.56830759659718,
+      "samples": 3305
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3527
+    },
+    {
+      "section": "UNDERTOW",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 173.75770784300627,
+      "samples": 3302
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    }
+  ],
+  "native_validation": {
+    "imported": true,
+    "objects": 27594,
+    "object_id_counts_match": true,
+    "size_and_camera_settings_survive_import": true,
+    "opening_visually_inspected": true,
+    "full_completion_verified": false,
+    "difficulty_verified": false,
+    "note": "Opening inspected with the existing Ignore Damage setting; no native completion claim."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "level_artifacts_hashed_and_parsed": 35,
+  "curated_links_checked": 68,
+  "active_baseline": "outputs/The Sinking Factory - CUSTOM-ORBS.gmd",
+  "factory_regression": "passed",
+  "native_playtest": false,
+  "rendering_or_performance_certified": false,
+  "checked_on": "2026-10-10",
+  "unit_tests": {
+    "passed": 4,
+    "failed": 0
+  },
+  "isolated_baseline_rebuild": {
+    "passed": true,
+    "byte_identical_to_baseline": true,
+    "sha256": "802bc6c3ed846833bac104d893f3002918e3d170db00f80bb2e0ff161643380c",
+    "python": "3.9",
+    "numpy": "2.0.2",
+    "Pillow": "11.3.0",
+    "Shapely": "2.0.7",
+    "uses_local_game_atlases": true,
+    "redistributes_game_atlases": false
+  },
+  "excluded_custom_art_experiment": true,
+  "personal_home_path_scan": "no matches",
+  "credential_pattern_scan": "no matches",
+  "note": "All reported tests ran locally. The isolated rebuild matches the baseline byte-for-byte. Native play/performance are not certified.",
+  "github_ci": {
+    "installed": false,
+    "template": "docs/ci/validate.yml",
+    "reason": "GitHub rejected workflow creation because the connected OAuth credential lacks workflow scope. No privilege changes attempted."
+  }
+}

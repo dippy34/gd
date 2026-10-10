@@ -1,0 +1,8 @@
+*.gmd binary
+*.level -diff
+*.png binary
+*.jpg binary
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+

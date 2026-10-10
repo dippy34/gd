@@ -1,0 +1,14 @@
+{
+  "file": "v8-1573528-dark.gmd",
+  "sha256": "18bfe5a168c6dce170d0a35d94fa32770bc9179f9fdfeaa29e5f57172b71c959",
+  "objects": 30760,
+  "removed_decor_objects": 601,
+  "removed_move_triggers": 168,
+  "all_gameplay_objects_unchanged": true,
+  "spider_fakeout_art_unchanged": true,
+  "wall_orbs_unchanged": true,
+  "portal_fixes_unchanged": true,
+  "new_coloured_channels_removed": true,
+  "native_import_verified": false,
+  "full_native_completion_verified": false
+}

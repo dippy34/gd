@@ -1,0 +1,99 @@
+{
+  "file": "v8.gmd",
+  "internal_name": "v8",
+  "seconds": 259.89270588235297,
+  "objects": 48518,
+  "high_detail_objects": 16056,
+  "black_holes": 0,
+  "modes": [
+    "ball",
+    "cube",
+    "robot",
+    "ship",
+    "spider",
+    "ufo",
+    "wave"
+  ],
+  "mode_changes": 26,
+  "previous_mode_changes": 45,
+  "repeated_three_mode_sequences": 0,
+  "structure_styles": [
+    "terraces",
+    "vaults",
+    "cathedral",
+    "broken ribs",
+    "shelves",
+    "porticoes",
+    "slalom",
+    "bridges",
+    "viaduct",
+    "stepped canopy",
+    "terraced channel",
+    "staggered floors",
+    "hangars",
+    "alternating islands",
+    "arches",
+    "cantilevers",
+    "stepping stones",
+    "island flight",
+    "stacked platforms",
+    "canal",
+    "frame rooms",
+    "offset arches",
+    "window bays",
+    "long rails",
+    "split chambers",
+    "buttresses",
+    "cascade"
+  ],
+  "structural_clusters": 88,
+  "source_unchanged": true,
+  "export_round_trip": true,
+  "nominal_model_sections": 27,
+  "ground_model_reports": [
+    "full-path-checks.json",
+    "full-path-checks--0.025-1.json",
+    "full-path-checks-0.025-1.json",
+    "full-path-checks-0.0-1.03.json",
+    "full-path-checks-0.0-0.97.json"
+  ],
+  "wave_models": [
+    {
+      "section": "rupture",
+      "variants": 63,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 14.222
+    },
+    {
+      "section": "flare",
+      "variants": 73,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 18.628
+    },
+    {
+      "section": "shear",
+      "variants": 77,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 11.239
+    },
+    {
+      "section": "return",
+      "variants": 63,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 9.614
+    },
+    {
+      "section": "supernova",
+      "variants": 55,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 9.95
+    }
+  ],
+  "limits": "Ground physics and flight control models are approximations. These checks do not establish native completion or a rating.",
+  "native_import_verified": true,
+  "native_full_playthrough": false,
+  "sha256": "c6a32592382ef20581925f7745b564cd6a4f547cb50741e80cefe72e8fcfe18a",
+  "native_object_count": 48518,
+  "native_object_order_and_ids_match": true,
+  "native_opaque_black_hole_objects": 0
+}

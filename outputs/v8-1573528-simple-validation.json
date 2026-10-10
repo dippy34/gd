@@ -1,0 +1,500 @@
+{
+  "file": "v8-1573528-simple.gmd",
+  "name": "v8",
+  "song": 1573528,
+  "sha256": "6ae7477c9734046053d43240602cdb221313649f3f3632cbed83a81f364b078b",
+  "objects": 30210,
+  "duration_seconds": 205.19200690311362,
+  "native_half_speed_percent": 85.7143669767422,
+  "branches": 2,
+  "preserved_spider_fakeouts": 385,
+  "preserved_spider_art": 2939,
+  "removed_random_walls": 34,
+  "removed_bait_orbs": 17,
+  "required_inputs": 516,
+  "unchanged_reference_path": true,
+  "tightened_existing_timing_gates": 466,
+  "clearance_reduction_each_side": 0.65,
+  "native_import_verified": false,
+  "native_portal_passages": [
+    {
+      "id": 200,
+      "x": 0.0,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 3687.69582,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 745,
+      "x": 3704.02122,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 6448.53857,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 47,
+      "x": 6464.86397,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 8977.05832,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 9210.89182,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 660,
+      "x": 9231.14452,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 201,
+      "x": 9203.10232,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 10772.89468,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 101,
+      "x": 11629.14506,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 12057.27026,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 12485.39545,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 13520.50702,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 13520.50702,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 13539.20182,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 13776.05002,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 111,
+      "x": 13792.37542,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 200,
+      "x": 13769.77102,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 17249.96668,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 17265.03628,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 17458.68418,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 13,
+      "x": 17478.93688,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 201,
+      "x": 17450.89468,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 19164.58468,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 20734.16893,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 21768.29939,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 21786.99419,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 22023.84239,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 1331,
+      "x": 22040.16779,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 200,
+      "x": 22017.56339,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 24784.68513,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 24801.01053,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 28465.8088,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 660,
+      "x": 28482.1342,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 29034.70537,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 101,
+      "x": 29379.81071,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 29839.95117,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 30070.0214,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 101,
+      "x": 30875.2672,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 31105.33743,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 31335.40766,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 31680.513,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 31939.72546,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 31939.72546,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 31954.79506,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 32146.93246,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 1331,
+      "x": 32163.25786,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 35828.05613,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 13,
+      "x": 35844.38153,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 36627.58213,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 38583.49063,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 39301.97279,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 39317.04239,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 39509.17979,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 745,
+      "x": 39525.50519,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 42270.02254,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 47,
+      "x": 42286.34794,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 45718.8232,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 45951.1462,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 111,
+      "x": 45967.4716,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 11,
+      "x": 47096.0172,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 48476.3507,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 10,
+      "x": 49425.06287,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 49440.13247,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 99,
+      "x": 49632.26987,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    },
+    {
+      "id": 12,
+      "x": 49648.59527,
+      "below_closed": true,
+      "above_closed": true,
+      "opening_inside_conservative_portal_core": true
+    }
+  ],
+  "route_samples": 49408,
+  "route_failures": 0,
+  "replay_sections": 15,
+  "replay_failures": 0,
+  "limitations": "Route/replay physics and the conservative 30-unit portal core are model assumptions. The intermediate geometry imported natively; final artwork import could not be checked because editor coordinate controls returned noWindowsAvailable. Full native completion and exact difficulty are not verified.",
+  "references": [
+    "https://www.robtopgames.com/files/GDEditor.pdf",
+    "https://boomlings.dev/reference/player_physics/hitboxes",
+    "https://github.com/gd-programming/gd.docs/blob/main/docs/resources/client/level-components/level-object.md"
+  ]
+}

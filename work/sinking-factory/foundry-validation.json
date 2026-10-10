@@ -1,0 +1,23 @@
+{
+  "falling_ash_particles": 1144,
+  "ash_motion_groups": 104,
+  "fog_groups": 50,
+  "added_factory_fixtures": 23,
+  "passed": true,
+  "source_unchanged": true,
+  "gameplay_preserved_except_authorized_group_fix": true,
+  "blue_orb_group": 1156,
+  "source_objects": 6620,
+  "added_objects": 53523,
+  "total_objects": 60143,
+  "original_structural_visual_edits": 920,
+  "explicit_visual_shader_reset": 1,
+  "added_collision_objects": 0,
+  "native_playtest": false,
+  "roundtrip_valid": true,
+  "fixture_count": 15,
+  "fire_and_spark_emitters": 28,
+  "motions": 571,
+  "native_fire_objects": 72,
+  "sha256": "9e032c46a22aab66daef611f610855e066a507583afb422e070c8ccb9ae764b9"
+}

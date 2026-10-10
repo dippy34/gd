@@ -1,0 +1,67 @@
+{
+  "passed": true,
+  "roundtrip_valid": true,
+  "source_unchanged": true,
+  "baseline_objects_preserved_exactly": 57465,
+  "baseline_header_and_color_channels_preserved": true,
+  "custom_orbs_and_restored_portals_preserved": true,
+  "blue_orb_group_fix_preserved": true,
+  "new_group_and_color_collisions": 0,
+  "added_collision_objects": 0,
+  "total_objects": 61070,
+  "added_objects": 3605,
+  "native_looping_flame_objects": 172,
+  "ember_particles": 144,
+  "camera_edge_anchors": 4,
+  "closing_moves": 4,
+  "nominal_thickness_multiplier": 1.5,
+  "timing_seconds": {
+    "start_time": 47.936929852302185,
+    "fully_closed_time": 63.87604894284166,
+    "fade_start_time": 64.29271560950833,
+    "off_time": 64.5704933872861
+  },
+  "aspect_ratio_bounds": {
+    "4:3": {
+      "ui_size": [
+        426.66666666666663,
+        320
+      ],
+      "nominal_final_clear_center": [
+        330.66666666666663,
+        248
+      ]
+    },
+    "16:9": {
+      "ui_size": [
+        568.8888888888889,
+        320
+      ],
+      "nominal_final_clear_center": [
+        472.8888888888889,
+        248
+      ]
+    },
+    "21:9": {
+      "ui_size": [
+        746.6666666666667,
+        320
+      ],
+      "nominal_final_clear_center": [
+        650.6666666666667,
+        248
+      ]
+    }
+  },
+  "editor_layers": {
+    "169": 125,
+    "160": 3120,
+    "161": 172,
+    "162": 44,
+    "163": 144
+  },
+  "effect_editor_section_layer": 96,
+  "native_playtest": false,
+  "limitation": "Atlas renders model UI anchoring and trigger transforms; they do not verify native runtime behavior or gameplay visibility.",
+  "sha256": "ad165aafe07f19a33bb5cb64aa8fc9230828428cccd33b2650bd1000b9926b61"
+}

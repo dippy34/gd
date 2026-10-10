@@ -1,0 +1,243 @@
+{
+  "source_rectangles": 2248,
+  "exact_exposed_segments": 1938,
+  "total_objects": 88450,
+  "gameplay_objects": 2507,
+  "decorations": 85361,
+  "triggers": 582,
+  "features": [
+    {
+      "kind": "lensed singularity",
+      "time": 8,
+      "x": 2492.64,
+      "y": 167.79034430458557,
+      "radius": 64,
+      "group": 1201,
+      "pivot": 1202,
+      "dust": 1203,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 20,
+      "x": 6231.599999999999,
+      "y": 168.31894965347425,
+      "radius": 78,
+      "group": 1204,
+      "pivot": 1205,
+      "dust": 1206,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 35.7,
+      "x": 11251.548832941175,
+      "y": 147.10041415661743,
+      "radius": 91,
+      "group": 1207,
+      "pivot": 1208,
+      "dust": 1209,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 49,
+      "x": 16404.234832941172,
+      "y": 146.09298258316036,
+      "radius": 75,
+      "group": 1210,
+      "pivot": 1211,
+      "dust": 1212,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 62,
+      "x": 21440.694832941175,
+      "y": 164.15961851354334,
+      "radius": 81,
+      "group": 1213,
+      "pivot": 1214,
+      "dust": 1215,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 75,
+      "x": 26477.15483294117,
+      "y": 169.91645894335076,
+      "radius": 65,
+      "group": 1216,
+      "pivot": 1217,
+      "dust": 1218,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 90,
+      "x": 31468.38352941176,
+      "y": 150.5944974871455,
+      "radius": 71,
+      "group": 1219,
+      "pivot": 1220,
+      "dust": 1221,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 103,
+      "x": 35611.82306823529,
+      "y": 143.77561453295405,
+      "radius": 86,
+      "group": 1222,
+      "pivot": 1223,
+      "dust": 1224,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 117,
+      "x": 41035.703068235285,
+      "y": 161.1857975211648,
+      "radius": 78,
+      "group": 1225,
+      "pivot": 1226,
+      "dust": 1227,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 126,
+      "x": 44226.095887058815,
+      "y": 170.46568317161834,
+      "radius": 102,
+      "group": 1228,
+      "pivot": 1229,
+      "dust": 1230,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 140,
+      "x": 50323.055887058814,
+      "y": 161.24365699443985,
+      "radius": 79,
+      "group": 1231,
+      "pivot": 1232,
+      "dust": 1233,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 153,
+      "x": 55464.63012705881,
+      "y": 144.3861967975399,
+      "radius": 87,
+      "group": 1234,
+      "pivot": 1235,
+      "dust": 1236,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 166,
+      "x": 60670.89588705881,
+      "y": 149.2161124870883,
+      "radius": 95,
+      "group": 1237,
+      "pivot": 1238,
+      "dust": 1239,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 180,
+      "x": 66380.0101270588,
+      "y": 168.3914323250995,
+      "radius": 76,
+      "group": 1240,
+      "pivot": 1241,
+      "dust": 1242,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 194,
+      "x": 71803.89012705881,
+      "y": 165.4854051575697,
+      "radius": 83,
+      "group": 1243,
+      "pivot": 1244,
+      "dust": 1245,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 205,
+      "x": 75517.57058823528,
+      "y": 149.5770220374624,
+      "radius": 66,
+      "group": 1246,
+      "pivot": 1247,
+      "dust": 1248,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 217,
+      "x": 79429.73130352939,
+      "y": 143.6590489153944,
+      "radius": 87,
+      "group": 1249,
+      "pivot": 1250,
+      "dust": 1251,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 231,
+      "x": 84853.6113035294,
+      "y": 160.83208197095195,
+      "radius": 79,
+      "group": 1252,
+      "pivot": 1253,
+      "dust": 1254,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 239,
+      "x": 87661.32412235292,
+      "y": 169.81986978406005,
+      "radius": 105,
+      "group": 1255,
+      "pivot": 1256,
+      "dust": 1257,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 251,
+      "x": 92822.28412235291,
+      "y": 165.63148743346048,
+      "radius": 87,
+      "group": 1258,
+      "pivot": 1259,
+      "dust": 1260,
+      "objects": 2092
+    },
+    {
+      "kind": "lensed singularity",
+      "time": 257,
+      "x": 95408.33836235292,
+      "y": 157.06067416237778,
+      "radius": 57,
+      "group": 1261,
+      "pivot": 1262,
+      "dust": 1263,
+      "objects": 2092
+    }
+  ],
+  "seconds": 259.89270588235297,
+  "high_detail": 39001
+}

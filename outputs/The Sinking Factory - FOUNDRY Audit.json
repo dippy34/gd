@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "restored_ship_skin_objects": 3477,
+  "wave_and_earlier_robot_skin_objects_retained": 7122,
+  "preserved_ash_geometry_objects": 10124,
+  "interaction_housings": 19,
+  "orb_housings": 8,
+  "mode_portal_housings": 5,
+  "speed_portal_housings": 6,
+  "original_group_24_members": 30,
+  "later_objects_removed_from_orb_follow_target": 29,
+  "later_objects_data_unchanged": true,
+  "isolated_blue_orb_group": 1156,
+  "blue_orb_trim_objects_following_with_orb": 86,
+  "orb_follow_settings_preserved": true,
+  "ending_group_24_pulse_preserved": true,
+  "native_playtest": false
+}

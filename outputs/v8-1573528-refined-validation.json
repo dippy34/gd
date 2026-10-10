@@ -1,0 +1,1173 @@
+{
+  "file": "v8-1573528-refined.gmd",
+  "sha256": "b43677e77912843af1e36e1be617e609163feb41fb44971b6ad3001aa59e6177",
+  "objects": 21228,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "mode_count": 7,
+  "rooms": 15,
+  "input_events": 489,
+  "spike_count": 1851,
+  "spikes_outside_playfield": 0,
+  "native_timewarp_objects": 0,
+  "memory_decisions": 40,
+  "nominal_path_samples": 49395,
+  "rooms_with_nominal_overlaps": 0,
+  "results": [
+    {
+      "section": "CIPHER",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CUTWIRE",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "SWITCHYARD",
+      "samples": 2646,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLINDFOLD",
+      "samples": 3535,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "OFFBEAT",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "PARALLAX",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "samples": 2647,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CROSSCODE",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FAULTLINE",
+      "samples": 3542,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "NEEDLEWORK",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "COUNTERFEIT",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FALSE FLOOR",
+      "samples": 3527,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "UNDERTOW",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "RECALL",
+      "samples": 3531,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "LAST WORD",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    }
+  ],
+  "memory_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "correct": true,
+      "group": 101,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 64.69689999999997
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "correct": false,
+      "group": 102,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "correct": true,
+      "group": 103,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 58.62720000000013
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "correct": false,
+      "group": 104,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "correct": true,
+      "group": 105,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 44.8134
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "correct": false,
+      "group": 106,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "correct": true,
+      "group": 107,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 68.88290000000006
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "correct": false,
+      "group": 108,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "correct": false,
+      "group": 120,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "correct": false,
+      "group": 121,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "correct": false,
+      "group": 122,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 53.00887713212242,
+      "correct": false,
+      "group": 137,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 56.42137713212514,
+      "correct": false,
+      "group": 138,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 58.46637713212675,
+      "correct": true,
+      "group": 139,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 60.43387713212833,
+      "correct": false,
+      "group": 140,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 62.495543798796625,
+      "correct": true,
+      "group": 141,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 63.796377132131006,
+      "correct": false,
+      "group": 142,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "correct": false,
+      "group": 159,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "correct": false,
+      "group": 160,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "correct": false,
+      "group": 161,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "correct": false,
+      "group": 162,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 133.53623082168744,
+      "correct": false,
+      "group": 183,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 134.91456415501955,
+      "correct": true,
+      "group": 184,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 136.7612308216845,
+      "correct": false,
+      "group": 185,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 137.70623082168368,
+      "correct": true,
+      "group": 186,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 140.38206415501455,
+      "correct": false,
+      "group": 187,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 141.74789748834667,
+      "correct": true,
+      "group": 188,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 143.16539748834535,
+      "correct": false,
+      "group": 189,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 148.53460232296092,
+      "correct": false,
+      "group": 195,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 151.62304,
+      "correct": false,
+      "group": 196,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 154.60330461303727,
+      "correct": false,
+      "group": 197,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 157.69490766647237,
+      "correct": false,
+      "group": 198,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 191.66181,
+      "correct": true,
+      "group": 215,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 32.37930000000051
+    },
+    {
+      "section": "LAST WORD",
+      "time": 192.98838999999998,
+      "correct": false,
+      "group": 216,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 195.5546786588388,
+      "correct": true,
+      "group": 217,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11539999999513
+    },
+    {
+      "section": "LAST WORD",
+      "time": 197.08907,
+      "correct": false,
+      "group": 218,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 198.67587,
+      "correct": true,
+      "group": 219,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 75.37120000000141
+    },
+    {
+      "section": "LAST WORD",
+      "time": 200.35165999999998,
+      "correct": false,
+      "group": 220,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 201.69862,
+      "correct": true,
+      "group": 221,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11540000000241
+    },
+    {
+      "section": "LAST WORD",
+      "time": 203.26503,
+      "correct": false,
+      "group": 222,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    }
+  ],
+  "limitations": [
+    "Recorded-route finite-body collision audit, not native completion verification.",
+    "Ship/UFO/ball acceleration and portal contact offsets need native testing.",
+    "Target difficulty is not a measured or assigned demon rating."
+  ],
+  "regressions": {
+    "file": "v8-1573528-refined.gmd",
+    "sha256": "b43677e77912843af1e36e1be617e609163feb41fb44971b6ad3001aa59e6177",
+    "native_size_state": {
+      "mismatched_samples": {},
+      "sample_count": 49395,
+      "mini_orb_inputs": 0,
+      "orb_inputs": 36,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "CUTWIRE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "SWITCHYARD",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "BLINDFOLD",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "OFFBEAT",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "PARALLAX",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "CROSSCODE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "FAULTLINE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "NEEDLEWORK",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "COUNTERFEIT",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "FALSE FLOOR",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "UNDERTOW",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "RECALL",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "LAST WORD",
+          "initial_mini": false,
+          "final_mini": false
+        }
+      ],
+      "native_size_portals": [
+        {
+          "x": 3687.69582,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 6448.53857,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 9210.89182,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 13520.50702,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 13776.05002,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 17458.68418,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 22023.84239,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 24784.68513,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 28465.8088,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 29379.81071,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 30300.09163,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 31105.33743,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 31795.54812,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 31939.72546,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 32146.93246,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 34907.77521,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 38588.89887,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 42270.02254,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 45951.1462,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 49632.26987,
+          "id": 99,
+          "size": "normal"
+        }
+      ]
+    },
+    "old_file_regression": {
+      "mismatched_samples": {
+        "cube": 8212,
+        "ufo": 6652,
+        "ship": 6652,
+        "spider": 6178,
+        "wave": 3349,
+        "robot": 2654,
+        "ball": 3527
+      },
+      "sample_count": 49395,
+      "mini_orb_inputs": 27,
+      "orb_inputs": 36,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "CUTWIRE",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "SWITCHYARD",
+          "initial_mini": false,
+          "final_mini": false
+        },
+        {
+          "section": "BLINDFOLD",
+          "initial_mini": false,
+          "final_mini": true
+        },
+        {
+          "section": "OFFBEAT",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "PARALLAX",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "CROSSCODE",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "FAULTLINE",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "NEEDLEWORK",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "COUNTERFEIT",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "FALSE FLOOR",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "UNDERTOW",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "RECALL",
+          "initial_mini": true,
+          "final_mini": true
+        },
+        {
+          "section": "LAST WORD",
+          "initial_mini": true,
+          "final_mini": true
+        }
+      ],
+      "native_size_portals": [
+        {
+          "x": 13520.50702,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 29379.81071,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 30300.09163,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 31105.33743,
+          "id": 99,
+          "size": "normal"
+        },
+        {
+          "x": 31795.54812,
+          "id": 101,
+          "size": "mini"
+        },
+        {
+          "x": 31939.72546,
+          "id": 101,
+          "size": "mini"
+        }
+      ]
+    },
+    "second_wave_size_changes": [
+      {
+        "time": 109.92483131734403,
+        "id": 101,
+        "size": "mini",
+        "wave_slope": 2
+      },
+      {
+        "time": 113.58895347055314,
+        "id": 99,
+        "size": "normal",
+        "wave_slope": 1
+      },
+      {
+        "time": 116.79506033470348,
+        "id": 101,
+        "size": "mini",
+        "wave_slope": 2
+      },
+      {
+        "time": 119.54315194961032,
+        "id": 99,
+        "size": "normal",
+        "wave_slope": 1
+      }
+    ],
+    "camera_refreshes": [
+      {
+        "section": "CIPHER",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 1.0,
+        "target_group": 900
+      },
+      {
+        "section": "CUTWIRE",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 3728.41682,
+        "target_group": 901
+      },
+      {
+        "section": "SWITCHYARD",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 6489.25957,
+        "target_group": 902
+      },
+      {
+        "section": "BLINDFOLD",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 9250.10232,
+        "target_group": 903
+      },
+      {
+        "section": "OFFBEAT",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 13816.77102,
+        "target_group": 904
+      },
+      {
+        "section": "PARALLAX",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 17497.89468,
+        "target_group": 905
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 22064.56339,
+        "target_group": 906
+      },
+      {
+        "section": "CROSSCODE",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 24825.40613,
+        "target_group": 907
+      },
+      {
+        "section": "FAULTLINE",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 28506.5298,
+        "target_group": 908
+      },
+      {
+        "section": "NEEDLEWORK",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 32187.65346,
+        "target_group": 909
+      },
+      {
+        "section": "COUNTERFEIT",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 34948.49621,
+        "target_group": 910
+      },
+      {
+        "section": "FALSE FLOOR",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 38629.61987,
+        "target_group": 911
+      },
+      {
+        "section": "UNDERTOW",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 42310.74354,
+        "target_group": 912
+      },
+      {
+        "section": "RECALL",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 45991.8672,
+        "target_group": 913
+      },
+      {
+        "section": "LAST WORD",
+        "target_y": 150,
+        "zoom": 0.82,
+        "trigger_x": 49672.99087,
+        "target_group": 914
+      }
+    ],
+    "nonship_preservation": [
+      {
+        "section": "CIPHER",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "CUTWIRE",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "SWITCHYARD",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "BLINDFOLD",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "OFFBEAT",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "CROSSCODE",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "FAULTLINE",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "RECALL",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      },
+      {
+        "section": "LAST WORD",
+        "native_gameplay_preserved": true,
+        "inputs_preserved": true
+      }
+    ],
+    "ships": [
+      {
+        "section": "PARALLAX",
+        "continuous_bank_segments": 169,
+        "solid_bank_gap_min": 63.60590277777774,
+        "solid_bank_gap_max": 91.06944444444446,
+        "spike_projection_per_bank": 12,
+        "note": "World-unit geometric gaps, not a measured native input window or difficulty rating."
+      },
+      {
+        "section": "UNDERTOW",
+        "continuous_bank_segments": 136,
+        "solid_bank_gap_min": 67.86805555555557,
+        "solid_bank_gap_max": 97.86284722222221,
+        "spike_projection_per_bank": 12,
+        "note": "World-unit geometric gaps, not a measured native input window or difficulty rating."
+      }
+    ],
+    "limitations": [
+      "No damage-enabled native completion run is claimed.",
+      "State trace uses portal centre positions. Exact native contact offsets remain unmeasured.",
+      "The camera probe was visually inspected in cube, ship and wave; final complete-level framing is not a full native recording."
+    ]
+  },
+  "independent_model_replay": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "BLINDFOLD",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 67.13622949008011,
+      "samples": 3318
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 241.7809180293776,
+      "samples": 3304
+    },
+    {
+      "section": "PARALLAX",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 145.67760002127625,
+      "samples": 3302
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3530
+    },
+    {
+      "section": "FAULTLINE",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 88.8440069939506,
+      "samples": 3325
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 201.56830759659718,
+      "samples": 3305
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3527
+    },
+    {
+      "section": "UNDERTOW",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 173.75770784300627,
+      "samples": 3302
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    }
+  ],
+  "native_validation": {
+    "imported": true,
+    "imported_objects": 21228,
+    "object_id_counts_match": true,
+    "size_portals_and_camera_settings_survive_import": true,
+    "opening_visually_inspected": true,
+    "camera_probe": {
+      "modes_inspected": [
+        "cube",
+        "ship",
+        "wave"
+      ],
+      "refreshed_ship_and_wave_reference_rows_match": true,
+      "measurements": {
+        "before_ship": {
+          "image": "camera-ship-native.png",
+          "white_reference_rows": [
+            134.5,
+            195.0,
+            438.5,
+            681.5
+          ],
+          "height": 768,
+          "width": 1224
+        },
+        "after_ship": {
+          "image": "camera-refresh-ship-native.png",
+          "white_reference_rows": [
+            127.5,
+            371.0,
+            614.5
+          ],
+          "height": 768,
+          "width": 1223
+        },
+        "after_wave": {
+          "image": "camera-refresh-wave-native.png",
+          "white_reference_rows": [
+            127.5,
+            371.0,
+            614.5
+          ],
+          "height": 768,
+          "width": 1223
+        }
+      }
+    },
+    "full_completion_verified": false,
+    "difficulty_verified": false,
+    "note": "Native visual inspection used the existing Ignore Damage editor setting. It is not completion verification."
+  }
+}

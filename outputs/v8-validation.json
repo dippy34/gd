@@ -1,0 +1,113 @@
+{
+  "file": "v8.gmd",
+  "internal_name": "v8",
+  "seconds": 259.89270588235297,
+  "objects": 49645,
+  "high_detail_objects": 16145,
+  "black_holes": 0,
+  "modes": [
+    "ball",
+    "cube",
+    "robot",
+    "ship",
+    "spider",
+    "ufo",
+    "wave"
+  ],
+  "mode_changes": 26,
+  "previous_mode_changes": 45,
+  "repeated_three_mode_sequences": 0,
+  "structure_styles": [
+    "terraces",
+    "vaults",
+    "cathedral",
+    "broken ribs",
+    "shelves",
+    "porticoes",
+    "slalom",
+    "bridges",
+    "viaduct",
+    "stepped canopy",
+    "terraced channel",
+    "staggered floors",
+    "hangars",
+    "alternating islands",
+    "arches",
+    "cantilevers",
+    "stepping stones",
+    "island flight",
+    "stacked platforms",
+    "canal",
+    "frame rooms",
+    "offset arches",
+    "window bays",
+    "long rails",
+    "split chambers",
+    "buttresses",
+    "cascade"
+  ],
+  "structural_clusters": 88,
+  "source_unchanged": true,
+  "export_round_trip": true,
+  "chapters": [
+    "IGNITION",
+    "BREACH",
+    "THE LOOM",
+    "RECHARGE",
+    "OVERDRIVE",
+    "SUSPENSION",
+    "RETURN",
+    "RELEASE"
+  ],
+  "gravity_looms": 3,
+  "blue_orbs": 6,
+  "inverted_portals": 6,
+  "moving_scenery": 58,
+  "move_triggers": 192,
+  "rotate_triggers": 34,
+  "motion_targets_only_noncolliding_decoration": true,
+  "nominal_model_sections": 27,
+  "ground_model_reports": [
+    "full-path-checks.json",
+    "full-path-checks--0.025-1.json",
+    "full-path-checks-0.025-1.json",
+    "full-path-checks-0.0-1.03.json",
+    "full-path-checks-0.0-0.97.json"
+  ],
+  "wave_models": [
+    {
+      "section": "rupture",
+      "variants": 63,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 14.222
+    },
+    {
+      "section": "flare",
+      "variants": 69,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 18.629
+    },
+    {
+      "section": "shear",
+      "variants": 77,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 11.239
+    },
+    {
+      "section": "return",
+      "variants": 63,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 9.614
+    },
+    {
+      "section": "supernova",
+      "variants": 59,
+      "single_turn_offset_ms": 25,
+      "minimum_clearance": 9.95
+    }
+  ],
+  "limits": "Ground physics and flight control models are approximations. These checks do not establish native completion or a rating.",
+  "native_import_verified": false,
+  "native_full_playthrough": false,
+  "sha256": "5c4637238daf2aabb31327ceb9aad94ae025d3e8acc385a727cb216ce68b67b7"
+}

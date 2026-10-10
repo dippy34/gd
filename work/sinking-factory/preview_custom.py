@@ -1,0 +1,48 @@
+from pathlib import Path
+import os,sys,json,math
+from PIL import Image,ImageDraw
+ROOT=Path(__file__).resolve().parents[2];HERE=Path(__file__).parent
+os.environ['GD_PREVIEW_PLAN']=str(HERE/'custom-manifest.json');os.environ['GD_PREVIEW_LEVEL']=str(HERE/'custom.level')
+sys.path.insert(0,str(ROOT/'work'))
+import preview_memory as P
+R=P.R
+R.SHEETS += ['FireSheet_01','GJ_ParticleSheet'];R.load_atlas()
+# Pit-slope textures are horizontal in the atlas; their native default tilt is
+# separate from serialized rotation. These diagnostic tilts follow the source
+# slope dimensions and the diagonal teeth visible in native-play-ship.png.
+# The .gmd keeps the original native objects and all their physical properties.
+for oid,tilt in [(1717,45),(1718,math.degrees(math.atan(.5)))]:
+ spr=R.sprite(P.names[oid]);nm=f'__pit_default_{oid}'
+ R._cache[nm]=spr.rotate(tilt,expand=True,resample=Image.Resampling.BICUBIC)
+ P.names[oid]=nm
+for o in P.objs:
+ if o["1"]=="899" and "23" not in o:o["23"]="1000"
+# Native GD draws these legacy geometric objects procedurally. Diagnostic-only
+# masks reproduce their dimensions; they are not objects added to the .gmd.
+for oid,w,h,shape in [(94,30,30,'square'),(1338,30,30,'slope'),(1339,60,30,'slope'),(468,30,1.5,'square')]:
+ im=Image.new('RGBA',(int(w*4),max(1,int(h*4))),(0,0,0,0));d=ImageDraw.Draw(im)
+ if shape=='slope':d.line([(0,h*4-1),(w*4-1,0),(w*4-1,h*4-1),(0,h*4-1)],fill='white',width=3)
+ else:d.rectangle((0,0,w*4-1,h*4-1),fill='white')
+ im=im.resize((int(w*2),max(1,int(h*2))))
+ nm=f'__geo_{oid}';R._cache[nm]=im;P.names[oid]=nm
+# Portal colors are intrinsic; default block colors do not tint these sprites.
+for o in P.objs:
+ if o['1'] in ['10','11','12','13','47','111','660','745','1331','99','101','200','201','202','203','1334','36','84','141','1330','1333','1704','1751']:
+  o['21']='1010';o['22']='1010'
+# White diagnostic channel solely for native portal sprites.
+P.head+=',kSdummy,0'
+shots=[("Screenshot spikes",21570,310,1.6),("Cube floor",22475,85,1.35),("Pressure switches",22130,350,1.1),("Custom wave gate",18195,200,1.3),("Custom UFO gate",22665,120,1.3),("Exit",24725,245,1)]
+rows=[]
+for name,x,y,zoom in shots:
+ oo,pal=P.snapshot(x);pal._c[1010]=((255,255,255),False,1)
+ oo=[o for o in oo if int(o['1']) not in [1755,2909,2921,1520,1934] and not P.names.get(int(o['1']),'').startswith('edit_')]
+ # Match aspect and serialized zoom, with center bounded to local gameplay.
+ hw=285/zoom;hh=160/zoom
+ f=HERE/f"custom-{name.replace(' ','-').lower()}.png"
+ R.render(oo,pal,P.names,x-hw,x+hw,y-hh,y+hh,ppu=1.7,bg=(12,7,7),out=str(f))
+ rows.append((name,Image.open(f)))
+ print('rendered',name,flush=True)
+out=Image.new('RGB',(1500,math.ceil(len(shots)/2)*450),(8,13,16));d=ImageDraw.Draw(out)
+for i,(name,im) in enumerate(rows):
+ im=im.resize((750,421));xx=i%2*750;yy=i//2*450;out.paste(im,(xx,yy+29));d.text((xx+12,yy+8),name+' / atlas diagnostic; native shaders not simulated',fill=(176,192,185))
+out.save(HERE/'custom-sheet.png')

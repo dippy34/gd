@@ -1,0 +1,245 @@
+[
+  {
+    "section": "CIPHER",
+    "mode": "cube",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3530
+  },
+  {
+    "section": "CUTWIRE",
+    "mode": "robot",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "spike collision": 13
+    },
+    "first": {
+      "spike collision": {
+        "t": 16.454538709729395,
+        "y": 79.93500000000513,
+        "x": 4132.721942335635,
+        "object": 770
+      }
+    },
+    "exit_y": 15.0,
+    "samples": 2652
+  },
+  {
+    "section": "SWITCHYARD",
+    "mode": "ball",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2643
+  },
+  {
+    "section": "BLINDFOLD",
+    "mode": "wave",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "solid collision": 592
+    },
+    "first": {
+      "solid collision": {
+        "t": 37.17048333333338,
+        "y": 143.19276246371746,
+        "x": 9367.646078845186,
+        "object": 1525
+      }
+    },
+    "exit_y": 67.13622949008003,
+    "samples": 3318
+  },
+  {
+    "section": "OFFBEAT",
+    "mode": "ufo",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 246.14183015174214,
+    "samples": 3303
+  },
+  {
+    "section": "PARALLAX",
+    "mode": "ship",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "spike collision": 788,
+      "solid collision": 836
+    },
+    "first": {
+      "spike collision": {
+        "t": 71.73119901506766,
+        "y": 277.9965268517078,
+        "x": 19250.52883279201,
+        "object": 6143
+      },
+      "solid collision": {
+        "t": 73.23953234839962,
+        "y": 284.9218750000001,
+        "x": 19720.495332791583,
+        "object": 6042
+      }
+    },
+    "exit_y": 239.34383742704622,
+    "samples": 3305
+  },
+  {
+    "section": "BLIND ELEVATOR",
+    "mode": "spider",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2646
+  },
+  {
+    "section": "CROSSCODE",
+    "mode": "cube",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "solid collision": 162
+    },
+    "first": {
+      "solid collision": {
+        "t": 92.98207333333308,
+        "y": 195.51971999997176,
+        "x": 25124.467614735808,
+        "object": 6983
+      }
+    },
+    "exit_y": 15.0,
+    "samples": 3530
+  },
+  {
+    "section": "FAULTLINE",
+    "mode": "wave",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "solid collision": 735
+    },
+    "first": {
+      "solid collision": {
+        "t": 106.9190099999998,
+        "y": 67.31683063846067,
+        "x": 28624.868627935823,
+        "object": 7366
+      }
+    },
+    "exit_y": 68.75120699395471,
+    "samples": 3325
+  },
+  {
+    "section": "NEEDLEWORK",
+    "mode": "robot",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "spike collision": 12
+    },
+    "first": {
+      "spike collision": {
+        "t": 125.51550563084874,
+        "y": 34.299000000157235,
+        "x": 33295.56447057984,
+        "object": 8958
+      }
+    },
+    "exit_y": 15.0,
+    "samples": 2654
+  },
+  {
+    "section": "COUNTERFEIT",
+    "mode": "ufo",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "spike collision": 159,
+      "solid collision": 148
+    },
+    "first": {
+      "spike collision": {
+        "t": 136.55539749030143,
+        "y": 265.0881286404555,
+        "x": 36068.34370999998,
+        "object": 9428
+      },
+      "solid collision": {
+        "t": 142.4978974883457,
+        "y": 285.28425614420445,
+        "x": 37560.86200950878,
+        "object": 9149
+      }
+    },
+    "exit_y": 375.7917794752506,
+    "samples": 3305
+  },
+  {
+    "section": "FALSE FLOOR",
+    "mode": "ball",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3527
+  },
+  {
+    "section": "UNDERTOW",
+    "mode": "ship",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {
+      "solid collision": 1195,
+      "spike collision": 255
+    },
+    "first": {
+      "solid collision": {
+        "t": 165.28587458758827,
+        "y": 46.56944925936661,
+        "x": 43284.290337754544,
+        "object": 10230
+      },
+      "spike collision": {
+        "t": 165.66920792092125,
+        "y": 38.65278259271435,
+        "x": 43380.568337754456,
+        "object": 10348
+      }
+    },
+    "exit_y": 254.30932467772868,
+    "samples": 3303
+  },
+  {
+    "section": "RECALL",
+    "mode": "spider",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3530
+  },
+  {
+    "section": "LAST WORD",
+    "mode": "cube",
+    "offset": -0.02,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3529
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "primary_field": 20,
+  "secondary_field": 61,
+  "legend_layer": 99,
+  "sections": [
+    {
+      "name": "Ship",
+      "whole_section_layer": 90,
+      "detail_layers": [
+        100,
+        109
+      ],
+      "object_count": 11094
+    },
+    {
+      "name": "Wave",
+      "whole_section_layer": 91,
+      "detail_layers": [
+        110,
+        119
+      ],
+      "object_count": 13317
+    },
+    {
+      "name": "Robot",
+      "whole_section_layer": 92,
+      "detail_layers": [
+        120,
+        129
+      ],
+      "object_count": 6235
+    },
+    {
+      "name": "Press and cube",
+      "whole_section_layer": 93,
+      "detail_layers": [
+        130,
+        139
+      ],
+      "object_count": 6243
+    },
+    {
+      "name": "UFO",
+      "whole_section_layer": 94,
+      "detail_layers": [
+        140,
+        149
+      ],
+      "object_count": 13147
+    },
+    {
+      "name": "Factory exit",
+      "whole_section_layer": 95,
+      "detail_layers": [
+        150,
+        159
+      ],
+      "object_count": 494
+    }
+  ],
+  "types": [
+    "Gameplay collision",
+    "Portals orbs and frames",
+    "Block bodies",
+    "Block surface details",
+    "Spike and hazard skins",
+    "Room background",
+    "Machinery and supports",
+    "Fire glow and light",
+    "Ash smoke and soot",
+    "Triggers and pivots"
+  ],
+  "counts": {
+    "101": 241,
+    "109": 243,
+    "100": 101,
+    "111": 206,
+    "110": 287,
+    "119": 388,
+    "129": 191,
+    "121": 324,
+    "120": 320,
+    "130": 110,
+    "131": 565,
+    "139": 149,
+    "159": 15,
+    "151": 2,
+    "141": 129,
+    "140": 199,
+    "150": 12,
+    "149": 288,
+    "105": 493,
+    "107": 3440,
+    "115": 840,
+    "117": 421,
+    "125": 384,
+    "127": 1066,
+    "135": 291,
+    "137": 1535,
+    "145": 658,
+    "147": 3373,
+    "155": 205,
+    "157": 6,
+    "106": 1022,
+    "116": 2058,
+    "126": 984,
+    "136": 678,
+    "146": 1829,
+    "156": 29,
+    "112": 660,
+    "102": 273,
+    "103": 3202,
+    "113": 4944,
+    "122": 298,
+    "123": 938,
+    "114": 196,
+    "124": 85,
+    "134": 390,
+    "108": 2079,
+    "118": 3317,
+    "128": 1645,
+    "138": 1233,
+    "148": 2486,
+    "143": 1959,
+    "144": 2226,
+    "153": 99,
+    "154": 126,
+    "132": 222,
+    "133": 1070
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "kind": "flip",
+    "count": 78,
+    "median_onset_distance_ms": 0.0,
+    "within_30ms": 43
+  },
+  {
+    "kind": "hold",
+    "count": 31,
+    "median_onset_distance_ms": 0.0,
+    "within_30ms": 25
+  },
+  {
+    "kind": "hop",
+    "count": 46,
+    "median_onset_distance_ms": 51.08,
+    "within_30ms": 22
+  },
+  {
+    "kind": "jump",
+    "count": 47,
+    "median_onset_distance_ms": 0.0,
+    "within_30ms": 44
+  },
+  {
+    "kind": "memory",
+    "count": 13,
+    "median_onset_distance_ms": 160.66,
+    "within_30ms": 2
+  },
+  {
+    "kind": "orb",
+    "count": 23,
+    "median_onset_distance_ms": 160.0,
+    "within_30ms": 1
+  },
+  {
+    "kind": "thrust",
+    "count": 165,
+    "median_onset_distance_ms": 108.34,
+    "within_30ms": 49
+  },
+  {
+    "kind": "turn",
+    "count": 78,
+    "median_onset_distance_ms": 0.0,
+    "within_30ms": 62
+  }
+]

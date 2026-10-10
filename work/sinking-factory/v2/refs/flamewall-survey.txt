@@ -1,0 +1,187 @@
+objects 413736
+header keys {'kS38': 6631, 'kA13': '0', 'kA15': '0', 'kA16': '0', 'kA14': '45.55~0~48.95~0~49.07~0~49.20~0~', 'kA6': '7', 'kA7': '1', 'kA25': '0', 'kA17': '1', 'kA18': '11', 'kS39': '18', 'kA2': '1', 'kA3': '0', 'kA8': '0', 'kA4': '1', 'kA9': '0', 'kA10': '0', 'kA22': '0', 'kA23': '0', 'kA24': '0', 'kA27': '0', 'kA40': '1', 'kA48': '0', 'kA41': '0', 'kA42': '0', 'kA28': '0', 'kA29': '0', 'kA31': '0', 'kA32': '0', 'kA36': '0', 'kA43': '0', 'kA44': '0', 'kA45': '0', 'kA46': '0', 'kA47': '0', 'kA33': '1', 'kA34': '0', 'kA35': '0', 'kA37': '0', 'kA38': '0', 'kA39': '0', 'kA19': '0', 'kA26': '0', 'kA20': '0', 'kA21': '0', 'kA11': '0'}
+
+TOP IDS
+  1011   18985   4.6%  d_gradient_c_01_001.png
+   211   17312   4.2%  lightsquare_01_05_color_001.png
+  1888   14517   3.5%  emptyFrame.png
+   503   13276   3.2%  d_gradient_01_001.png
+  1292   12152   2.9%  d_gradient_b_06_001.png
+  1006   10159   2.5%  edit_ePulseBtn_001.png
+   504    7087   1.7%  d_gradient_02_001.png
+   468    6612   1.6%  ?
+   507    5977   1.4%  ?
+   694    5819   1.4%  lighttriangle_01_04_color_001.png
+   508    5405   1.3%  ?
+  1886    4382   1.1%  ?
+  1764    4318   1.0%  d_small_ball_01_001.png
+   579    4302   1.0%  ?
+  1754    4273   1.0%  gridLine02_001.png
+  1009    4220   1.0%  d_gradient_b_02_001.png
+   472    4164   1.0%  blockOutline_06_001.png
+  1012    4068   1.0%  d_gradient_c_02_001.png
+  1270    3985   1.0%  d_gradient_c_05_001.png
+   458    3953   1.0%  colorSpike_04_001.png
+   120    3699   0.9%  square_f_05_001.png
+    94    3401   0.8%  ?
+  1202    3220   0.8%  ?
+   218    3157   0.8%  colorSpike_03_001.png
+   469    3030   0.7%  blockOutline_03_001.png
+   498    2986   0.7%  d_03_chain_01_001.png
+   471    2955   0.7%  blockOutline_05_001.png
+   216    2944   0.7%  colorSpike_01_001.png
+  1007    2805   0.7%  edit_eAlphaBtn_001.png
+   899    2484   0.6%  ?
+  1767    2436   0.6%  d_small_ball_04_001.png
+  1293    2384   0.6%  d_gradient_c_06_001.png
+  1274    2323   0.6%  d_gradient_05_001.png
+  1715    2283   0.6%  pit_01_001.png
+  1760    2261   0.5%  ?
+   245    2249   0.5%  square_f_brick01_001.png
+   259    2077   0.5%  lightsquare_03_05_color_001.png
+  1203    2069   0.5%  blockOutlineThick_02_001.png
+   688    2022   0.5%  ?
+   470    1995   0.5%  blockOutline_04_001.png
+  1719    1988   0.5%  pit_04_001.png
+  1220    1943   0.5%  ?
+   170    1930   0.5%  square_h_01_001.png
+   506    1922   0.5%  ?
+  1887    1793   0.4%  ?
+  1209    1787   0.4%  blockOutlineThick_08_001.png
+   127    1729   0.4%  ?
+   917    1722   0.4%  d_whiteBlock_02_001.png
+  1718    1719   0.4%  pit_01_slope_02_001.png
+   698    1709   0.4%  lighttriangle_03_04_color_001.png
+   273    1670   0.4%  lightsquare_05_05_color_001.png
+   328    1657   0.4%  triangle_h_square_01_001.png
+    73    1573   0.4%  square_c_05_001.png
+   693    1514   0.4%  lighttriangle_01_02_color_001.png
+  1339    1501   0.4%  ?
+  1205    1463   0.4%  blockOutlineThick_04_001.png
+   891    1449   0.4%  block009c_02_001.png
+  1766    1417   0.3%  d_small_ball_03_001.png
+   916    1390   0.3%  d_whiteBlock_01_001.png
+   668    1349   0.3%  ?
+   148    1334   0.3%  ?
+   583    1323   0.3%  ?
+  1892    1307   0.3%  ?
+  1154    1304   0.3%  smallOutline_01_001.png
+  1338    1268   0.3%  ?
+  1291    1258   0.3%  d_gradient_06_001.png
+  1142    1239   0.3%  square_g_05_001.png
+  1889    1231   0.3%  fakeSpike_01_001.png
+  1753    1193   0.3%  gridLine01_001.png
+  1158    1192   0.3%  smallOutline_05_001.png
+
+x range -2895.0 195812.0 y range -1789.48 2460.0
+
+kS38 channels 100
+1 rgb 0 0 0  op 1 copy None hsv None
+2 rgb 0 0 0  op 1 copy None hsv None
+3 rgb 255 255 255  op 1 copy 1004 hsv None
+15 rgb 32 31 31  op 1 copy None hsv None
+26 rgb 255 0 196  op 1 copy None hsv None
+29 rgb 0 0 0 blend op 1 copy None hsv None
+34 rgb 40 40 41 blend op 1 copy None hsv None
+65 rgb 2 2 2  op 1 copy None hsv None
+66 rgb 11 11 11  op 1 copy None hsv None
+67 rgb 0 0 0  op 1 copy None hsv None
+68 rgb 0 0 0  op 1 copy None hsv None
+69 rgb 79 8 0 blend op 1 copy None hsv None
+73 rgb 0 0 0 blend op 1 copy None hsv None
+74 rgb 0 0 0 blend op 1 copy None hsv None
+79 rgb 0 0 0 blend op 1 copy None hsv None
+81 rgb 25 24 24 blend op 1 copy None hsv None
+82 rgb 25 24 24 blend op 1 copy None hsv None
+83 rgb 25 24 24 blend op 1 copy None hsv None
+84 rgb 25 24 24 blend op 1 copy None hsv None
+86 rgb 0 0 0 blend op 1 copy None hsv None
+89 rgb 0 0 0 blend op 1 copy None hsv None
+98 rgb 255 189 144  op 1 copy 1004 hsv None
+99 rgb 36 14 0 blend op 1 copy None hsv None
+100 rgb 67 27 1 blend op 1 copy None hsv None
+101 rgb 116 46 0 blend op 1 copy None hsv None
+102 rgb 145 61 5 blend op 1 copy None hsv None
+103 rgb 255 125 38 blend op 1 copy None hsv None
+104 rgb 10 3 0  op 0.864589 copy None hsv None
+105 rgb 83 44 21  op 1 copy None hsv None
+106 rgb 0 0 0 blend op 1 copy None hsv None
+107 rgb 255 255 255 blend op 1 copy 1000 hsv None
+108 rgb 255 255 255  op 1 copy 1000 hsv None
+109 rgb 45 2 0  op 1 copy None hsv None
+110 rgb 123 49 36  op 1 copy None hsv None
+111 rgb 9 9 9 blend op 1 copy None hsv None
+112 rgb 9 9 9 blend op 1 copy None hsv None
+113 rgb 9 9 9 blend op 1 copy None hsv None
+114 rgb 9 9 9 blend op 1 copy None hsv None
+129 rgb 0 0 0 blend op 1 copy None hsv None
+145 rgb 0 0 0 blend op 1 copy None hsv None
+146 rgb 0 0 0  op 0 copy None hsv None
+147 rgb 0 0 0  op 0 copy None hsv None
+196 rgb 0 0 0  op 0 copy None hsv None
+198 rgb 0 0 0  op 0 copy None hsv None
+213 rgb 0 0 0  op 0 copy None hsv None
+214 rgb 0 0 0  op 0 copy None hsv None
+215 rgb 0 0 0  op 0 copy None hsv None
+216 rgb 0 0 0  op 0 copy None hsv None
+229 rgb 0 0 0  op 0 copy None hsv None
+230 rgb 0 0 0  op 0 copy None hsv None
+231 rgb 0 0 0  op 0 copy None hsv None
+232 rgb 0 0 0  op 0 copy None hsv None
+233 rgb 0 0 0  op 0 copy None hsv None
+234 rgb 0 0 0 blend op 1 copy None hsv None
+242 rgb 0 0 0 blend op 1 copy None hsv None
+246 rgb 0 0 0  op 0.5 copy None hsv None
+247 rgb 0 0 0 blend op 1 copy None hsv None
+248 rgb 0 0 0 blend op 1 copy None hsv None
+249 rgb 0 0 0 blend op 1 copy None hsv None
+250 rgb 0 0 0 blend op 1 copy None hsv None
+260 rgb 0 0 0 blend op 1 copy None hsv None
+261 rgb 0 0 0 blend op 1 copy None hsv None
+262 rgb 0 0 0 blend op 1 copy None hsv None
+263 rgb 0 0 0 blend op 1 copy None hsv None
+264 rgb 0 0 0 blend op 1 copy None hsv None
+265 rgb 0 0 0 blend op 1 copy None hsv None
+266 rgb 0 0 0 blend op 1 copy None hsv None
+267 rgb 0 0 0 blend op 1 copy None hsv None
+284 rgb 214 200 229  op 1 copy None hsv None
+318 rgb 160 130 188  op 1 copy None hsv None
+331 rgb 119 85 171  op 1 copy None hsv None
+332 rgb 253 236 226  op 1 copy None hsv None
+333 rgb 210 181 221  op 1 copy None hsv None
+334 rgb 216 177 220  op 1 copy None hsv None
+335 rgb 240 190 178  op 1 copy None hsv None
+336 rgb 183 137 114  op 1 copy None hsv None
+337 rgb 151 68 50  op 1 copy None hsv None
+338 rgb 165 129 180  op 1 copy None hsv None
+339 rgb 231 218 245  op 1 copy None hsv None
+340 rgb 233 166 158  op 1 copy None hsv None
+352 rgb 0 0 0  op 1 copy None hsv None
+374 rgb 60 0 0  op 1 copy None hsv None
+379 rgb 20 0 0  op 1 copy None hsv None
+433 rgb 233 0 0  op 1 copy None hsv None
+434 rgb 255 245 0  op 1 copy None hsv None
+1000 rgb 4 2 2  op 1 copy 86 hsv 0a1a0.2a0a0
+1001 rgb 0 0 0  op 1 copy None hsv None
+1002 rgb 243 239 238 blend op 1 copy 86 hsv None
+1003 rgb 240 145 116  op 1 copy None hsv None
+1004 rgb 45 45 46  op 1 copy None hsv None
+1005 rgb 255 0 0 blend op 1 copy None hsv None
+1006 rgb 255 255 0 blend op 1 copy None hsv None
+1007 rgb 255 255 255  op 1 copy None hsv None
+1008 rgb 255 255 255  op 1 copy None hsv None
+1009 rgb 0 0 0  op 1 copy None hsv None
+1010 rgb 255 255 255  op 1 copy None hsv None
+1011 rgb 255 255 255  op 1 copy None hsv None
+1012 rgb 255 255 255  op 1 copy None hsv None
+1013 rgb 40 125 255  op 1 copy None hsv None
+1014 rgb 40 125 255  op 1 copy None hsv None
+
+main colour channel usage top 40 [('def', 79976), ('1004', 34436), ('1', 24454), ('1010', 23336), ('477', 4902), ('627', 4460), ('2', 3882), ('425', 3107), ('440', 3052), ('8', 2783), ('388', 2727), ('490', 2727), ('424', 2696), ('564', 2596), ('531', 2527), ('268', 2456), ('881', 2370), ('320', 2357), ('762', 2274), ('353', 2261), ('574', 2240), ('237', 2197), ('475', 2142), ('251', 2110), ('344', 2042), ('252', 2031), ('270', 1992), ('473', 1977), ('166', 1907), ('713', 1879), ('904', 1878), ('865', 1823), ('421', 1793), ('341', 1759), ('626', 1758), ('150', 1746), ('681', 1746), ('269', 1704), ('544', 1689), ('201', 1672)]
+detail channel usage top 20 [('def', 379794), ('1', 3871), ('1010', 1672), ('1004', 1235), ('2', 826), ('133', 514), ('320', 514), ('544', 508), ('273', 496), ('713', 461), ('729', 443), ('8', 442), ('274', 428), ('475', 411), ('218', 396), ('490', 365), ('149', 355), ('779', 351), ('252', 344), ('166', 340)]
+
+z-layers [('-5', 1), ('-3', 25925), ('-1', 21882), ('0', 137196), ('1', 33393), ('3', 43135), ('5', 49865), ('7', 62211), ('9', 39467), ('10', 657), ('11', 4)]
+rotated 0.5725655973857726
+scale quantiles [-2.5, 0.5, 1.0, 1.0, 1.0, 3.0, 5.75, 55.0]
+
+trigger-ish ids [('1006', 10159), ('1007', 2805), ('899', 2484), ('1520', 819), ('914', 406), ('901', 204), ('1049', 116), ('1268', 62), ('2069', 42), ('22', 40), ('1612', 40), ('1613', 39), ('1346', 33), ('58', 30), ('32', 29), ('59', 29), ('23', 29), ('24', 28), ('2899', 25), ('55', 22), ('33', 18), ('27', 16), ('56', 14), ('1616', 13), ('28', 10), ('1812', 7), ('25', 5), ('57', 5), ('1934', 5), ('2066', 5), ('1814', 4), ('1819', 3), ('1347', 3), ('3602', 3), ('26', 2), ('1818', 1), ('3603', 1), ('3605', 1)]

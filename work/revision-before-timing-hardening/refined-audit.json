@@ -1,0 +1,535 @@
+{
+  "file": "v8-1573528-refined.gmd",
+  "sha256": "b43677e77912843af1e36e1be617e609163feb41fb44971b6ad3001aa59e6177",
+  "native_size_state": {
+    "mismatched_samples": {},
+    "sample_count": 49395,
+    "mini_orb_inputs": 0,
+    "orb_inputs": 36,
+    "rooms": [
+      {
+        "section": "CIPHER",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "CUTWIRE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "SWITCHYARD",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "BLINDFOLD",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "OFFBEAT",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "PARALLAX",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "CROSSCODE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "FAULTLINE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "NEEDLEWORK",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "COUNTERFEIT",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "FALSE FLOOR",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "UNDERTOW",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "RECALL",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "LAST WORD",
+        "initial_mini": false,
+        "final_mini": false
+      }
+    ],
+    "native_size_portals": [
+      {
+        "x": 3687.69582,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 6448.53857,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 9210.89182,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 13520.50702,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 13776.05002,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 17458.68418,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 22023.84239,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 24784.68513,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 28465.8088,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 29379.81071,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 30300.09163,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 31105.33743,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 31795.54812,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 31939.72546,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 32146.93246,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 34907.77521,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 38588.89887,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 42270.02254,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 45951.1462,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 49632.26987,
+        "id": 99,
+        "size": "normal"
+      }
+    ]
+  },
+  "old_file_regression": {
+    "mismatched_samples": {
+      "cube": 8212,
+      "ufo": 6652,
+      "ship": 6652,
+      "spider": 6178,
+      "wave": 3349,
+      "robot": 2654,
+      "ball": 3527
+    },
+    "sample_count": 49395,
+    "mini_orb_inputs": 27,
+    "orb_inputs": 36,
+    "rooms": [
+      {
+        "section": "CIPHER",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "CUTWIRE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "SWITCHYARD",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "BLINDFOLD",
+        "initial_mini": false,
+        "final_mini": true
+      },
+      {
+        "section": "OFFBEAT",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "PARALLAX",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "CROSSCODE",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "FAULTLINE",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "NEEDLEWORK",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "COUNTERFEIT",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "FALSE FLOOR",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "UNDERTOW",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "RECALL",
+        "initial_mini": true,
+        "final_mini": true
+      },
+      {
+        "section": "LAST WORD",
+        "initial_mini": true,
+        "final_mini": true
+      }
+    ],
+    "native_size_portals": [
+      {
+        "x": 13520.50702,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 29379.81071,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 30300.09163,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 31105.33743,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 31795.54812,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 31939.72546,
+        "id": 101,
+        "size": "mini"
+      }
+    ]
+  },
+  "second_wave_size_changes": [
+    {
+      "time": 109.92483131734403,
+      "id": 101,
+      "size": "mini",
+      "wave_slope": 2
+    },
+    {
+      "time": 113.58895347055314,
+      "id": 99,
+      "size": "normal",
+      "wave_slope": 1
+    },
+    {
+      "time": 116.79506033470348,
+      "id": 101,
+      "size": "mini",
+      "wave_slope": 2
+    },
+    {
+      "time": 119.54315194961032,
+      "id": 99,
+      "size": "normal",
+      "wave_slope": 1
+    }
+  ],
+  "camera_refreshes": [
+    {
+      "section": "CIPHER",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 1.0,
+      "target_group": 900
+    },
+    {
+      "section": "CUTWIRE",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 3728.41682,
+      "target_group": 901
+    },
+    {
+      "section": "SWITCHYARD",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 6489.25957,
+      "target_group": 902
+    },
+    {
+      "section": "BLINDFOLD",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 9250.10232,
+      "target_group": 903
+    },
+    {
+      "section": "OFFBEAT",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 13816.77102,
+      "target_group": 904
+    },
+    {
+      "section": "PARALLAX",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 17497.89468,
+      "target_group": 905
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 22064.56339,
+      "target_group": 906
+    },
+    {
+      "section": "CROSSCODE",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 24825.40613,
+      "target_group": 907
+    },
+    {
+      "section": "FAULTLINE",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 28506.5298,
+      "target_group": 908
+    },
+    {
+      "section": "NEEDLEWORK",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 32187.65346,
+      "target_group": 909
+    },
+    {
+      "section": "COUNTERFEIT",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 34948.49621,
+      "target_group": 910
+    },
+    {
+      "section": "FALSE FLOOR",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 38629.61987,
+      "target_group": 911
+    },
+    {
+      "section": "UNDERTOW",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 42310.74354,
+      "target_group": 912
+    },
+    {
+      "section": "RECALL",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 45991.8672,
+      "target_group": 913
+    },
+    {
+      "section": "LAST WORD",
+      "target_y": 150,
+      "zoom": 0.82,
+      "trigger_x": 49672.99087,
+      "target_group": 914
+    }
+  ],
+  "nonship_preservation": [
+    {
+      "section": "CIPHER",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "CUTWIRE",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "BLINDFOLD",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "OFFBEAT",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "CROSSCODE",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "FAULTLINE",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "RECALL",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    },
+    {
+      "section": "LAST WORD",
+      "native_gameplay_preserved": true,
+      "inputs_preserved": true
+    }
+  ],
+  "ships": [
+    {
+      "section": "PARALLAX",
+      "continuous_bank_segments": 169,
+      "solid_bank_gap_min": 63.60590277777774,
+      "solid_bank_gap_max": 91.06944444444446,
+      "spike_projection_per_bank": 12,
+      "note": "World-unit geometric gaps, not a measured native input window or difficulty rating."
+    },
+    {
+      "section": "UNDERTOW",
+      "continuous_bank_segments": 136,
+      "solid_bank_gap_min": 67.86805555555557,
+      "solid_bank_gap_max": 97.86284722222221,
+      "spike_projection_per_bank": 12,
+      "note": "World-unit geometric gaps, not a measured native input window or difficulty rating."
+    }
+  ],
+  "limitations": [
+    "No damage-enabled native completion run is claimed.",
+    "State trace uses portal centre positions. Exact native contact offsets remain unmeasured.",
+    "The camera probe was visually inspected in cube, ship and wave; final complete-level framing is not a full native recording."
+  ]
+}

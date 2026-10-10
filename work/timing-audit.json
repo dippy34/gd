@@ -1,0 +1,811 @@
+{
+  "file": "v8-1573528-timing.gmd",
+  "sha256": "325eb46a7e1ce583694d5056185172b168ada16471ee52e13cb2d7eaf865a3bc",
+  "native_size_state": {
+    "mismatched_samples": {},
+    "sample_count": 49395,
+    "mini_orb_inputs": 0,
+    "orb_inputs": 36,
+    "rooms": [
+      {
+        "section": "CIPHER",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "CUTWIRE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "SWITCHYARD",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "BLINDFOLD",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "OFFBEAT",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "PARALLAX",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "BLIND ELEVATOR",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "CROSSCODE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "FAULTLINE",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "NEEDLEWORK",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "COUNTERFEIT",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "FALSE FLOOR",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "UNDERTOW",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "RECALL",
+        "initial_mini": false,
+        "final_mini": false
+      },
+      {
+        "section": "LAST WORD",
+        "initial_mini": false,
+        "final_mini": false
+      }
+    ],
+    "native_size_portals": [
+      {
+        "x": 3687.69582,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 6448.53857,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 9210.89182,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 13520.50702,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 13776.05002,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 17458.68418,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 22023.84239,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 24784.68513,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 28465.8088,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 29379.81071,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 30300.09163,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 31105.33743,
+        "id": 101,
+        "size": "mini"
+      },
+      {
+        "x": 31795.54812,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 31939.72546,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 32146.93246,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 34907.77521,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 38588.89887,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 42270.02254,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 45951.1462,
+        "id": 99,
+        "size": "normal"
+      },
+      {
+        "x": 49632.26987,
+        "id": 99,
+        "size": "normal"
+      }
+    ]
+  },
+  "preserved_ship_wave_rooms": [
+    "BLINDFOLD",
+    "PARALLAX",
+    "FAULTLINE",
+    "UNDERTOW"
+  ],
+  "unchanged_input_score": true,
+  "unchanged_route_and_size_plan": true,
+  "camera_settings_preserved": true,
+  "features_by_mode": {
+    "cube": 157,
+    "robot": 93,
+    "ball": 90,
+    "ufo": 73,
+    "spider": 96
+  },
+  "purposeful_fakeout_count": 100,
+  "fakeouts": [
+    {
+      "section": "CIPHER",
+      "x": 440.2307364,
+      "y": 215.23166000000003,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 480.4163364,
+      "y": 47.53526000000002,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 1069.2132359999998,
+      "y": 212.87300000000073,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 1104.375636,
+      "y": 39.75500000000073,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 1580.4167651999999,
+      "y": 199.541,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 1623.1139652,
+      "y": 32.99966000000038,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 2221.9296372,
+      "y": 217.53044000000062,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 2259.6036372,
+      "y": 48.030440000000624,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 2793.27594,
+      "y": 208.91534000000064,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 2830.94994,
+      "y": 39.41534000000063,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CIPHER",
+      "x": 3369.6328848000003,
+      "y": 214.541,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 4107.6238476,
+      "y": 212.90850000000063,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 4290.748235465409,
+      "y": 45.58450000000234,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 4576.2281292,
+      "y": 240.79800000000034,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 4725.4071228,
+      "y": 40.6720000000012,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 5097.4579656000005,
+      "y": 236.0677500000011,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 5283.367065999761,
+      "y": 41.00350000000055,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 5556.0384515999995,
+      "y": 218.36925000000147,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 5806.686085200001,
+      "y": 50.096500000000894,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 6066.008467526478,
+      "y": 220.40850000000066,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CUTWIRE",
+      "x": 6257.7820032,
+      "y": 197.9547500000012,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 6701.237633999999,
+      "y": 202.18013194444148,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 6921.846531599999,
+      "y": 234.4928125000032,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 7245.1183911906,
+      "y": 52.8198680555585,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 7433.0525724,
+      "y": 35.50718749999682,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 7796.3178384,
+      "y": 232.18013194444148,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 8009.4095172,
+      "y": 226.9928125000032,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 8315.038586399998,
+      "y": 45.31986805551384,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 8585.7689736,
+      "y": 35.507187500045035,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "SWITCHYARD",
+      "x": 8888.891466,
+      "y": 224.68013194448616,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 13913.769418671613,
+      "y": 227.95599999999985,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 14499.80941867208,
+      "y": 88.84959999999917,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 14884.712118672345,
+      "y": 118.28279999999867,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 15181.080918672622,
+      "y": 85.89639999999827,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 15571.216118672892,
+      "y": 110.76759999999777,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 15856.073418673159,
+      "y": 87.5211999999974,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 16534.2054186737,
+      "y": 87.52119999999654,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "OFFBEAT",
+      "x": 16914.92211867396,
+      "y": 120.19359999999602,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "x": 22427.445064473042,
+      "y": 189.0,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "x": 22858.82674386235,
+      "y": 196.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "x": 23382.199292735877,
+      "y": 166.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "x": 23894.142774396703,
+      "y": 174.0,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "x": 24354.28323241197,
+      "y": 166.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 25040.119714735876,
+      "y": 201.42935999999779,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 25312.103390335873,
+      "y": 69.59514000000024,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 25783.83220645777,
+      "y": 84.3302400000008,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 26111.487903535875,
+      "y": 215.40485999999976,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 26528.626989535875,
+      "y": 77.89956000000748,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 26793.080888335877,
+      "y": 70.99050000001198,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 27285.409743535874,
+      "y": 207.10043999999252,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 27612.523039135875,
+      "y": 247.9893599999313,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "CROSSCODE",
+      "x": 28032.168701935876,
+      "y": 82.15206000000481,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 32511.471675535875,
+      "y": 207.3052500000156,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 32651.84751113587,
+      "y": 32.160500000008675,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 32975.062803535875,
+      "y": 225.58800000002253,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 33110.42799713587,
+      "y": 54.66050000000869,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 33374.89396370968,
+      "y": 195.27975000002266,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 33546.51208193588,
+      "y": 40.59050000002453,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 33892.22377553587,
+      "y": 236.8177500000089,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 34030.10056913587,
+      "y": 33.75350000000903,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 34353.31083833587,
+      "y": 224.20725000000857,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "NEEDLEWORK",
+      "x": 34498.71489713588,
+      "y": 29.439500000013094,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 35039.2156095111,
+      "y": 228.52159999999986,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 35608.511609510584,
+      "y": 86.19359999999917,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 36000.73980951027,
+      "y": 109.50999999999867,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 36189.319109510056,
+      "y": 240.82919999999868,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 36522.94330950979,
+      "y": 180.51239999999908,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 36820.35860950948,
+      "y": 213.54119999999955,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 37468.142109508895,
+      "y": 219.57120000000037,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 37734.790309508695,
+      "y": 118.72200000000012,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "COUNTERFEIT",
+      "x": 38025.92660950839,
+      "y": 90.0983999999997,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 38791.26785273587,
+      "y": 202.18013194439675,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 39023.041395770735,
+      "y": 211.99281250005146,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 39356.71991790814,
+      "y": 75.31986805560324,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 39568.18861553587,
+      "y": 73.00718749994854,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 39921.43008593587,
+      "y": 209.68013194439675,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 40194.66704993587,
+      "y": 204.49281250005146,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 40507.071062946314,
+      "y": 67.81986805560324,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 40710.88122113587,
+      "y": 65.50718749994854,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 41082.2466354654,
+      "y": 217.18013194439675,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 41323.743685847076,
+      "y": 219.49281250005146,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 41668.04695793587,
+      "y": 75.31986805560324,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "FALSE FLOOR",
+      "x": 41898.919258366164,
+      "y": 58.00718749994854,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 46326.49010264098,
+      "y": 181.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 46757.87178203029,
+      "y": 166.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 47304.06679913587,
+      "y": 174.0,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 47706.911476686786,
+      "y": 166.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 48221.22777113588,
+      "y": 36.0,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 48682.31483393588,
+      "y": 166.5,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "RECALL",
+      "x": 49202.3679652364,
+      "y": 174.0,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 49841.559395935874,
+      "y": 206.54520130944994,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 49872.366681535874,
+      "y": 213.93040130944996,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 50450.49430433587,
+      "y": 221.56836000000754,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 50486.41018433587,
+      "y": 244.39036000000752,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 51024.347183935875,
+      "y": 227.7518400000098,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 51057.75146393588,
+      "y": 237.23494000000983,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 51634.103385535884,
+      "y": 77.40500000001181,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 51886.37853593587,
+      "y": 214.971,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 52215.47850713588,
+      "y": 237.23494000000983,
+      "actual_solid_dead_end": true
+    },
+    {
+      "section": "LAST WORD",
+      "x": 52630.63342913588,
+      "y": 214.971,
+      "actual_solid_dead_end": true
+    }
+  ],
+  "limitations": [
+    "Static exported-state and geometry checks, not damage-enabled native completion."
+  ]
+}

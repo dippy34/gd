@@ -1,0 +1,1050 @@
+{
+  "file": "v8-1573528-nocturne.gmd",
+  "sha256": "9475e0337baeb567baf6fa5719a9dadd85f3b43b51786d9ed6e91c07636706cc",
+  "objects": 34010,
+  "song": 1573528,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "rooms": 15,
+  "modes": 7,
+  "nominal_inputs": 550,
+  "unchanged_input_score": true,
+  "unchanged_nonwave_collision_objects": true,
+  "wave_extra_clearance_per_side": 5.5,
+  "wave_gate_checks": [
+    {
+      "section": "BLINDFOLD",
+      "time": 39.92596,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 40.17118342340244,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 40.581992846343574,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 40.774559763347234,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 41.20462587798874,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 41.75055652143424,
+      "before_gap": 30.916430115239223,
+      "after_gap": 41.91643011523922
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 42.01122,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 42.2407,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001345
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 42.835034623094316,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 43.024392091481246,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 39.90345728479302,
+      "before_gap": 41.473750000015485,
+      "after_gap": 52.473750000015485
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 43.45765575807547,
+      "before_gap": 41.473750000015514,
+      "after_gap": 52.473750000015514
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 43.787426750441874,
+      "before_gap": 41.473750000015514,
+      "after_gap": 52.473750000015514
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 44.86376262830447,
+      "before_gap": 46.56150000002276,
+      "after_gap": 57.56150000002276
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 45.94009850616707,
+      "before_gap": 31.866699999973306,
+      "after_gap": 42.86669999997331
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 43.5675794221976,
+      "before_gap": 41.473750000015485,
+      "after_gap": 52.473750000015485
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 46.66376262830447,
+      "before_gap": 40.175500000014466,
+      "after_gap": 51.175500000014466
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 47.159577824117584,
+      "before_gap": 35.7719058686946,
+      "after_gap": 46.7719058686946
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 47.34957782411758,
+      "before_gap": 52.91224999999226,
+      "after_gap": 63.91224999999226
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 47.32325970357069,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 47.51325970357069,
+      "before_gap": 62.24575000003203,
+      "after_gap": 73.24575000003205
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.096736820202054,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001345
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.28673682020205,
+      "before_gap": 50.56150000002273,
+      "after_gap": 61.56150000002273
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.33102656922317,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.52102656922317,
+      "before_gap": 63.544000000033066,
+      "after_gap": 74.54400000003307
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.50754624314319,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.69754624314319,
+      "before_gap": 58.9822499999523,
+      "after_gap": 69.9822499999523
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 48.8220722075825,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.0120722075825,
+      "before_gap": 54.45625000002582,
+      "after_gap": 65.45625000002582
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.04352416213671,
+      "before_gap": 35.87725000001342,
+      "after_gap": 46.87725000001342
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.23352416213671,
+      "before_gap": 62.24575000003203,
+      "after_gap": 73.24575000003203
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.56406,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.754059999999996,
+      "before_gap": 44.07025000001755,
+      "after_gap": 55.07025000001755
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 49.818211602674886,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001345
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 50.00821160267488,
+      "before_gap": 59.649250000029966,
+      "after_gap": 70.64925000002997
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 50.02302,
+      "before_gap": 35.87725000001343,
+      "after_gap": 46.87725000001343
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 50.21302,
+      "before_gap": 62.24575000003202,
+      "after_gap": 73.24575000003202
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 46.77368629242661,
+      "before_gap": 41.473750000015485,
+      "after_gap": 52.473750000015485
+    },
+    {
+      "section": "BLINDFOLD",
+      "time": 50.32788476570905,
+      "before_gap": 40.17550000001444,
+      "after_gap": 51.17550000001444
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 106.86821516547855,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 107.05821516547854,
+      "before_gap": 51.00050000004261,
+      "after_gap": 62.00050000004261
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 107.16284806880711,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 107.3528480688071,
+      "before_gap": 62.8134999999629,
+      "after_gap": 73.8134999999629
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 107.83970744131865,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.02970744131865,
+      "before_gap": 52.348499999972404,
+      "after_gap": 63.348499999972404
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.0626728816754,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.2526728816754,
+      "before_gap": 47.000500000041086,
+      "after_gap": 58.000500000041086
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.34137968212133,
+      "before_gap": 35.743999999984794,
+      "after_gap": 46.743999999984794
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.53137968212133,
+      "before_gap": 62.873572519106716,
+      "after_gap": 73.87357251910672
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.62078552906782,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.81078552906781,
+      "before_gap": 62.8134999999629,
+      "after_gap": 73.8134999999629
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.98638684886762,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 109.17638684886762,
+      "before_gap": 50.00050000004134,
+      "after_gap": 61.00050000004134
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 106.7736862924266,
+      "before_gap": 37.69900000010955,
+      "after_gap": 48.69900000010955
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 108.95383896418234,
+      "before_gap": 40.836999999982865,
+      "after_gap": 51.83699999998285
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 109.28360995654874,
+      "before_gap": 41.88349999998192,
+      "after_gap": 52.88349999998192
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 110.35994583441133,
+      "before_gap": 41.05924284633964,
+      "after_gap": 52.05924284633964
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 111.43628171227394,
+      "before_gap": 36.01646195376705,
+      "after_gap": 47.01646195376705
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 109.06376262830447,
+      "before_gap": 41.88349999998192,
+      "after_gap": 52.88349999998192
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 112.15994583441135,
+      "before_gap": 40.83699999998285,
+      "after_gap": 51.83699999998285
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 112.60334534097345,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 112.74292293364798,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 112.93779350150857,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 113.35983522789812,
+      "before_gap": 35.74399999998474,
+      "after_gap": 46.74399999998474
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 113.96502713743786,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 114.23975241216313,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 114.69762787003859,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 115.28469,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 115.46428999999999,
+      "before_gap": 35.743999999984766,
+      "after_gap": 46.743999999984766
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 112.26986949853348,
+      "before_gap": 40.83699999998285,
+      "after_gap": 51.83699999998285
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 115.36605270464035,
+      "before_gap": 38.85283600002407,
+      "after_gap": 49.85283600002407
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 118.4439153000602,
+      "before_gap": 40.83699999998288,
+      "after_gap": 51.83699999998288
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 119.52025117792279,
+      "before_gap": 35.54003373162868,
+      "after_gap": 46.54003373162868
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 118.22406797181593,
+      "before_gap": 40.83699999998288,
+      "after_gap": 51.83699999998288
+    },
+    {
+      "section": "FAULTLINE",
+      "time": 119.94620537639608,
+      "before_gap": 40.83699999998285,
+      "after_gap": 51.83699999998285
+    }
+  ],
+  "random_decisions": 34,
+  "random_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.942,
+      "body_to_wall_after_orb_seconds": 0.19786948558687678
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999997,
+      "body_to_wall_after_orb_seconds": 0.38036948558687683
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.17370281892021075
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687683
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.11870281892021023
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868777
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.2145361522535438
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868777
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868759
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868759
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 53.00887713212242,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 56.42137713212514,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 58.46637713212675,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 60.43387713212833,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 62.495543798796625,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 63.796377132131006,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 163.30559468937315,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 166.93822999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 170.58992999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 174.23165999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 177.4848631372091,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 178.83402980387456,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 180.76402980387277,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 184.42236313720278,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 187.12236313720032,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 192.71939,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 195.7146786588388,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 198.66587,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 201.85862,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    }
+  ],
+  "fakeouts": 977,
+  "fakeouts_by_kind": {
+    "false landing rail": 136,
+    "false opening in solid bank": 597,
+    "false teleport shelf": 244
+  },
+  "spider_fakeouts": 385,
+  "hidden_native_switches": 68,
+  "dim_switch_skins": 68,
+  "maximum_switch_color_component": 29,
+  "no_pulse_or_alpha_triggers": true,
+  "native_import": {
+    "objects": 34010,
+    "object_counts_match": true,
+    "hidden_switch_flags_preserved": true,
+    "claim_touch_and_random_branches_preserved": true,
+    "all_fake_art_non_colliding": true,
+    "palette_preserved": true
+  },
+  "visual_review": {
+    "atlas_camera_views": 20,
+    "native_opening_switches": true,
+    "native_spider": true,
+    "native_second_wave": true
+  },
+  "nominal_path_samples": 49408,
+  "route_checks": [
+    {
+      "section": "CIPHER",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CUTWIRE",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "SWITCHYARD",
+      "samples": 2646,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLINDFOLD",
+      "samples": 3545,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "OFFBEAT",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "PARALLAX",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "samples": 2647,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CROSSCODE",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FAULTLINE",
+      "samples": 3545,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "RECALL",
+      "samples": 3532,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "UNDERTOW",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "NEEDLEWORK",
+      "samples": 2656,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FALSE FLOOR",
+      "samples": 3523,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "COUNTERFEIT",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "LAST WORD",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    }
+  ],
+  "independent_replay": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2649
+    },
+    {
+      "section": "BLINDFOLD",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 201.1059603147424,
+      "samples": 3328
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 241.78091802937817,
+      "samples": 3308
+    },
+    {
+      "section": "PARALLAX",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 91.36117810328552,
+      "samples": 3302
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3530
+    },
+    {
+      "section": "FAULTLINE",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 113.0868989910068,
+      "samples": 3327
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "UNDERTOW",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 115.85190843558743,
+      "samples": 3302
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2651
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3527
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 229.92528263295688,
+      "samples": 3307
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    }
+  ],
+  "limitations": [
+    "No damage-enabled native completion or assigned demon difficulty.",
+    "Native appearance inspected; switch branch logic checked from exported and imported objects.",
+    "Approximate physics does not fully reproduce native triangle collision, portal offsets or buffering."
+  ]
+}

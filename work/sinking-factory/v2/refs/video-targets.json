@@ -1,0 +1,32 @@
+{
+  "_method": "Frames sampled from the verification videos in the browser (Avernus 16Zh8jssanc every 1.5s over the run, 50 frames; Flamewall x4Io4zkWVRw every 5s over the run, 84 frames, UI/webcam masked). Each frame downscaled to 320px wide, then: luminance (Rec.709) stats, near-black share (<0.06), bright (>0.5), very bright (>0.8), edge = mean |dL/dx|+|dL/dy| between neighbours, largeScaleVar = share of luminance variance explained by 16x9 block means, bands = mean luminance of 6 horizontal bands top->bottom, hue = chroma-weighted 30-degree bins from red. Values are [p10, median, p90] across frames.",
+  "avernus": {
+    "frames": 50,
+    "mean": [0.0355, 0.0989, 0.208],
+    "pixel_median": 0.051,
+    "black": [0.2374, 0.5729, 0.8771],
+    "bright": [0.0013, 0.0326, 0.0761],
+    "vbright": [0.0, 0.0105, 0.0238],
+    "edge": [0.0209, 0.0587, 0.1077],
+    "largeScaleVar": [0.3177, 0.461, 0.6701],
+    "std": [0.0486, 0.1446, 0.1936],
+    "bands": [0.0414, 0.0681, 0.09, 0.1044, 0.1286, 0.122],
+    "hue": [0.805, 0.061, 0.004, 0, 0, 0.018, 0.004, 0, 0, 0, 0.002, 0.106],
+    "rgb": [0.2221, 0.0733, 0.0391]
+  },
+  "flamewall": {
+    "frames": 84,
+    "note": "frames at 297-307s and 382-387s are frozen pause/menu frames; medians barely move without them",
+    "mean": [0.0608, 0.1157, 0.2586],
+    "pixel_median": 0.0595,
+    "black": [0.17, 0.5122, 0.8367],
+    "bright": [0.0187, 0.039, 0.1847],
+    "vbright": [0.003, 0.0117, 0.0351],
+    "edge": [0.0489, 0.0834, 0.1468],
+    "largeScaleVar": [0.264, 0.3654, 0.4952],
+    "std": [0.1185, 0.1602, 0.2388],
+    "bands": [0.0798, 0.0931, 0.1019, 0.1316, 0.1437, 0.149],
+    "hue": [0.654, 0.074, 0.018, 0.017, 0.021, 0.069, 0.047, 0, 0.001, 0.002, 0.007, 0.09],
+    "rgb": [0.2213, 0.1152, 0.0703]
+  }
+}

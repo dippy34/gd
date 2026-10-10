@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "original_wave_robot_objects_preserved": 753,
+  "wave_robot_front_skin_objects_preserved_exactly": 7815,
+  "ash_groups_checked": 104,
+  "particle_total": 1144,
+  "hot_edge_particles": 362,
+  "serialized_motion_samples_checked": 64,
+  "view_rectangles": [
+    {
+      "x": 17400,
+      "ash_particles_in_view_rectangle": 75,
+      "with_hot_edges": 21
+    },
+    {
+      "x": 19155,
+      "ash_particles_in_view_rectangle": 47,
+      "with_hot_edges": 11
+    },
+    {
+      "x": 21465,
+      "ash_particles_in_view_rectangle": 48,
+      "with_hot_edges": 17
+    },
+    {
+      "x": 23520,
+      "ash_particles_in_view_rectangle": 38,
+      "with_hot_edges": 17
+    }
+  ],
+  "native_runtime_verified": false,
+  "scope_exit_controls_valid": true
+}

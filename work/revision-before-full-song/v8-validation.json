@@ -1,0 +1,770 @@
+{
+  "file": "v8.gmd",
+  "level_name": "v8",
+  "song_id": 593661,
+  "file_bytes": 279700,
+  "total_objects": 18627,
+  "low_detail_objects": 15300,
+  "mode_order": [
+    "wave",
+    "ball",
+    "spider",
+    "wave",
+    "ship",
+    "ball"
+  ],
+  "speed_units_per_second": 311.58,
+  "drop_time": 34.01635294117647,
+  "moving_black_holes": 11,
+  "move_triggers": 33,
+  "standard_plist_gzip_roundtrip": "PASS",
+  "source_file_unchanged": true,
+  "decoration_flags_and_ids": "PASS",
+  "gameplay_objects_in_motion_groups": 0,
+  "opaque_decorations_on_positive_layers": 0,
+  "undefined_color_channels": 0,
+  "wave_clearance": [
+    {
+      "start": 0,
+      "gap": 144,
+      "variants": 39,
+      "min_clearance_units": 17.318,
+      "single_turn_perturbation_ms": 40,
+      "turn_interval_seconds": [
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.4412,
+        0.4412,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.5735,
+        0.5735
+      ],
+      "nominal_exit_y": 84.2441
+    },
+    {
+      "start": 34.01635294117647,
+      "gap": 136,
+      "variants": 39,
+      "min_clearance_units": 4.298,
+      "single_turn_perturbation_ms": 40,
+      "turn_interval_seconds": [
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.4412,
+        0.4412,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.6176,
+        0.6176,
+        0.5294,
+        0.5294,
+        0.5735,
+        0.5735
+      ],
+      "nominal_exit_y": 72.4924
+    }
+  ],
+  "flip_clearance_variants": [
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": -35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": 0,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": 35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": -35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": 0,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": 35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": -35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": 0,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": 35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": -35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": 0,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 11.428117647058825,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": 35,
+      "taps": 12,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 1600,
+      "input_offset_ms": -35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 1600,
+      "input_offset_ms": 0,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 1600,
+      "input_offset_ms": 35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2200,
+      "input_offset_ms": -35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2200,
+      "input_offset_ms": 0,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2200,
+      "input_offset_ms": 35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2800,
+      "input_offset_ms": -35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2800,
+      "input_offset_ms": 0,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 2800,
+      "input_offset_ms": 35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 3200,
+      "input_offset_ms": -35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 3200,
+      "input_offset_ms": 0,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 22.72223529411765,
+      "mode": "spider",
+      "gravity": 3200,
+      "input_offset_ms": 35,
+      "taps": 14,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": -35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": 0,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 1600,
+      "input_offset_ms": 35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": -35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": 0,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2200,
+      "input_offset_ms": 35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": -35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": 0,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 2800,
+      "input_offset_ms": 35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": -35,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": 0,
+      "taps": 5,
+      "exit_y": 45
+    },
+    {
+      "start": 50.95752941176471,
+      "mode": "ball",
+      "gravity": 3200,
+      "input_offset_ms": 35,
+      "taps": 5,
+      "exit_y": 45
+    }
+  ],
+  "ship_clearance_variants": [
+    {
+      "acceleration": 800,
+      "min_clearance_units": 38.815,
+      "inputs": [
+        {
+          "time": 45.31047,
+          "down": true
+        },
+        {
+          "time": 45.6938,
+          "down": false
+        },
+        {
+          "time": 46.07297,
+          "down": true
+        },
+        {
+          "time": 46.31464,
+          "down": false
+        },
+        {
+          "time": 46.79797,
+          "down": true
+        },
+        {
+          "time": 47.03964,
+          "down": false
+        },
+        {
+          "time": 47.2813,
+          "down": true
+        },
+        {
+          "time": 47.54797,
+          "down": false
+        },
+        {
+          "time": 47.78964,
+          "down": true
+        },
+        {
+          "time": 48.13547,
+          "down": false
+        },
+        {
+          "time": 48.37714,
+          "down": true
+        },
+        {
+          "time": 48.6688,
+          "down": false
+        },
+        {
+          "time": 48.91047,
+          "down": true
+        },
+        {
+          "time": 49.1938,
+          "down": false
+        },
+        {
+          "time": 49.43547,
+          "down": true
+        },
+        {
+          "time": 49.67714,
+          "down": false
+        },
+        {
+          "time": 49.9313,
+          "down": true
+        },
+        {
+          "time": 50.17297,
+          "down": false
+        },
+        {
+          "time": 50.61464,
+          "down": true
+        },
+        {
+          "time": 50.8563,
+          "down": false
+        }
+      ],
+      "exit_y": 177.78
+    },
+    {
+      "acceleration": 1100,
+      "min_clearance_units": 27.785,
+      "inputs": [
+        {
+          "time": 45.31047,
+          "down": true
+        },
+        {
+          "time": 45.6313,
+          "down": false
+        },
+        {
+          "time": 45.87297,
+          "down": true
+        },
+        {
+          "time": 46.11464,
+          "down": false
+        },
+        {
+          "time": 46.60214,
+          "down": true
+        },
+        {
+          "time": 46.8438,
+          "down": false
+        },
+        {
+          "time": 47.08547,
+          "down": true
+        },
+        {
+          "time": 47.32714,
+          "down": false
+        },
+        {
+          "time": 47.5688,
+          "down": true
+        },
+        {
+          "time": 47.88547,
+          "down": false
+        },
+        {
+          "time": 48.12714,
+          "down": true
+        },
+        {
+          "time": 48.40214,
+          "down": false
+        },
+        {
+          "time": 48.6438,
+          "down": true
+        },
+        {
+          "time": 48.93547,
+          "down": false
+        },
+        {
+          "time": 49.17714,
+          "down": true
+        },
+        {
+          "time": 49.4188,
+          "down": false
+        },
+        {
+          "time": 49.66047,
+          "down": true
+        },
+        {
+          "time": 49.90214,
+          "down": false
+        },
+        {
+          "time": 50.15214,
+          "down": true
+        },
+        {
+          "time": 50.3938,
+          "down": false
+        },
+        {
+          "time": 50.79797,
+          "down": true
+        }
+      ],
+      "exit_y": 178.283
+    },
+    {
+      "acceleration": 1400,
+      "min_clearance_units": 24.597,
+      "inputs": [
+        {
+          "time": 45.31047,
+          "down": true
+        },
+        {
+          "time": 45.5938,
+          "down": false
+        },
+        {
+          "time": 45.83547,
+          "down": true
+        },
+        {
+          "time": 46.07714,
+          "down": false
+        },
+        {
+          "time": 46.3938,
+          "down": true
+        },
+        {
+          "time": 46.63547,
+          "down": false
+        },
+        {
+          "time": 46.96047,
+          "down": true
+        },
+        {
+          "time": 47.20214,
+          "down": false
+        },
+        {
+          "time": 47.4438,
+          "down": true
+        },
+        {
+          "time": 47.68547,
+          "down": false
+        },
+        {
+          "time": 47.92714,
+          "down": true
+        },
+        {
+          "time": 48.1938,
+          "down": false
+        },
+        {
+          "time": 48.43547,
+          "down": true
+        },
+        {
+          "time": 48.78547,
+          "down": false
+        },
+        {
+          "time": 49.02714,
+          "down": true
+        },
+        {
+          "time": 49.2688,
+          "down": false
+        },
+        {
+          "time": 49.51047,
+          "down": true
+        },
+        {
+          "time": 49.75214,
+          "down": false
+        },
+        {
+          "time": 50.02297,
+          "down": true
+        },
+        {
+          "time": 50.26464,
+          "down": false
+        },
+        {
+          "time": 50.6063,
+          "down": true
+        },
+        {
+          "time": 50.84797,
+          "down": false
+        }
+      ],
+      "exit_y": 196.924
+    },
+    {
+      "acceleration": 1700,
+      "min_clearance_units": 14.367,
+      "inputs": [
+        {
+          "time": 45.31047,
+          "down": true
+        },
+        {
+          "time": 45.5688,
+          "down": false
+        },
+        {
+          "time": 45.81047,
+          "down": true
+        },
+        {
+          "time": 46.05214,
+          "down": false
+        },
+        {
+          "time": 46.2938,
+          "down": true
+        },
+        {
+          "time": 46.53547,
+          "down": false
+        },
+        {
+          "time": 46.87714,
+          "down": true
+        },
+        {
+          "time": 47.1188,
+          "down": false
+        },
+        {
+          "time": 47.36047,
+          "down": true
+        },
+        {
+          "time": 47.60214,
+          "down": false
+        },
+        {
+          "time": 47.8438,
+          "down": true
+        },
+        {
+          "time": 48.08547,
+          "down": false
+        },
+        {
+          "time": 48.32714,
+          "down": true
+        },
+        {
+          "time": 48.61047,
+          "down": false
+        },
+        {
+          "time": 48.85214,
+          "down": true
+        },
+        {
+          "time": 49.16047,
+          "down": false
+        },
+        {
+          "time": 49.40214,
+          "down": true
+        },
+        {
+          "time": 49.6438,
+          "down": false
+        },
+        {
+          "time": 49.88547,
+          "down": true
+        },
+        {
+          "time": 50.12714,
+          "down": false
+        },
+        {
+          "time": 50.42714,
+          "down": true
+        },
+        {
+          "time": 50.6688,
+          "down": false
+        }
+      ],
+      "exit_y": 203.698
+    }
+  ],
+  "physics_model_limits": "240 Hz approximations, finite bodies and full spike triangles. Not the native engine; no completion or exact difficulty claim.",
+  "native_import_and_playtest": "NOT VERIFIED",
+  "rating_or_feature_guaranteed": false,
+  "final_sha256": "41fe17ebff95378fb6b9ff402cf876a1f5baf237ce0846e9ceecdb7922d9ba0e",
+  "motion_preview_samples": [
+    {
+      "time": 14.2,
+      "core_x": 4730.303,
+      "core_y": 181.989
+    },
+    {
+      "time": 15,
+      "core_x": 4732.356,
+      "core_y": 172.356
+    },
+    {
+      "time": 15.8,
+      "core_x": 4718.075,
+      "core_y": 139.511
+    }
+  ],
+  "visual_review": "60 atlas-based diagnostic views plus low-detail comparisons; not native captures"
+}

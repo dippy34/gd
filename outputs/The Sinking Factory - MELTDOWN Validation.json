@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "source_unchanged": true,
+  "gameplay_properties_unchanged": true,
+  "source_objects": 6620,
+  "added_objects": 30159,
+  "total_objects": 36779,
+  "original_structural_visual_edits": 920,
+  "explicit_visual_shader_reset": 1,
+  "added_collision_objects": 0,
+  "native_playtest": false,
+  "roundtrip_valid": true,
+  "fixture_count": 15,
+  "fire_and_spark_emitters": 28,
+  "motions": 58,
+  "native_fire_objects": 72,
+  "sha256": "1594aee95a1b48e0ff52b497ce68e29e3e46aca6a9c0dd72aa76fa679441426d"
+}

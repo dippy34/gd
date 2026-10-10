@@ -1,0 +1,981 @@
+{
+  "method": "Single-input perturbation, 240 Hz approximate replay, 0.70 s horizon, contiguous success interval, \u00b120 ticks cap.",
+  "limitations": "Model sensitivity only. Native physics, triangle hitboxes, buffering and portal contact offsets are not fully reproduced. These are not verified native click windows.",
+  "summary": {
+    "cube": {
+      "tests": 11,
+      "previous_median_ms": 112.5,
+      "current_median_ms": 33.333333333333336,
+      "tightened": 11
+    },
+    "robot": {
+      "tests": 12,
+      "previous_median_ms": 31.25,
+      "current_median_ms": 12.5,
+      "tightened": 12
+    },
+    "ball": {
+      "tests": 6,
+      "previous_median_ms": 91.66666666666667,
+      "current_median_ms": 8.333333333333334,
+      "tightened": 6
+    },
+    "ufo": {
+      "tests": 6,
+      "previous_median_ms": 16.666666666666668,
+      "current_median_ms": 8.333333333333334,
+      "tightened": 6
+    },
+    "spider": {
+      "tests": 6,
+      "previous_median_ms": 29.166666666666668,
+      "current_median_ms": 16.666666666666664,
+      "tightened": 6
+    }
+  },
+  "tests": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "input_time": 1.65279,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 8,
+          "tested_success_span_ms": 116.66666666666667,
+          "sampled_success_count": 29,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 6,
+          "late_ticks": 2,
+          "tested_success_span_ms": 33.333333333333336,
+          "sampled_success_count": 9,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "input_time": 7.31991,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 7,
+          "tested_success_span_ms": 112.5,
+          "sampled_success_count": 28,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 2,
+          "late_ticks": 2,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "input_time": 12.40834,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 7,
+          "tested_success_span_ms": 112.5,
+          "sampled_success_count": 28,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 18,
+          "late_ticks": 2,
+          "tested_success_span_ms": 83.33333333333333,
+          "sampled_success_count": 21,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "input_time": 6.37247,
+      "input_kind": "orb",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 4,
+          "tested_success_span_ms": 100.0,
+          "sampled_success_count": 25,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 6,
+          "late_ticks": 2,
+          "tested_success_span_ms": 33.333333333333336,
+          "sampled_success_count": 9,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 16.24961,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 1,
+          "late_ticks": 4,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 2,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 20.19066,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 3,
+          "late_ticks": 4,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 23.36345,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 10,
+          "late_ticks": 4,
+          "tested_success_span_ms": 58.333333333333336,
+          "sampled_success_count": 15,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 1,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 16.24961,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 0,
+          "late_ticks": 4,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 0,
+          "late_ticks": 1,
+          "tested_success_span_ms": 4.166666666666667,
+          "sampled_success_count": 2,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 20.19066,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 1,
+          "late_ticks": 4,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 2,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "input_time": 23.36345,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 4,
+          "tested_success_span_ms": 100.0,
+          "sampled_success_count": 25,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "input_time": 27.29451,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "input_time": 30.93624,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "input_time": 34.59791,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "input_time": 51.78221046545499,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 11,
+          "late_ticks": 4,
+          "tested_success_span_ms": 62.5,
+          "sampled_success_count": 16,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 4,
+          "late_ticks": 2,
+          "tested_success_span_ms": 25.0,
+          "sampled_success_count": 7,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "input_time": 57.52804379879289,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 2,
+          "late_ticks": 2,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "input_time": 63.53637713213101,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 2,
+          "late_ticks": 2,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "input_time": 81.75689239929685,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "input_time": 86.13079,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "input_time": 90.00116720845715,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "input_time": 92.70624000000001,
+      "input_kind": "orb",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 2,
+          "late_ticks": 4,
+          "tested_success_span_ms": 25.0,
+          "sampled_success_count": 7,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 4,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "input_time": 98.62277,
+      "input_kind": "orb",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 3,
+          "tested_success_span_ms": 95.83333333333333,
+          "sampled_success_count": 24,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "input_time": 104.44916,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 7,
+          "tested_success_span_ms": 112.5,
+          "sampled_success_count": 28,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 6,
+          "late_ticks": 2,
+          "tested_success_span_ms": 33.333333333333336,
+          "sampled_success_count": 9,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 122.28862,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 8,
+          "late_ticks": 4,
+          "tested_success_span_ms": 50.0,
+          "sampled_success_count": 13,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 2,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 126.22966,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 5,
+          "tested_success_span_ms": 104.16666666666667,
+          "sampled_success_count": 26,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 3,
+          "late_ticks": 3,
+          "tested_success_span_ms": 25.0,
+          "sampled_success_count": 7,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 130.09088,
+      "input_kind": "hold",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 1,
+          "late_ticks": 4,
+          "tested_success_span_ms": 20.833333333333332,
+          "sampled_success_count": 6,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 2,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 122.28862,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 4,
+          "tested_success_span_ms": 33.333333333333336,
+          "sampled_success_count": 9,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 126.22966,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 4,
+          "tested_success_span_ms": 100.0,
+          "sampled_success_count": 25,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 2,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "input_time": 130.09088,
+      "input_kind": "hold",
+      "perturbation": "release",
+      "results": {
+        "previous": {
+          "early_ticks": 0,
+          "late_ticks": 4,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 0,
+          "late_ticks": 2,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "input_time": 132.36789748835494,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 4,
+          "tested_success_span_ms": 100.0,
+          "sampled_success_count": 25,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 5,
+          "late_ticks": 2,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "input_time": 138.08039748834975,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 2,
+          "late_ticks": 2,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "input_time": 144.2595641550108,
+      "input_kind": "hop",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 2,
+          "late_ticks": 2,
+          "tested_success_span_ms": 16.666666666666668,
+          "sampled_success_count": 5,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "input_time": 148.05460232296093,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "input_time": 153.47773,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 0,
+          "late_ticks": 1,
+          "tested_success_span_ms": 4.166666666666667,
+          "sampled_success_count": 2,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "input_time": 158.74576,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 2,
+          "tested_success_span_ms": 91.66666666666667,
+          "sampled_success_count": 23,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 1,
+          "late_ticks": 1,
+          "tested_success_span_ms": 8.333333333333334,
+          "sampled_success_count": 3,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "input_time": 176.90956415502203,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 2,
+          "late_ticks": 1,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "input_time": 182.97826644509837,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 2,
+          "late_ticks": 1,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "input_time": 188.93246491838082,
+      "input_kind": "flip",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 4,
+          "late_ticks": 3,
+          "tested_success_span_ms": 29.166666666666668,
+          "sampled_success_count": 8,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 2,
+          "late_ticks": 1,
+          "tested_success_span_ms": 12.5,
+          "sampled_success_count": 4,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "input_time": 191.43147,
+      "input_kind": "orb",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 14,
+          "late_ticks": 7,
+          "tested_success_span_ms": 87.5,
+          "sampled_success_count": 22,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 12,
+          "late_ticks": 2,
+          "tested_success_span_ms": 58.333333333333336,
+          "sampled_success_count": 15,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "input_time": 197.63475499471667,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 7,
+          "tested_success_span_ms": 112.5,
+          "sampled_success_count": 28,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 6,
+          "late_ticks": 3,
+          "tested_success_span_ms": 37.5,
+          "sampled_success_count": 10,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "input_time": 203.06503,
+      "input_kind": "jump",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 20,
+          "late_ticks": 7,
+          "tested_success_span_ms": 112.5,
+          "sampled_success_count": 28,
+          "capped": true
+        },
+        "current": {
+          "early_ticks": 6,
+          "late_ticks": 3,
+          "tested_success_span_ms": 37.5,
+          "sampled_success_count": 10,
+          "capped": false
+        }
+      }
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "input_time": 196.15111,
+      "input_kind": "orb",
+      "perturbation": "press",
+      "results": {
+        "previous": {
+          "early_ticks": 18,
+          "late_ticks": 6,
+          "tested_success_span_ms": 100.0,
+          "sampled_success_count": 25,
+          "capped": false
+        },
+        "current": {
+          "early_ticks": 16,
+          "late_ticks": 2,
+          "tested_success_span_ms": 75.0,
+          "sampled_success_count": 19,
+          "capped": false
+        }
+      }
+    }
+  ]
+}

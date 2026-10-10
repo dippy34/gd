@@ -1,0 +1,24 @@
+[
+  {
+    "section": "BLINDFOLD",
+    "length": 75,
+    "body_radius": 5,
+    "first_collision": [
+      71,
+      [
+        "solid"
+      ]
+    ]
+  },
+  {
+    "section": "UNDERTOW",
+    "length": 180,
+    "body_radius": 15,
+    "first_collision": [
+      166,
+      [
+        "solid"
+      ]
+    ]
+  }
+]

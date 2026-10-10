@@ -1,0 +1,218 @@
+[
+  {
+    "name": "spark",
+    "mode": "cube",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2748
+  },
+  {
+    "name": "rise",
+    "mode": "robot",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2716
+  },
+  {
+    "name": "approach",
+    "mode": "ship",
+    "errors": {},
+    "first": {},
+    "exit_y": 180.36758698607454,
+    "samples": 2711
+  },
+  {
+    "name": "rupture",
+    "mode": "wave",
+    "errors": {},
+    "first": {},
+    "exit_y": 71.15410943744725,
+    "samples": 1370
+  },
+  {
+    "name": "rings",
+    "mode": "ball",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 1359
+  },
+  {
+    "name": "prism",
+    "mode": "ufo",
+    "errors": {},
+    "first": {},
+    "exit_y": 249.38426326536845,
+    "samples": 2711
+  },
+  {
+    "name": "debris",
+    "mode": "ship",
+    "errors": {},
+    "first": {},
+    "exit_y": 196.6669790483041,
+    "samples": 1356
+  },
+  {
+    "name": "fracture",
+    "mode": "spider",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2717
+  },
+  {
+    "name": "viaduct",
+    "mode": "cube",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2719
+  },
+  {
+    "name": "weightless",
+    "mode": "ufo",
+    "errors": {},
+    "first": {},
+    "exit_y": 255.39529267740454,
+    "samples": 2711
+  },
+  {
+    "name": "flare",
+    "mode": "wave",
+    "errors": {},
+    "first": {},
+    "exit_y": 145.22725894615073,
+    "samples": 1371
+  },
+  {
+    "name": "pulse",
+    "mode": "spider",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2717
+  },
+  {
+    "name": "collapse",
+    "mode": "ship",
+    "errors": {},
+    "first": {},
+    "exit_y": 59.128820644310686,
+    "samples": 2711
+  },
+  {
+    "name": "shear",
+    "mode": "wave",
+    "errors": {},
+    "first": {},
+    "exit_y": 174.0338794678607,
+    "samples": 1375
+  },
+  {
+    "name": "vault",
+    "mode": "robot",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2715
+  },
+  {
+    "name": "cantilever",
+    "mode": "cube",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 1358
+  },
+  {
+    "name": "shards",
+    "mode": "robot",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2716
+  },
+  {
+    "name": "halo",
+    "mode": "ufo",
+    "errors": {},
+    "first": {},
+    "exit_y": 258.7580377736457,
+    "samples": 2711
+  },
+  {
+    "name": "tidal",
+    "mode": "ball",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2717
+  },
+  {
+    "name": "remnant",
+    "mode": "ship",
+    "errors": {},
+    "first": {},
+    "exit_y": 100.67191705360277,
+    "samples": 2711
+  },
+  {
+    "name": "countdown",
+    "mode": "spider",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 1359
+  },
+  {
+    "name": "return",
+    "mode": "wave",
+    "errors": {},
+    "first": {},
+    "exit_y": 208.41642037647605,
+    "samples": 1372
+  },
+  {
+    "name": "ion",
+    "mode": "ufo",
+    "errors": {},
+    "first": {},
+    "exit_y": 266.1645400814212,
+    "samples": 1356
+  },
+  {
+    "name": "redshift",
+    "mode": "ball",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 1358
+  },
+  {
+    "name": "supernova",
+    "mode": "wave",
+    "errors": {},
+    "first": {},
+    "exit_y": 139.62767529413475,
+    "samples": 1028
+  },
+  {
+    "name": "escape",
+    "mode": "ship",
+    "errors": {},
+    "first": {},
+    "exit_y": 64.81714568991032,
+    "samples": 2033
+  },
+  {
+    "name": "afterglow",
+    "mode": "cube",
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 1357
+  }
+]

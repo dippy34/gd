@@ -1,0 +1,10 @@
+{
+  "objects": 26934,
+  "added_art_objects": 150,
+  "fakeouts": 50,
+  "by_kind": {
+    "blind L-shaped side passage": 25,
+    "false extension of real ledge": 25
+  },
+  "sha256": "17ddb9d245f117157385613017aba45744836424356d49a25c393277dff8733a"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "section": "UNDERTOW",
+    "length": 168.0,
+    "body_radius": 15,
+    "first_collision": [
+      154,
+      [
+        "solid"
+      ]
+    ]
+  }
+]

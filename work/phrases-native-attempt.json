@@ -1,0 +1,8 @@
+{
+  "native_import_verified": false,
+  "reason": "The native bridge status is stale despite returning Geometry Dash to the main menu. Both import attempts stopped at the bridge connection check before writing an import request.",
+  "status_updated_ms": "1789019357654",
+  "status_age_seconds": 375074,
+  "native_ui_state_left": "Geometry Dash main menu; no level was replaced or imported.",
+  "saved_gmd": "$HOME/Downloads/OBSIDIAN-CHOIR-HANDOFF/v8-1573528-phrases.gmd"
+}

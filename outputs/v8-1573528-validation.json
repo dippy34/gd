@@ -1,0 +1,162 @@
+{
+  "file": "v8-1573528-layout.gmd",
+  "internal_name": "v8",
+  "song_id": 1573528,
+  "seconds": 205.19200690311362,
+  "bpm": 131,
+  "objects": 5338,
+  "sections": 25,
+  "modes": [
+    "ball",
+    "cube",
+    "robot",
+    "ship",
+    "spider",
+    "ufo",
+    "wave"
+  ],
+  "slow_percent": 85.71436697674221,
+  "speed_portals": [
+    {
+      "x": 0.0,
+      "time": 0.0,
+      "units_per_second": 251.16
+    },
+    {
+      "x": 9203.10232,
+      "time": 36.64238859691034,
+      "units_per_second": 311.58
+    },
+    {
+      "x": 13769.77102,
+      "time": 51.29887713917878,
+      "units_per_second": 251.16
+    },
+    {
+      "x": 17450.89468,
+      "time": 65.9553656723847,
+      "units_per_second": 311.58
+    },
+    {
+      "x": 19734.22903,
+      "time": 73.28360994351891,
+      "units_per_second": 251.16
+    },
+    {
+      "x": 32618.16186,
+      "time": 124.58131988937018,
+      "units_per_second": 311.58
+    },
+    {
+      "x": 34901.49621,
+      "time": 131.9095641605044,
+      "units_per_second": 251.16
+    }
+  ],
+  "timewarp_objects": 0,
+  "precision_gates": 122,
+  "black_holes": 0,
+  "unique_section_input_sequences": true,
+  "ground_reports": [
+    "demon-path-checks.json",
+    "demon-path-checks--0.008-1.0.json",
+    "demon-path-checks-0.008-1.0.json",
+    "demon-path-checks-0.0-1.03.json",
+    "demon-path-checks-0.0-0.97.json"
+  ],
+  "wave_checks": [
+    {
+      "section": "rupture",
+      "mode": "wave",
+      "variants": 75,
+      "minimum_vertical_clearance": 7.015,
+      "failures": []
+    },
+    {
+      "section": "flare",
+      "mode": "wave",
+      "variants": 33,
+      "minimum_vertical_clearance": 7.981,
+      "failures": []
+    },
+    {
+      "section": "shear",
+      "mode": "wave",
+      "variants": 39,
+      "minimum_vertical_clearance": 7.015,
+      "failures": []
+    },
+    {
+      "section": "return",
+      "mode": "wave",
+      "variants": 31,
+      "minimum_vertical_clearance": 7.981,
+      "failures": []
+    }
+  ],
+  "approximate_flight_checks": [
+    {
+      "section": "approach",
+      "mode": "ship",
+      "variants": 1,
+      "minimum_vertical_clearance": 5.009,
+      "failures": []
+    },
+    {
+      "section": "prism",
+      "mode": "ufo",
+      "variants": 1,
+      "minimum_vertical_clearance": 0.0,
+      "failures": []
+    },
+    {
+      "section": "debris",
+      "mode": "ship",
+      "variants": 1,
+      "minimum_vertical_clearance": 15.364,
+      "failures": []
+    },
+    {
+      "section": "weightless",
+      "mode": "ufo",
+      "variants": 1,
+      "minimum_vertical_clearance": 0.0,
+      "failures": []
+    },
+    {
+      "section": "collapse",
+      "mode": "ship",
+      "variants": 1,
+      "minimum_vertical_clearance": 5.009,
+      "failures": []
+    },
+    {
+      "section": "halo",
+      "mode": "ufo",
+      "variants": 1,
+      "minimum_vertical_clearance": 0.0,
+      "failures": []
+    },
+    {
+      "section": "remnant",
+      "mode": "ship",
+      "variants": 1,
+      "minimum_vertical_clearance": 5.009,
+      "failures": []
+    },
+    {
+      "section": "ion",
+      "mode": "ufo",
+      "variants": 1,
+      "minimum_vertical_clearance": 0.0,
+      "failures": []
+    }
+  ],
+  "native_import_verified": false,
+  "native_full_playthrough": false,
+  "difficulty": "Hard Insane Demon to entry Extreme target; not calibrated by human play",
+  "limitations": "Ground, ship and UFO physics remain approximations. Position-trigger activation and mode-transition momentum need native playtesting. Export checks do not prove in-game completion.",
+  "sha256": "6642ed15a58b0478e5aceea69c313c8c49f7a9289ba478821024aefa2e910b96",
+  "native_import_note": "Native import not completed: computer-use click failed with noWindowsAvailable while Geometry Dash was paused on AFTERIMAGE. Existing run was left paused.",
+  "downloads_file": "$HOME/Downloads/OBSIDIAN-CHOIR-HANDOFF/v8-1573528-layout.gmd"
+}

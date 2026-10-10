@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-10",
+  "repository_task": "Make the existing project AI-friendly and publish the handoff; no new level design.",
+  "project": "The Sinking Factory",
+  "baseline": {
+    "path": "outputs/The Sinking Factory - CUSTOM-ORBS.gmd",
+    "status": "active-baseline",
+    "name": "Factory Orbs",
+    "song_id": "1569886",
+    "parsed_objects": 57465,
+    "stored_object_count": "57465",
+    "bytes": 1005200,
+    "sha256": "802bc6c3ed846833bac104d893f3002918e3d170db00f80bb2e0ff161643380c",
+    "native_verification": "not asserted by repository migration",
+    "raw_level": "work/sinking-factory/custom-orbs.level",
+    "manifest": "work/sinking-factory/custom-orbs-manifest.json",
+    "validator": "work/sinking-factory/validate_custom_orbs.py"
+  },
+  "source": "inputs/The Sinking Factory.gmd",
+  "scope_x": [
+    16785,
+    24925
+  ],
+  "scope_semantics": "Decoration-only interval; preserve source objects outside [start,end). Animated attachments need group-aware checks.",
+  "song_id": 1569886,
+  "preserve": [
+    "accepted ship, wave and early robot skins",
+    "custom orbs",
+    "native portal appearance and restrained trim",
+    "custom steel spikes",
+    "dark atmosphere and ash",
+    "exit coverage",
+    "editor organization"
+  ],
+  "group_invariants": {
+    "factory_master": 600,
+    "moving_press": 25,
+    "blue_orb_follow": 1156,
+    "blue_orb_location": [
+      22065,
+      75
+    ],
+    "blue_orb_trim_objects": 105,
+    "late_group_to_preserve": 24,
+    "late_group_objects": 29,
+    "hidden_native_orb_visuals": 1157,
+    "hidden_native_orb_count": 8
+  },
+  "editor_sections": {
+    "90": "Ship / 100-109",
+    "91": "Wave / 110-119",
+    "92": "Robot / 120-129",
+    "93": "Press and cube / 130-139",
+    "94": "UFO / 140-149",
+    "95": "Exit / 150-159",
+    "99": "Legend"
+  },
+  "disregarded": [
+    "CUSTOM-FIRE / Factory Wildfire"
+  ],
+  "inactive_experiments": [
+    "CLOSING-FIRE",
+    "ENGULFED"
+  ],
+  "other_project": {
+    "name": "v8 / OBSIDIAN-CHOIR",
+    "status": "archived, separate gameplay task",
+    "song_id": 1573528,
+    "latest_file_by_saved_sequence": "outputs/v8-1573528-variety.gmd",
+    "historical_CURRENT_is_stale": true
+  },
+  "native_playtest": false,
+  "performance_verified": false
+}

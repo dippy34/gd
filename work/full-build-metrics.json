@@ -1,0 +1,591 @@
+{
+  "source_rectangles": 2834,
+  "exact_exposed_segments": 1738,
+  "total_objects": 49645,
+  "gameplay_objects": 3031,
+  "decorations": 45885,
+  "triggers": 729,
+  "features": [
+    {
+      "kind": "charging fins",
+      "time": 3.198192941176471,
+      "x": 1081.4929566117648,
+      "groups": [
+        1201,
+        1202
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 8.223924705882354,
+      "x": 2647.4104598588237,
+      "groups": [
+        1203,
+        1204
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 14.584470588235295,
+      "x": 4629.229345882352,
+      "groups": [
+        1205,
+        1206
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 19.55388235294118,
+      "x": 6177.598663529412,
+      "groups": [
+        1207,
+        1208
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 25.87858823529412,
+      "x": 8148.2505223529415,
+      "groups": [
+        1209,
+        1210
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 30.848,
+      "x": 9696.61984,
+      "groups": [
+        1211,
+        1212
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 37.17270588235294,
+      "x": 11907.104545882354,
+      "groups": [
+        1213,
+        1214
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 42.142117647058825,
+      "x": 13832.354051764705,
+      "groups": [
+        1215,
+        1216
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 46.88564705882353,
+      "x": 15670.09221647059,
+      "groups": [
+        1217,
+        1218
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 54.11388235294118,
+      "x": 18470.45513411765,
+      "groups": [
+        1219,
+        1220
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 59.083294117647064,
+      "x": 20395.704640000004,
+      "groups": [
+        1221,
+        1222
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 63.82682352941177,
+      "x": 22233.442804705883,
+      "groups": [
+        1223,
+        1224
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 71.05505882352941,
+      "x": 25033.80572235294,
+      "groups": [
+        1225,
+        1226
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 76.02447058823529,
+      "x": 26959.05522823529,
+      "groups": [
+        1227,
+        1228
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 82.80094117647059,
+      "x": 29315.30078117647,
+      "groups": [
+        1229
+      ],
+      "pivot": 1230,
+      "objects": 8
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 87.31858823529413,
+      "x": 30722.909251764708,
+      "groups": [
+        1231
+      ],
+      "pivot": 1232,
+      "objects": 8
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 94.09505882352941,
+      "x": 32834.32195764706,
+      "groups": [
+        1233
+      ],
+      "pivot": 1234,
+      "objects": 8
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 98.61270588235294,
+      "x": 34241.93042823529,
+      "groups": [
+        1235
+      ],
+      "pivot": 1236,
+      "objects": 8
+    },
+    {
+      "kind": "charging fins",
+      "time": 104.93741176470589,
+      "x": 36447.41513411764,
+      "groups": [
+        1237,
+        1238
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 109.90682352941178,
+      "x": 38372.66464,
+      "groups": [
+        1239,
+        1240
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 116.23152941176471,
+      "x": 40822.98219294117,
+      "groups": [
+        1241,
+        1242
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 121.2009411764706,
+      "x": 42748.231698823525,
+      "groups": [
+        1243,
+        1244
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 127.52564705882354,
+      "x": 45453.371651764704,
+      "groups": [
+        1245,
+        1246
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 132.4950588235294,
+      "x": 47779.056357647045,
+      "groups": [
+        1247,
+        1248
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 138.81976470588233,
+      "x": 50739.01871058822,
+      "groups": [
+        1249,
+        1250
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 143.78917647058825,
+      "x": 53064.703416470584,
+      "groups": [
+        1251,
+        1252
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 150.11388235294118,
+      "x": 55769.843369411756,
+      "groups": [
+        1253,
+        1254
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 155.08329411764706,
+      "x": 57695.09287529411,
+      "groups": [
+        1255,
+        1256
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 159.82682352941177,
+      "x": 59532.83103999999,
+      "groups": [
+        1257,
+        1258
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 167.0550588235294,
+      "x": 62333.19395764705,
+      "groups": [
+        1259,
+        1260
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 172.0244705882353,
+      "x": 64258.4434635294,
+      "groups": [
+        1261,
+        1262
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 178.34917647058822,
+      "x": 66708.76101647057,
+      "groups": [
+        1263,
+        1264
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 183.31858823529413,
+      "x": 68634.01052235294,
+      "groups": [
+        1265,
+        1266
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 189.64329411764706,
+      "x": 71084.3280752941,
+      "groups": [
+        1267,
+        1268
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 194.61270588235294,
+      "x": 73009.57758117645,
+      "groups": [
+        1269,
+        1270
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 201.38917647058824,
+      "x": 75365.82313411763,
+      "groups": [
+        1271
+      ],
+      "pivot": 1272,
+      "objects": 8
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 205.90682352941178,
+      "x": 76773.43160470587,
+      "groups": [
+        1273
+      ],
+      "pivot": 1274,
+      "objects": 8
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 210.87623529411766,
+      "x": 78321.80092235292,
+      "groups": [
+        1275
+      ],
+      "pivot": 1276,
+      "objects": 8
+    },
+    {
+      "kind": "charging fins",
+      "time": 217.8785882352941,
+      "x": 80738.42689882351,
+      "groups": [
+        1277,
+        1278
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 222.848,
+      "x": 82663.67640470587,
+      "groups": [
+        1279,
+        1280
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 227.5915294117647,
+      "x": 84501.41456941175,
+      "groups": [
+        1281,
+        1282
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 233.23858823529412,
+      "x": 86689.19809882352,
+      "groups": [
+        1283,
+        1284
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 239.67623529411765,
+      "x": 89374.38812235292,
+      "groups": [
+        1285,
+        1286
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 243.40329411764705,
+      "x": 91118.65165176468,
+      "groups": [
+        1287,
+        1288
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 248.14682352941176,
+      "x": 93338.62341647057,
+      "groups": [
+        1289,
+        1290
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "charging fins",
+      "time": 251.87388235294117,
+      "x": 95082.88694588233,
+      "groups": [
+        1291,
+        1292
+      ],
+      "objects": 18
+    },
+    {
+      "kind": "pendulum lantern",
+      "time": 256.05270588235294,
+      "x": 96897.96355764705,
+      "groups": [
+        1293
+      ],
+      "pivot": 1294,
+      "objects": 8
+    },
+    {
+      "kind": "split drop gate",
+      "beat": 96,
+      "time": 34.01035294117647,
+      "x": 10766.945769411765,
+      "groups": [
+        1295,
+        1297
+      ],
+      "objects": 30
+    },
+    {
+      "kind": "split drop gate",
+      "beat": 288,
+      "time": 101.77505882352942,
+      "x": 35307.25635764706,
+      "groups": [
+        1299,
+        1301
+      ],
+      "objects": 30
+    },
+    {
+      "kind": "split drop gate",
+      "beat": 352,
+      "time": 124.36329411764707,
+      "x": 44058.390475294116,
+      "groups": [
+        1303,
+        1305
+      ],
+      "objects": 34
+    },
+    {
+      "kind": "split drop gate",
+      "beat": 608,
+      "time": 214.71623529411764,
+      "x": 79598.26812235292,
+      "groups": [
+        1307,
+        1309
+      ],
+      "objects": 30
+    },
+    {
+      "kind": "split drop gate",
+      "beat": 672,
+      "time": 237.3044705882353,
+      "x": 88349.40223999998,
+      "groups": [
+        1311,
+        1313
+      ],
+      "objects": 42
+    },
+    {
+      "kind": "gravity cue",
+      "time": 1.1868235294117646,
+      "x": 369.7904752941176,
+      "groups": [
+        1315
+      ],
+      "objects": 6
+    },
+    {
+      "kind": "gravity cue",
+      "time": 4.363294117647059,
+      "x": 1359.5151811764706,
+      "groups": [
+        1316
+      ],
+      "objects": 6
+    },
+    {
+      "kind": "gravity cue",
+      "time": 80.42211764705883,
+      "x": 28484.10694588235,
+      "groups": [
+        1317
+      ],
+      "objects": 6
+    },
+    {
+      "kind": "gravity cue",
+      "time": 85.36329411764706,
+      "x": 30023.678710588232,
+      "groups": [
+        1318
+      ],
+      "objects": 6
+    },
+    {
+      "kind": "gravity cue",
+      "time": 159.3044705882353,
+      "x": 59245.4610635294,
+      "groups": [
+        1319
+      ],
+      "objects": 6
+    },
+    {
+      "kind": "gravity cue",
+      "time": 161.9515294117647,
+      "x": 60270.98459294117,
+      "groups": [
+        1320
+      ],
+      "objects": 6
+    }
+  ],
+  "seconds": 259.89270588235297,
+  "high_detail": 16145
+}

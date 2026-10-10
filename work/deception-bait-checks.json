@@ -1,0 +1,455 @@
+[
+  {
+    "section": "CIPHER",
+    "id": 36,
+    "t": 2.627608142493635,
+    "x": 659.9500610687014,
+    "y": 69.64799999999997,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": false,
+    "collision_counts": {},
+    "first_collision": {}
+  },
+  {
+    "section": "CIPHER",
+    "id": 36,
+    "t": 8.335877862595417,
+    "x": 2093.639083969465,
+    "y": 45,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 36,
+      "spike collision": 15
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 8.57754452926207,
+        "y": 108.1620000000017,
+        "x": 2154.3360839694615,
+        "object": 392
+      },
+      "spike collision": {
+        "t": 8.665044529262065,
+        "y": 86.2380000000074,
+        "x": 2176.3125839694603,
+        "object": 396
+      }
+    }
+  },
+  {
+    "section": "CUTWIRE",
+    "id": 84,
+    "t": 15.956383493444422,
+    "x": 4007.605278213501,
+    "y": 60,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 229,
+      "spike collision": 87
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 16.081383493444417,
+        "y": 116.15999999999654,
+        "x": 4039.0002782134998,
+        "object": 773
+      },
+      "spike collision": {
+        "t": 16.282943333333332,
+        "y": 133.49319491600133,
+        "x": 4089.6240475999994,
+        "object": 782
+      }
+    }
+  },
+  {
+    "section": "CUTWIRE",
+    "id": 36,
+    "t": 21.186536165200106,
+    "x": 5321.2104232516585,
+    "y": 71.10750000000111,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 262
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 21.36986949853343,
+        "y": 135.73876742641627,
+        "x": 5367.256423251656,
+        "object": 946
+      }
+    }
+  },
+  {
+    "section": "SWITCHYARD",
+    "id": 84,
+    "t": 27.69009850616705,
+    "x": 6954.645140808916,
+    "y": 60,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 147,
+      "spike collision": 43
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 27.815098506167043,
+        "y": 109.04749999999628,
+        "x": 6986.040140808915,
+        "object": 1291
+      },
+      "spike collision": {
+        "t": 28.01628333333333,
+        "y": 136.07239044207785,
+        "x": 7036.569721999999,
+        "object": 1299
+      }
+    }
+  },
+  {
+    "section": "SWITCHYARD",
+    "id": 36,
+    "t": 30.646205376396072,
+    "x": 7697.100942335637,
+    "y": 75,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 94,
+      "spike collision": 10
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 30.7670387097294,
+        "y": 135.9342361111085,
+        "x": 7727.4494423356355,
+        "object": 1360
+      },
+      "spike collision": {
+        "t": 30.969573333333333,
+        "y": 174.87219320466497,
+        "x": 7778.3180384,
+        "object": 1368
+      }
+    }
+  },
+  {
+    "section": "SWITCHYARD",
+    "id": 84,
+    "t": 34.89366084713396,
+    "x": 8763.891858366165,
+    "y": 87.17940277757943,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 79,
+      "spike collision": 47
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 35.11866084713414,
+        "y": 200.28434812350648,
+        "x": 8820.40285836621,
+        "object": 1464
+      },
+      "spike collision": {
+        "t": 35.41551666666677,
+        "y": 171.5481773099056,
+        "x": 8894.961166000025,
+        "object": 1471
+      }
+    }
+  },
+  {
+    "section": "OFFBEAT",
+    "id": 84,
+    "t": 53.722541254258616,
+    "x": 14378.498499587531,
+    "y": 263.42879999999866,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "spike collision": 137,
+      "solid collision": 111
+    },
+    "first_collision": {
+      "spike collision": {
+        "t": 53.747541254258635,
+        "y": 270.11218451090014,
+        "x": 14384.777499587537,
+        "object": 1798
+      },
+      "solid collision": {
+        "t": 54.080874587592234,
+        "y": 285.0,
+        "x": 14468.497499587604,
+        "object": 2118
+      }
+    }
+  },
+  {
+    "section": "OFFBEAT",
+    "id": 84,
+    "t": 61.25014939675229,
+    "x": 16269.132560656242,
+    "y": 260.19839999999374,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "spike collision": 146,
+      "solid collision": 135
+    },
+    "first_collision": {
+      "spike collision": {
+        "t": 61.26681606341897,
+        "y": 264.5325747427092,
+        "x": 16273.318560656247,
+        "object": 2225
+      },
+      "solid collision": {
+        "t": 61.55721046546277,
+        "y": 265.1911999999915,
+        "x": 16346.254018673566,
+        "object": 2009
+      }
+    }
+  },
+  {
+    "section": "CROSSCODE",
+    "id": 84,
+    "t": 98.94938603797364,
+    "x": 26623.217873633334,
+    "y": 150.03911999989006,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 178
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 99.20355270464007,
+        "y": 15.0,
+        "x": 26687.054373633273,
+        "object": 3578
+      }
+    }
+  },
+  {
+    "section": "NEEDLEWORK",
+    "id": 84,
+    "t": 156.19277026189275,
+    "x": 41000.46625531286,
+    "y": 60,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 168
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 156.49277026189247,
+        "y": 276.43199999967584,
+        "x": 41075.81425531279,
+        "object": 5008
+      }
+    }
+  },
+  {
+    "section": "NEEDLEWORK",
+    "id": 36,
+    "t": 159.4823376919184,
+    "x": 41826.6740110381,
+    "y": 116.10750000001795,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 163
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 159.64483769191824,
+        "y": 177.73056280293187,
+        "x": 41867.48751103806,
+        "object": 5096
+      }
+    }
+  },
+  {
+    "section": "FALSE FLOOR",
+    "id": 84,
+    "t": 164.89913158504785,
+    "x": 43187.155965236496,
+    "y": 49.32006944475695,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 132
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 165.6116315850472,
+        "y": 285.0,
+        "x": 43366.10746523633,
+        "object": 5438
+      }
+    }
+  },
+  {
+    "section": "FALSE FLOOR",
+    "id": 36,
+    "t": 169.7250857835213,
+    "x": 44399.24262172508,
+    "y": 150,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "spike collision": 21,
+      "solid collision": 109
+    },
+    "first_collision": {
+      "spike collision": {
+        "t": 169.7584191168546,
+        "y": 129.98222222223933,
+        "x": 44407.61462172508,
+        "object": 5524
+      },
+      "solid collision": {
+        "t": 169.77508578352126,
+        "y": 120.89000000002399,
+        "x": 44411.80062172507,
+        "object": 5523
+      }
+    }
+  },
+  {
+    "section": "FALSE FLOOR",
+    "id": 84,
+    "t": 173.36414430769423,
+    "x": 45313.22856065636,
+    "y": 180,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 99,
+      "spike collision": 55
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 173.58497764102736,
+        "y": 70.06990277792659,
+        "x": 45368.69306065631,
+        "object": 5595
+      },
+      "spike collision": {
+        "t": 173.7849933333333,
+        "y": 73.0494088317563,
+        "x": 45418.92900193587,
+        "object": 5603
+      }
+    }
+  },
+  {
+    "section": "COUNTERFEIT",
+    "id": 84,
+    "t": 182.53704507105314,
+    "x": 47617.09431638158,
+    "y": 74.97359999999829,
+    "kind": "live gravity bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "spike collision": 77,
+      "solid collision": 94
+    },
+    "first_collision": {
+      "spike collision": {
+        "t": 182.56204507105312,
+        "y": 68.2343309043725,
+        "x": 47623.37331638158,
+        "object": 5997
+      },
+      "solid collision": {
+        "t": 182.837363137204,
+        "y": 39.45874317520365,
+        "x": 47692.52220187603,
+        "object": 6004
+      }
+    }
+  },
+  {
+    "section": "COUNTERFEIT",
+    "id": 36,
+    "t": 187.80422064357222,
+    "x": 48939.998133175475,
+    "y": 260.96159999999963,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "spike collision": 14,
+      "solid collision": 65
+    },
+    "first_collision": {
+      "spike collision": {
+        "t": 187.8167206435722,
+        "y": 268.83928697632575,
+        "x": 48943.13763317547,
+        "object": 6143
+      },
+      "solid collision": {
+        "t": 187.83338731023886,
+        "y": 279.0272869763169,
+        "x": 48947.32363317547,
+        "object": 6142
+      }
+    }
+  },
+  {
+    "section": "LAST WORD",
+    "id": 36,
+    "t": 196.07750308632015,
+    "x": 51017.915751496046,
+    "y": 225,
+    "kind": "live jump bait",
+    "group": 8500,
+    "wrong_hit_collides": true,
+    "collision_counts": {
+      "solid collision": 103,
+      "spike collision": 55
+    },
+    "first_collision": {
+      "solid collision": {
+        "t": 196.28166975298663,
+        "y": 159.73200000000037,
+        "x": 51069.194251495996,
+        "object": 6639
+      },
+      "spike collision": {
+        "t": 196.40666975298652,
+        "y": 183.76199999988424,
+        "x": 51100.58925149597,
+        "object": 6640
+      }
+    }
+  }
+]

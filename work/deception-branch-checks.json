@@ -1,0 +1,46 @@
+[
+  {
+    "section": "BLINDFOLD",
+    "length": 75,
+    "body_radius": 5,
+    "first_collision": [
+      71,
+      [
+        "solid"
+      ]
+    ]
+  },
+  {
+    "section": "FAULTLINE",
+    "length": 60,
+    "body_radius": 3,
+    "first_collision": [
+      58,
+      [
+        "solid"
+      ]
+    ]
+  },
+  {
+    "section": "PARALLAX",
+    "length": 164,
+    "body_radius": 15,
+    "first_collision": [
+      150,
+      [
+        "solid"
+      ]
+    ]
+  },
+  {
+    "section": "UNDERTOW",
+    "length": 180,
+    "body_radius": 15,
+    "first_collision": [
+      166,
+      [
+        "solid"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "section": "CIPHER",
+    "mode": "cube",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3532
+  },
+  {
+    "section": "CUTWIRE",
+    "mode": "robot",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2652
+  },
+  {
+    "section": "SWITCHYARD",
+    "mode": "ball",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2649
+  },
+  {
+    "section": "BLINDFOLD",
+    "mode": "wave",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 234.74401722633917,
+    "samples": 3319
+  },
+  {
+    "section": "OFFBEAT",
+    "mode": "ufo",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 151.90963196095564,
+    "samples": 3312
+  },
+  {
+    "section": "PARALLAX",
+    "mode": "ship",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 212.72933451305695,
+    "samples": 3317
+  },
+  {
+    "section": "BLIND ELEVATOR",
+    "mode": "spider",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2648
+  },
+  {
+    "section": "CROSSCODE",
+    "mode": "cube",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3530
+  },
+  {
+    "section": "FAULTLINE",
+    "mode": "wave",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 138.64299988373048,
+    "samples": 3316
+  },
+  {
+    "section": "RECALL",
+    "mode": "spider",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3529
+  },
+  {
+    "section": "UNDERTOW",
+    "mode": "ship",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 80.44956580934641,
+    "samples": 3318
+  },
+  {
+    "section": "NEEDLEWORK",
+    "mode": "robot",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 2651
+  },
+  {
+    "section": "FALSE FLOOR",
+    "mode": "ball",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3532
+  },
+  {
+    "section": "COUNTERFEIT",
+    "mode": "ufo",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 181.33740657221907,
+    "samples": 3313
+  },
+  {
+    "section": "LAST WORD",
+    "mode": "cube",
+    "offset": 0,
+    "gravity_scale": 1,
+    "errors": {},
+    "first": {},
+    "exit_y": 15.0,
+    "samples": 3532
+  }
+]

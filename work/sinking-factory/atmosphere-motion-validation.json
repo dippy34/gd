@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "motion_method": "serialized move triggers evaluated in atlas simulator",
+  "native_runtime_verified": false,
+  "groups_checked": 81,
+  "samples": [
+    {
+      "x": 17400,
+      "song_time_estimate": 49.1814,
+      "ash_objects_within_view_rectangle": 163,
+      "moving_objects_checked": 163,
+      "fall_speeds": [
+        -93,
+        -61,
+        -31
+      ]
+    },
+    {
+      "x": 19155,
+      "song_time_estimate": 52.8544,
+      "ash_objects_within_view_rectangle": 99,
+      "moving_objects_checked": 99,
+      "fall_speeds": [
+        -93,
+        -61,
+        -31
+      ]
+    },
+    {
+      "x": 21465,
+      "song_time_estimate": 57.1773,
+      "ash_objects_within_view_rectangle": 89,
+      "moving_objects_checked": 89,
+      "fall_speeds": [
+        -93,
+        -61,
+        -31
+      ]
+    },
+    {
+      "x": 23520,
+      "song_time_estimate": 61.5684,
+      "ash_objects_within_view_rectangle": 78,
+      "moving_objects_checked": 78,
+      "fall_speeds": [
+        -93,
+        -61,
+        -31
+      ]
+    }
+  ]
+}

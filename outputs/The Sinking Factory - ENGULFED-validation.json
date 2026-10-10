@@ -1,0 +1,83 @@
+{
+  "passed": true,
+  "roundtrip_valid": true,
+  "base_objects_unchanged": 57465,
+  "source_file_unchanged": true,
+  "custom_orbs_original_portals_blue_orb_fix_preserved": true,
+  "rejected_closing_fire_effect_removed": true,
+  "new_effect_objects": 289,
+  "total_objects": 57754,
+  "native_preset_flames": 227,
+  "uniformly_scaled_presets": true,
+  "randomized_animation_start": true,
+  "animation_enabled": true,
+  "added_collision_objects": 0,
+  "group_color_collisions": 0,
+  "motion": {
+    "left": {
+      "total_motion": [
+        356.4,
+        0.0
+      ],
+      "final_opaque_depth": 223.40000000000003
+    },
+    "right": {
+      "total_motion": [
+        -343.2,
+        0.0
+      ],
+      "final_opaque_depth": 210.2
+    },
+    "bottom": {
+      "total_motion": [
+        0.0,
+        330.0
+      ],
+      "final_opaque_depth": 197.0
+    },
+    "top": {
+      "total_motion": [
+        0.0,
+        -330.0
+      ],
+      "final_opaque_depth": 197.0
+    }
+  },
+  "full_coverage": {
+    "4:3": {
+      "full_coverage": true,
+      "ui_size": [
+        426.66666666666663,
+        320
+      ],
+      "vertical_opaque_overlap": 74.0
+    },
+    "16:9": {
+      "full_coverage": true,
+      "ui_size": [
+        568.8888888888889,
+        320
+      ],
+      "vertical_opaque_overlap": 74.0
+    },
+    "21:9": {
+      "full_coverage": true,
+      "ui_size": [
+        746.6666666666667,
+        320
+      ],
+      "vertical_opaque_overlap": 74.0
+    }
+  },
+  "full_engulfment_time": 64.4304933872861,
+  "off_time": 64.5704933872861,
+  "effect_layers": {
+    "169": 27,
+    "160": 4,
+    "161": 211,
+    "162": 30,
+    "163": 17
+  },
+  "native_playtest": false,
+  "sha256": "1573815ebec3c3967417322972316888681e952020998a7859e2894478230892"
+}

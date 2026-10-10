@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "source_untouched": true,
+  "original_objects_preserved": 6620,
+  "original_visual_edits": 920,
+  "all_original_gameplay_properties_unchanged": true,
+  "all_original_triggers_unchanged": true,
+  "added_objects": 5306,
+  "new_collidable_objects": 0,
+  "new_color_channels": 21,
+  "new_motion_triggers": 31,
+  "measured_music_accents": 32,
+  "unique_rotation_centers": true,
+  "new_id_collisions": 0,
+  "scope_visibility_gates_valid": true,
+  "gmd_roundtrip_valid": true,
+  "file_bytes": 98904,
+  "sha256": "e20b1cfdb1f0c651aeb14a4caeb7721127cc70f5b07836208f2594e785a0db8e",
+  "native_playtest": "Not performed; native bridge unavailable. Atlas diagnostics do not reproduce native shaders or exact camera tracking."
+}

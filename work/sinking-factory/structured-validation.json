@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "source_unchanged": true,
+  "gameplay_properties_unchanged": true,
+  "source_objects": 6620,
+  "added_objects": 5251,
+  "total_objects": 11871,
+  "original_structural_visual_edits": 920,
+  "explicit_visual_shader_reset": 1,
+  "added_collision_objects": 0,
+  "floating_debris_or_flame_props": 0,
+  "fitted_furnace_frames": 8,
+  "contained_moving_doors": 16,
+  "native_playtest": false,
+  "roundtrip_valid": true,
+  "sha256": "68517e42d5b6e4389f78493a3bcb85fa14dcb309dadaa578fb274cd5847c53ab",
+  "polygon_coverage_check": true
+}

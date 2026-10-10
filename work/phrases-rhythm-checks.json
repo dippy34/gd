@@ -1,0 +1,1495 @@
+{
+  "sections": [
+    {
+      "section": "CIPHER",
+      "start": 0,
+      "end": 14.657655758075464,
+      "mode": "cube",
+      "previous_inputs": 22,
+      "current_inputs": 22,
+      "unchanged_input_score": true,
+      "input_types": {
+        "jump": 17,
+        "orb": 5
+      },
+      "minimum_gap": 0.15000000000000036,
+      "maximum_gap": 0.9474400000000003,
+      "median_onset_distance": 0.0,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.70839,
+        0.17,
+        0.51843,
+        0.87801,
+        0.93787,
+        0.15,
+        0.74796,
+        0.45895,
+        0.67846,
+        0.18,
+        0.94744,
+        0.49887,
+        0.92789,
+        0.16,
+        0.74793,
+        0.43901,
+        0.92789,
+        0.16,
+        0.77787,
+        0.44897,
+        0.90794
+      ]
+    },
+    {
+      "section": "CUTWIRE",
+      "start": 14.657655758075464,
+      "end": 25.650022170289205,
+      "mode": "robot",
+      "previous_inputs": 15,
+      "current_inputs": 15,
+      "unchanged_input_score": true,
+      "input_types": {
+        "hold": 15
+      },
+      "minimum_gap": 0.4489799999999988,
+      "maximum_gap": 0.9378700000000002,
+      "median_onset_distance": 0.0,
+      "robot_holds": [
+        0.19,
+        0.095,
+        0.245,
+        0.17,
+        0.08,
+        0.12,
+        0.29,
+        0.1,
+        0.075,
+        0.205,
+        0.16,
+        0.085,
+        0.21,
+        0.095,
+        0.145
+      ],
+      "dash_holds": [],
+      "intervals": [
+        0.84807,
+        0.469114,
+        0.728166,
+        0.66848,
+        0.45896,
+        0.67846,
+        0.93787,
+        0.650202,
+        0.696738,
+        0.47891,
+        0.89796,
+        0.44898,
+        0.683519,
+        0.603551
+      ]
+    },
+    {
+      "section": "SWITCHYARD",
+      "start": 25.650022170289205,
+      "end": 36.642388582502946,
+      "mode": "ball",
+      "previous_inputs": 13,
+      "current_inputs": 13,
+      "unchanged_input_score": true,
+      "input_types": {
+        "flip": 13
+      },
+      "minimum_gap": 0.588264776275679,
+      "maximum_gap": 0.9179200000000023,
+      "median_onset_distance": 0.0,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.71836,
+        0.68844,
+        0.758675,
+        0.588265,
+        0.91791,
+        0.68844,
+        0.68843,
+        0.781077,
+        0.595793,
+        0.91792,
+        0.67845,
+        0.68844
+      ]
+    },
+    {
+      "section": "BLINDFOLD",
+      "start": 36.642388582502946,
+      "end": 51.29887713212127,
+      "mode": "wave",
+      "previous_inputs": 52,
+      "current_inputs": 52,
+      "unchanged_input_score": true,
+      "input_types": {
+        "turn": 52
+      },
+      "minimum_gap": 0.06097952371782611,
+      "maximum_gap": 0.6900314525964433,
+      "median_onset_distance": 0.08176310674625142,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.690031,
+        0.147635,
+        0.221452,
+        0.348563,
+        0.213767,
+        0.539187,
+        0.23108,
+        0.203266,
+        0.61859,
+        0.116845,
+        0.128378,
+        0.410809,
+        0.192567,
+        0.430066,
+        0.545931,
+        0.079912,
+        0.180752,
+        0.22948,
+        0.594335,
+        0.189357,
+        0.114268,
+        0.45896,
+        0.206686,
+        0.242294,
+        0.452048,
+        0.110156,
+        0.107517,
+        0.06098,
+        0.18721,
+        0.06846,
+        0.170101,
+        0.069003,
+        0.097888,
+        0.302938,
+        0.119999,
+        0.079795,
+        0.14,
+        0.549926,
+        0.596957,
+        0.087162,
+        0.07652,
+        0.128378,
+        0.645099,
+        0.23429,
+        0.17652,
+        0.314526,
+        0.221452,
+        0.520536,
+        0.254152,
+        0.204808,
+        0.545857
+      ]
+    },
+    {
+      "section": "OFFBEAT",
+      "start": 51.29887713212127,
+      "end": 65.9553656817396,
+      "mode": "ufo",
+      "previous_inputs": 22,
+      "current_inputs": 22,
+      "unchanged_input_score": true,
+      "input_types": {
+        "hop": 22
+      },
+      "minimum_gap": 0.3833333333336384,
+      "maximum_gap": 0.708333333333897,
+      "median_onset_distance": 0.05385666666397526,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.383333,
+        0.4375,
+        0.529167,
+        0.683333,
+        0.683333,
+        0.658333,
+        0.679167,
+        0.708333,
+        0.666667,
+        0.7,
+        0.658333,
+        0.629167,
+        0.7,
+        0.658333,
+        0.683333,
+        0.683333,
+        0.675,
+        0.679167,
+        0.641667,
+        0.670833,
+        0.695833
+      ]
+    },
+    {
+      "section": "PARALLAX",
+      "start": 65.9553656817396,
+      "end": 80.61185423135791,
+      "mode": "ship",
+      "previous_inputs": 96,
+      "current_inputs": 18,
+      "unchanged_input_score": false,
+      "input_types": {
+        "thrust": 18
+      },
+      "minimum_gap": 0.6372725423171488,
+      "maximum_gap": 1.0178605957022313,
+      "median_onset_distance": 0.09915365396675213,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.74232,
+        0.908665,
+        0.816088,
+        0.653931,
+        0.792811,
+        1.007989,
+        0.769487,
+        0.646874,
+        0.862329,
+        0.720144,
+        0.64379,
+        0.891974,
+        1.017861,
+        0.858934,
+        0.637273,
+        0.749891,
+        0.895552
+      ]
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "start": 80.61185423135791,
+      "end": 91.60422064357165,
+      "mode": "spider",
+      "previous_inputs": 20,
+      "current_inputs": 20,
+      "unchanged_input_score": true,
+      "input_types": {
+        "flip": 20
+      },
+      "minimum_gap": 0.2290076335877842,
+      "maximum_gap": 0.8033845472680525,
+      "median_onset_distance": 0.08718034879475312,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.265552,
+        0.572519,
+        0.229008,
+        0.629061,
+        0.401473,
+        0.458015,
+        0.572519,
+        0.229008,
+        0.803385,
+        0.47891,
+        0.320759,
+        0.607131,
+        0.43901,
+        0.671416,
+        0.256474,
+        0.439,
+        0.793076,
+        0.343511,
+        0.240283
+      ]
+    },
+    {
+      "section": "CROSSCODE",
+      "start": 91.60422064357165,
+      "end": 106.26070919318997,
+      "mode": "cube",
+      "previous_inputs": 26,
+      "current_inputs": 26,
+      "unchanged_input_score": true,
+      "input_types": {
+        "jump": 13,
+        "orb": 13
+      },
+      "minimum_gap": 0.15000000000000568,
+      "maximum_gap": 0.997329999999991,
+      "median_onset_distance": 0.05056479271799219,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.17,
+        0.74791,
+        0.17,
+        0.72796,
+        0.16,
+        0.98524,
+        0.18,
+        0.95957,
+        0.17,
+        0.74791,
+        0.16,
+        0.74794,
+        0.16,
+        0.74793,
+        0.15,
+        0.77789,
+        0.18,
+        0.99733,
+        0.16,
+        0.97741,
+        0.17,
+        0.76787,
+        0.17,
+        0.72796,
+        0.16
+      ]
+    },
+    {
+      "section": "FAULTLINE",
+      "start": 106.26070919318997,
+      "end": 120.91719774280828,
+      "mode": "wave",
+      "previous_inputs": 52,
+      "current_inputs": 17,
+      "unchanged_input_score": false,
+      "input_types": {
+        "turn": 17
+      },
+      "minimum_gap": 0.21500238891543688,
+      "maximum_gap": 2.344233635929257,
+      "median_onset_distance": 0.09866277656307432,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        2.344234,
+        0.373927,
+        0.831803,
+        0.70473,
+        0.517598,
+        2.005769,
+        0.589266,
+        0.215002,
+        0.433986,
+        0.768434,
+        0.672878,
+        0.513617,
+        1.660507,
+        0.83612,
+        0.696767,
+        0.46982
+      ]
+    },
+    {
+      "section": "RECALL",
+      "start": 120.91719774280828,
+      "end": 135.5736862924266,
+      "mode": "spider",
+      "previous_inputs": 28,
+      "current_inputs": 22,
+      "unchanged_input_score": false,
+      "input_types": {
+        "flip": 22
+      },
+      "minimum_gap": 0.2233792800924732,
+      "maximum_gap": 1.468493860245161,
+      "median_onset_distance": 0.06161633587786497,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.229008,
+        0.229008,
+        1.259542,
+        0.333732,
+        1.269321,
+        0.229008,
+        0.28626,
+        0.229008,
+        1.468494,
+        0.249063,
+        1.127807,
+        0.303491,
+        0.315099,
+        1.173451,
+        0.223379,
+        1.37687,
+        0.231812,
+        0.227138,
+        1.261411,
+        0.229008,
+        0.345411
+      ]
+    },
+    {
+      "section": "UNDERTOW",
+      "start": 135.5736862924266,
+      "end": 150.2301748420449,
+      "mode": "ship",
+      "previous_inputs": 89,
+      "current_inputs": 16,
+      "unchanged_input_score": false,
+      "input_types": {
+        "thrust": 16
+      },
+      "minimum_gap": 0.5932663574213564,
+      "maximum_gap": 1.57232812499862,
+      "median_onset_distance": 0.10902128580652004,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.593266,
+        0.656773,
+        0.871987,
+        1.007988,
+        1.572328,
+        0.733287,
+        0.915136,
+        0.759438,
+        0.852173,
+        1.05758,
+        1.328677,
+        0.830262,
+        0.895446,
+        0.988178,
+        0.766375
+      ]
+    },
+    {
+      "section": "NEEDLEWORK",
+      "start": 150.2301748420449,
+      "end": 161.22254125425866,
+      "mode": "robot",
+      "previous_inputs": 16,
+      "current_inputs": 14,
+      "unchanged_input_score": false,
+      "input_types": {
+        "hold": 13,
+        "orb": 1
+      },
+      "minimum_gap": 0.1599999999999966,
+      "maximum_gap": 1.135099051084893,
+      "median_onset_distance": 0.0,
+      "robot_holds": [
+        0.27,
+        0.07,
+        0.055,
+        0.045,
+        0.29,
+        0.065,
+        0.06,
+        0.045,
+        0.3,
+        0.08,
+        0.05,
+        0.055,
+        0.06
+      ],
+      "dash_holds": [],
+      "intervals": [
+        1.0975,
+        0.499684,
+        0.428216,
+        1.12743,
+        0.92789,
+        0.16,
+        1.020586,
+        0.458015,
+        1.135099,
+        0.94785,
+        0.63855,
+        0.67845,
+        0.46894
+      ]
+    },
+    {
+      "section": "FALSE FLOOR",
+      "start": 161.22254125425866,
+      "end": 175.879029803877,
+      "mode": "ball",
+      "previous_inputs": 15,
+      "current_inputs": 9,
+      "unchanged_input_score": false,
+      "input_types": {
+        "flip": 9
+      },
+      "minimum_gap": 0.6712547762757026,
+      "maximum_gap": 1.9856698802128392,
+      "median_onset_distance": 0.0,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        1.793145,
+        0.671255,
+        1.83583,
+        1.34694,
+        1.98567,
+        0.77805,
+        1.81587,
+        1.35691
+      ]
+    },
+    {
+      "section": "COUNTERFEIT",
+      "start": 175.879029803877,
+      "end": 190.5355183534953,
+      "mode": "ufo",
+      "previous_inputs": 24,
+      "current_inputs": 25,
+      "unchanged_input_score": false,
+      "input_types": {
+        "hop": 25
+      },
+      "minimum_gap": 0.2749999999997499,
+      "maximum_gap": 0.949999999999136,
+      "median_onset_distance": 0.08761000000387753,
+      "robot_holds": [],
+      "dash_holds": [],
+      "intervals": [
+        0.32682,
+        0.35,
+        0.525,
+        0.9,
+        0.3375,
+        0.5,
+        0.9375,
+        0.275,
+        0.35,
+        0.64405,
+        0.875,
+        0.3375,
+        0.5625,
+        0.925,
+        0.3375,
+        0.3375,
+        0.8875,
+        0.3375,
+        0.525,
+        0.95,
+        0.3375,
+        0.3375,
+        0.625,
+        0.91615
+      ]
+    },
+    {
+      "section": "LAST WORD",
+      "start": 190.5355183534953,
+      "end": 205.19200690311362,
+      "mode": "cube",
+      "previous_inputs": 26,
+      "current_inputs": 25,
+      "unchanged_input_score": false,
+      "input_types": {
+        "jump": 11,
+        "dash": 6,
+        "release": 6,
+        "orb": 2
+      },
+      "minimum_gap": 0.10499999999998977,
+      "maximum_gap": 1.1974193564283553,
+      "median_onset_distance": 0.10499999999998977,
+      "robot_holds": [],
+      "dash_holds": [
+        1.0500000000000114,
+        0.5762014938329401,
+        0.9199999999999875,
+        1.1974193564283553,
+        0.46000000000000796,
+        0.7400000000000091
+      ],
+      "intervals": [
+        0.14,
+        1.05,
+        0.642061,
+        0.19,
+        0.576201,
+        0.607844,
+        0.759056,
+        0.105,
+        0.92,
+        0.506021,
+        0.155,
+        1.197419,
+        0.708649,
+        0.16,
+        0.847451,
+        0.18,
+        0.46,
+        0.642626,
+        0.801527,
+        0.13,
+        0.74,
+        0.61855,
+        0.14,
+        0.661527
+      ]
+    }
+  ],
+  "sensitivity_probes": [
+    {
+      "section": "PARALLAX",
+      "input_time": 67.60635119606106,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "PARALLAX",
+      "input_time": 73.87600435360766,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "PARALLAX",
+      "input_time": 78.67572587053051,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FAULTLINE",
+      "input_time": 108.60494282911922,
+      "kind": "turn",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FAULTLINE",
+      "input_time": 114.27702415417097,
+      "kind": "turn",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FAULTLINE",
+      "input_time": 119.4253471883995,
+      "kind": "turn",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "RECALL",
+      "input_time": 122.06223591074722,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "RECALL",
+      "input_time": 128.81796110158692,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "RECALL",
+      "input_time": 133.8561290405182,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "UNDERTOW",
+      "input_time": 136.82372584320677,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "UNDERTOW",
+      "input_time": 143.5360630827842,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "UNDERTOW",
+      "input_time": 148.63620663746727,
+      "kind": "thrust",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "NEEDLEWORK",
+      "input_time": 151.79156,
+      "kind": "hold",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "NEEDLEWORK",
+      "input_time": 156.41338094891512,
+      "kind": "hold",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "NEEDLEWORK",
+      "input_time": 159.81333,
+      "kind": "hold",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FALSE FLOOR",
+      "input_time": 163.7416252237243,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FALSE FLOOR",
+      "input_time": 169.58131988021285,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "FALSE FLOOR",
+      "input_time": 172.17524,
+      "kind": "flip",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "COUNTERFEIT",
+      "input_time": 177.1808499999992,
+      "kind": "hop",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "COUNTERFEIT",
+      "input_time": 183.82489999999754,
+      "kind": "hop",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "COUNTERFEIT",
+      "input_time": 188.4998999999933,
+      "kind": "hop",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "LAST WORD",
+      "input_time": 192.29803743746476,
+      "kind": "release",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "LAST WORD",
+      "input_time": 197.95664,
+      "kind": "release",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    },
+    {
+      "section": "LAST WORD",
+      "input_time": 200.31274000000002,
+      "kind": "release",
+      "checks": [
+        {
+          "shift_seconds": -0.05,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.033333,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": -0.016667,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0,
+          "passes_model": true
+        },
+        {
+          "shift_seconds": 0.016667,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.033333,
+          "passes_model": false
+        },
+        {
+          "shift_seconds": 0.05,
+          "passes_model": false
+        }
+      ]
+    }
+  ],
+  "changed_sections": [
+    "PARALLAX",
+    "FAULTLINE",
+    "RECALL",
+    "UNDERTOW",
+    "NEEDLEWORK",
+    "FALSE FLOOR",
+    "COUNTERFEIT",
+    "LAST WORD"
+  ],
+  "preserved_sections": [
+    "BLIND ELEVATOR",
+    "BLINDFOLD",
+    "CIPHER",
+    "CROSSCODE",
+    "CUTWIRE",
+    "OFFBEAT",
+    "SWITCHYARD"
+  ],
+  "note": "No identical first/second counterpart scores. Shared game modes and familiar mechanics remain intentional. Model sensitivity cannot certify native difficulty or beatability."
+}

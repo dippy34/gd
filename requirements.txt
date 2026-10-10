@@ -1,0 +1,5 @@
+# Optional: native-atlas previews and historical decoration builders.
+# Inspection, validation and the optional CI template use the Python standard library only.
+numpy>=1.26,<3
+Pillow>=10,<12
+Shapely==2.0.7

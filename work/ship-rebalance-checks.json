@@ -1,0 +1,294 @@
+[
+  {
+    "section": "PARALLAX",
+    "inputs_before": 79,
+    "inputs_after": 39,
+    "passes_ms": [
+      0,
+      8,
+      12,
+      20,
+      40
+    ],
+    "runs": [
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": -0.04,
+        "gravity_scale": 1,
+        "errors": {
+          "spike collision": 357,
+          "solid collision": 597
+        },
+        "first": {
+          "spike collision": {
+            "t": 67.09869901507184,
+            "y": 38.37986111101988,
+            "x": 17807.134482793314,
+            "object": 7445
+          },
+          "solid collision": {
+            "t": 67.14453234840514,
+            "y": 27.28437499992699,
+            "x": 17821.4152327933,
+            "object": 7261
+          }
+        },
+        "exit_y": 52.99289913595038,
+        "samples": 3303
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": -0.02,
+        "gravity_scale": 1,
+        "errors": {
+          "spike collision": 69,
+          "solid collision": 183
+        },
+        "first": {
+          "spike collision": {
+            "t": 76.03536568173041,
+            "y": 38.756945555650276,
+            "x": 20591.621082790793,
+            "object": 7508
+          },
+          "solid collision": {
+            "t": 76.44369901506337,
+            "y": 61.44791777771981,
+            "x": 20718.849582790677,
+            "object": 7391
+          }
+        },
+        "exit_y": 47.67979481000214,
+        "samples": 3303
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": -0.012,
+        "gravity_scale": 1,
+        "errors": {
+          "solid collision": 250,
+          "spike collision": 246
+        },
+        "first": {
+          "solid collision": {
+            "t": 68.97669901507017,
+            "y": 101.67547222203044,
+            "x": 18392.28172279279,
+            "object": 7289
+          },
+          "spike collision": {
+            "t": 72.17669901506726,
+            "y": 38.35416888890051,
+            "x": 19389.337722791886,
+            "object": 7480
+          }
+        },
+        "exit_y": 45.66655307962508,
+        "samples": 3303
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": -0.008,
+        "gravity_scale": 1,
+        "errors": {
+          "spike collision": 234,
+          "solid collision": 247
+        },
+        "first": {
+          "spike collision": {
+            "t": 71.81819901506759,
+            "y": 261.0989600001873,
+            "x": 19277.63629279199,
+            "object": 7479
+          },
+          "solid collision": {
+            "t": 72.09319901506734,
+            "y": 265.68229333358727,
+            "x": 19363.320792791914,
+            "object": 7341
+          }
+        },
+        "exit_y": 44.68393221443479,
+        "samples": 3303
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": 0,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 109.56568592191458,
+        "samples": 3302
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": 0.008,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 109.67911085820117,
+        "samples": 3302
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": 0.012,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 109.75982332634462,
+        "samples": 3302
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": 0.02,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 109.96924826263117,
+        "samples": 3302
+      },
+      {
+        "section": "PARALLAX",
+        "mode": "ship",
+        "offset": 0.04,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 110.77281060334829,
+        "samples": 3302
+      }
+    ]
+  },
+  {
+    "section": "UNDERTOW",
+    "inputs_before": 86,
+    "inputs_after": 50,
+    "passes_ms": [
+      -20,
+      -8,
+      0,
+      8,
+      12,
+      20,
+      40
+    ],
+    "runs": [
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": -0.04,
+        "gravity_scale": 1,
+        "errors": {
+          "solid collision": 8
+        },
+        "first": {
+          "solid collision": {
+            "t": 167.12004125425327,
+            "y": 105.13714833347741,
+            "x": 43744.959637754124,
+            "object": 15034
+          }
+        },
+        "exit_y": 116.8147532761626,
+        "samples": 3303
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": -0.02,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 104.70771968716406,
+        "samples": 3303
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": -0.012,
+        "gravity_scale": 1,
+        "errors": {
+          "solid collision": 121
+        },
+        "first": {
+          "solid collision": {
+            "t": 165.28554125425495,
+            "y": 122.4393611108697,
+            "x": 43284.20661775455,
+            "object": 15009
+          }
+        },
+        "exit_y": 117.37443266581826,
+        "samples": 3303
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": -0.008,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 83.85259228265862,
+        "samples": 3303
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": 0,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 100.32047290193185,
+        "samples": 3302
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": 0.008,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 100.24038129897627,
+        "samples": 3302
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": 0.012,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 100.17633549749868,
+        "samples": 3302
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": 0.02,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 100.00024389454298,
+        "samples": 3302
+      },
+      {
+        "section": "UNDERTOW",
+        "mode": "ship",
+        "offset": 0.04,
+        "gravity_scale": 1,
+        "errors": {},
+        "first": {},
+        "exit_y": 99.28004661283346,
+        "samples": 3302
+      }
+    ]
+  }
+]

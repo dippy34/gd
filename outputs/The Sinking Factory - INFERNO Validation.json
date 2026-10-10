@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "source_untouched": true,
+  "original_gameplay_properties_unchanged": true,
+  "original_objects": 6620,
+  "new_objects": 4316,
+  "total_objects": 10936,
+  "structural_color_edits": 920,
+  "visual_shader_edits": 1,
+  "new_collidable_objects": 0,
+  "motion_triggers": 151,
+  "measured_music_accents": 32,
+  "gmd_roundtrip": true,
+  "source_UFO_distortion_preserved": true,
+  "native_import": "Previous candidate imported and native object count confirmed; latest change only removes initial hiding trigger.",
+  "native_playtest": false,
+  "file": "$PROJECT_ROOT/outputs/The Sinking Factory - INFERNO.gmd",
+  "sha256": "1fd4c48359218fe4ffe2474ed4d9344362d4354ac94a0d419bee5ef26a300cc5",
+  "animated_flame_emitters": 11
+}

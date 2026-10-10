@@ -1,0 +1,3214 @@
+{
+  "file_sha256": "b4c2346e51535a356d87de9e5c8251185da51bae1c728f0a60a21a784153d131",
+  "audio_sync": [
+    {
+      "version": "previous",
+      "inputs": 401,
+      "within_25ms": 126,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "inputs": 30,
+          "within_25ms": 17,
+          "median_ms": 0.0,
+          "p90_ms": 200.00000000000017
+        },
+        {
+          "section": "CUTWIRE",
+          "inputs": 15,
+          "within_25ms": 12,
+          "median_ms": 0.0,
+          "p90_ms": 206.61090311363208
+        },
+        {
+          "section": "SWITCHYARD",
+          "inputs": 16,
+          "within_25ms": 11,
+          "median_ms": 0.0,
+          "p90_ms": 128.0837075733885
+        },
+        {
+          "section": "BLINDFOLD",
+          "inputs": 32,
+          "within_25ms": 3,
+          "median_ms": 105.96793893130041,
+          "p90_ms": 200.04502630770205
+        },
+        {
+          "section": "OFFBEAT",
+          "inputs": 28,
+          "within_25ms": 9,
+          "median_ms": 56.038333335024504,
+          "p90_ms": 157.14448048092535
+        },
+        {
+          "section": "PARALLAX",
+          "inputs": 96,
+          "within_25ms": 16,
+          "median_ms": 83.72098493319413,
+          "p90_ms": 187.4150000008683
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "inputs": 20,
+          "within_25ms": 9,
+          "median_ms": 87.18034879475312,
+          "p90_ms": 218.12285918848033
+        },
+        {
+          "section": "CROSSCODE",
+          "inputs": 30,
+          "within_25ms": 12,
+          "median_ms": 69.24499999999512,
+          "p90_ms": 170.0000000000017
+        },
+        {
+          "section": "FAULTLINE",
+          "inputs": 17,
+          "within_25ms": 2,
+          "median_ms": 98.66277656307432,
+          "p90_ms": 189.9516996274031
+        },
+        {
+          "section": "RECALL",
+          "inputs": 22,
+          "within_25ms": 9,
+          "median_ms": 61.61633587786497,
+          "p90_ms": 203.715034761008
+        },
+        {
+          "section": "UNDERTOW",
+          "inputs": 16,
+          "within_25ms": 1,
+          "median_ms": 109.02128580652004,
+          "p90_ms": 178.31977375907115
+        },
+        {
+          "section": "NEEDLEWORK",
+          "inputs": 14,
+          "within_25ms": 10,
+          "median_ms": 0.0,
+          "p90_ms": 207.9738144436618
+        },
+        {
+          "section": "FALSE FLOOR",
+          "inputs": 13,
+          "within_25ms": 9,
+          "median_ms": 0.0,
+          "p90_ms": 164.78597604257175
+        },
+        {
+          "section": "COUNTERFEIT",
+          "inputs": 25,
+          "within_25ms": 3,
+          "median_ms": 87.61000000387753,
+          "p90_ms": 186.22999999852823
+        },
+        {
+          "section": "LAST WORD",
+          "inputs": 27,
+          "within_25ms": 3,
+          "median_ms": 91.43000000003099,
+          "p90_ms": 163.42695102847532
+        }
+      ]
+    },
+    {
+      "version": "new",
+      "inputs": 352,
+      "within_25ms": 286,
+      "rooms": [
+        {
+          "section": "CIPHER",
+          "inputs": 30,
+          "within_25ms": 17,
+          "median_ms": 0.0,
+          "p90_ms": 200.00000000000017
+        },
+        {
+          "section": "CUTWIRE",
+          "inputs": 15,
+          "within_25ms": 12,
+          "median_ms": 0.0,
+          "p90_ms": 206.61090311363208
+        },
+        {
+          "section": "SWITCHYARD",
+          "inputs": 16,
+          "within_25ms": 11,
+          "median_ms": 0.0,
+          "p90_ms": 128.0837075733885
+        },
+        {
+          "section": "BLINDFOLD",
+          "inputs": 29,
+          "within_25ms": 29,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "OFFBEAT",
+          "inputs": 21,
+          "within_25ms": 21,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "PARALLAX",
+          "inputs": 24,
+          "within_25ms": 24,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "BLIND ELEVATOR",
+          "inputs": 19,
+          "within_25ms": 18,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "CROSSCODE",
+          "inputs": 30,
+          "within_25ms": 12,
+          "median_ms": 69.24499999999512,
+          "p90_ms": 170.0000000000017
+        },
+        {
+          "section": "FAULTLINE",
+          "inputs": 27,
+          "within_25ms": 27,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "RECALL",
+          "inputs": 26,
+          "within_25ms": 24,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "UNDERTOW",
+          "inputs": 31,
+          "within_25ms": 31,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "NEEDLEWORK",
+          "inputs": 14,
+          "within_25ms": 10,
+          "median_ms": 0.0,
+          "p90_ms": 207.9738144436618
+        },
+        {
+          "section": "FALSE FLOOR",
+          "inputs": 13,
+          "within_25ms": 9,
+          "median_ms": 0.0,
+          "p90_ms": 164.78597604257175
+        },
+        {
+          "section": "COUNTERFEIT",
+          "inputs": 22,
+          "within_25ms": 22,
+          "median_ms": 0.0,
+          "p90_ms": 0.0
+        },
+        {
+          "section": "LAST WORD",
+          "inputs": 35,
+          "within_25ms": 19,
+          "median_ms": 0.3400000000226555,
+          "p90_ms": 169.9999999999875
+        }
+      ]
+    }
+  ],
+  "final_cube_timing": [
+    {
+      "version": "previous",
+      "passes": 133,
+      "total": 250,
+      "probes": [
+        {
+          "time": 191.93303743746478,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 19,
+          "range_ms": [
+            -50.0,
+            25.0
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 194.57065000000003,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 13,
+          "range_ms": [
+            -20.833,
+            29.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 197.70372446036552,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 14,
+          "range_ms": [
+            -20.833,
+            33.333
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 200.47532751380066,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 19,
+          "range_ms": [
+            -50.0,
+            25.0
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 191.10803743746476,
+          "kind": "jump",
+          "orb": null,
+          "passes": 15,
+          "range_ms": [
+            -50.0,
+            8.333
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 196.7187244603655,
+          "kind": "jump",
+          "orb": null,
+          "passes": 15,
+          "range_ms": [
+            -50.0,
+            8.333
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 202.78742675044185,
+          "kind": "jump",
+          "orb": null,
+          "passes": 14,
+          "range_ms": [
+            -50.0,
+            4.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 200.64532751380065,
+          "kind": "orb",
+          "orb": 36,
+          "passes": 10,
+          "range_ms": [
+            -25.0,
+            12.5
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 201.8123885825029,
+          "kind": "orb",
+          "orb": 84,
+          "passes": 7,
+          "range_ms": [
+            -8.333,
+            16.667
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 202.95742675044184,
+          "kind": "orb",
+          "orb": 84,
+          "passes": 7,
+          "range_ms": [
+            -8.333,
+            16.667
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "version": "new",
+      "passes": 101,
+      "total": 250,
+      "probes": [
+        {
+          "time": 191.28181,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 8,
+          "range_ms": [
+            -12.5,
+            16.667
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 193.7063,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 8,
+          "range_ms": [
+            -12.5,
+            16.667
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 196.45007,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 10,
+          "range_ms": [
+            -12.5,
+            25.0
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 198.75483,
+          "kind": "release",
+          "orb": 1704,
+          "passes": 8,
+          "range_ms": [
+            -12.5,
+            16.667
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 190.79745,
+          "kind": "jump",
+          "orb": null,
+          "passes": 14,
+          "range_ms": [
+            -50.0,
+            4.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 195.78610999999998,
+          "kind": "jump",
+          "orb": null,
+          "passes": 14,
+          "range_ms": [
+            -50.0,
+            4.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 202.67553,
+          "kind": "jump",
+          "orb": null,
+          "passes": 14,
+          "range_ms": [
+            -50.0,
+            4.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 203.06503,
+          "kind": "orb",
+          "orb": 84,
+          "passes": 5,
+          "range_ms": [
+            -8.333,
+            8.333
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 203.77342,
+          "kind": "orb",
+          "orb": 84,
+          "passes": 13,
+          "range_ms": [
+            -20.833,
+            29.167
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": true
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": true
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        },
+        {
+          "time": 203.92342,
+          "kind": "orb",
+          "orb": 84,
+          "passes": 7,
+          "range_ms": [
+            -12.5,
+            12.5
+          ],
+          "tests": [
+            {
+              "shift_ms": -50.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": -33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": -29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": -25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": -20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": -16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": -12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": -8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": -4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 0.0,
+              "passes": true
+            },
+            {
+              "shift_ms": 4.167,
+              "passes": true
+            },
+            {
+              "shift_ms": 8.333,
+              "passes": true
+            },
+            {
+              "shift_ms": 12.5,
+              "passes": true
+            },
+            {
+              "shift_ms": 16.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 20.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 25.0,
+              "passes": false
+            },
+            {
+              "shift_ms": 29.167,
+              "passes": false
+            },
+            {
+              "shift_ms": 33.333,
+              "passes": false
+            },
+            {
+              "shift_ms": 37.5,
+              "passes": false
+            },
+            {
+              "shift_ms": 41.667,
+              "passes": false
+            },
+            {
+              "shift_ms": 45.833,
+              "passes": false
+            },
+            {
+              "shift_ms": 50.0,
+              "passes": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spider_orb_timings": [
+    {
+      "time": 81.49134,
+      "kind": "orb",
+      "orb": 141,
+      "passes": 15,
+      "range_ms": [
+        -50.0,
+        8.333
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "BLIND ELEVATOR"
+    },
+    {
+      "time": 85.65188,
+      "kind": "orb",
+      "orb": 141,
+      "passes": 15,
+      "range_ms": [
+        -50.0,
+        8.333
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "BLIND ELEVATOR"
+    },
+    {
+      "time": 88.86458,
+      "kind": "orb",
+      "orb": 141,
+      "passes": 15,
+      "range_ms": [
+        -50.0,
+        8.333
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "BLIND ELEVATOR"
+    },
+    {
+      "time": 121.3707,
+      "kind": "orb",
+      "orb": 36,
+      "passes": 14,
+      "range_ms": [
+        -50.0,
+        4.167
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "RECALL"
+    },
+    {
+      "time": 128.24508,
+      "kind": "orb",
+      "orb": 141,
+      "passes": 15,
+      "range_ms": [
+        -50.0,
+        8.333
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "RECALL"
+    },
+    {
+      "time": 133.27365,
+      "kind": "orb",
+      "orb": 36,
+      "passes": 14,
+      "range_ms": [
+        -50.0,
+        4.167
+      ],
+      "tests": [
+        {
+          "shift_ms": -50.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -45.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -41.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -37.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -33.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -29.167,
+          "passes": true
+        },
+        {
+          "shift_ms": -25.0,
+          "passes": true
+        },
+        {
+          "shift_ms": -20.833,
+          "passes": true
+        },
+        {
+          "shift_ms": -16.667,
+          "passes": true
+        },
+        {
+          "shift_ms": -12.5,
+          "passes": true
+        },
+        {
+          "shift_ms": -8.333,
+          "passes": true
+        },
+        {
+          "shift_ms": -4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 0.0,
+          "passes": true
+        },
+        {
+          "shift_ms": 4.167,
+          "passes": true
+        },
+        {
+          "shift_ms": 8.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 12.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 16.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 20.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 25.0,
+          "passes": false
+        },
+        {
+          "shift_ms": 29.167,
+          "passes": false
+        },
+        {
+          "shift_ms": 33.333,
+          "passes": false
+        },
+        {
+          "shift_ms": 37.5,
+          "passes": false
+        },
+        {
+          "shift_ms": 41.667,
+          "passes": false
+        },
+        {
+          "shift_ms": 45.833,
+          "passes": false
+        },
+        {
+          "shift_ms": 50.0,
+          "passes": false
+        }
+      ],
+      "section": "RECALL"
+    }
+  ],
+  "momentum_checks": [
+    {
+      "release_vertical_velocity": -35,
+      "errors": {}
+    },
+    {
+      "release_vertical_velocity": 0,
+      "errors": {}
+    },
+    {
+      "release_vertical_velocity": 35,
+      "errors": {}
+    }
+  ],
+  "room_comparisons": [
+    {
+      "mode": "wave",
+      "rooms": [
+        "BLINDFOLD",
+        "FAULTLINE"
+      ],
+      "different_relative_input_scores": true
+    },
+    {
+      "mode": "ship",
+      "rooms": [
+        "PARALLAX",
+        "UNDERTOW"
+      ],
+      "different_relative_input_scores": true
+    },
+    {
+      "mode": "ufo",
+      "rooms": [
+        "OFFBEAT",
+        "COUNTERFEIT"
+      ],
+      "different_relative_input_scores": true
+    },
+    {
+      "mode": "spider",
+      "rooms": [
+        "BLIND ELEVATOR",
+        "RECALL"
+      ],
+      "different_relative_input_scores": true
+    }
+  ],
+  "limitations": "Measured onset proximity and independent approximate physics. These are sampled timing sensitivities, not native frame windows, full native completion, or a demon-rating certification."
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "section": "CIPHER",
+    "samples": 3528,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "CUTWIRE",
+    "samples": 2654,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "SWITCHYARD",
+    "samples": 2646,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "BLINDFOLD",
+    "samples": 3539,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "OFFBEAT",
+    "samples": 3539,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "PARALLAX",
+    "samples": 3541,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "BLIND ELEVATOR",
+    "samples": 2645,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "CROSSCODE",
+    "samples": 3530,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "FAULTLINE",
+    "samples": 3535,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "RECALL",
+    "samples": 3527,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "UNDERTOW",
+    "samples": 3543,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "NEEDLEWORK",
+    "samples": 2653,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "FALSE FLOOR",
+    "samples": 3528,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "COUNTERFEIT",
+    "samples": 3539,
+    "errors": {},
+    "first": {}
+  },
+  {
+    "section": "LAST WORD",
+    "samples": 3532,
+    "errors": {},
+    "first": {}
+  }
+]

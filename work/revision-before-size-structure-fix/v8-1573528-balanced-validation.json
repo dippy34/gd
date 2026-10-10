@@ -1,0 +1,901 @@
+{
+  "file": "v8-1573528-balanced.gmd",
+  "sha256": "9b1607b9e2a7915fb53add71bd61930547929a1b3c81e118dee8f7766a3cf497",
+  "objects": 17904,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "mode_count": 7,
+  "rooms": 15,
+  "input_events": 405,
+  "spike_count": 839,
+  "spikes_outside_playfield": 0,
+  "native_timewarp_objects": 0,
+  "memory_decisions": 40,
+  "nominal_path_samples": 49395,
+  "rooms_with_nominal_overlaps": 0,
+  "results": [
+    {
+      "section": "CIPHER",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CUTWIRE",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "SWITCHYARD",
+      "samples": 2646,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLINDFOLD",
+      "samples": 3535,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "OFFBEAT",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "PARALLAX",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "samples": 2647,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CROSSCODE",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FAULTLINE",
+      "samples": 3542,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "NEEDLEWORK",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "COUNTERFEIT",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FALSE FLOOR",
+      "samples": 3527,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "UNDERTOW",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "RECALL",
+      "samples": 3531,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "LAST WORD",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    }
+  ],
+  "memory_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "correct": true,
+      "group": 101,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 64.69689999999997
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "correct": false,
+      "group": 102,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "correct": true,
+      "group": 103,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 58.62720000000013
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "correct": false,
+      "group": 104,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999998
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "correct": true,
+      "group": 105,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 44.8134
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "correct": false,
+      "group": 106,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "correct": true,
+      "group": 107,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 68.88290000000006
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "correct": false,
+      "group": 108,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5336000000002
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "correct": false,
+      "group": 112,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "correct": false,
+      "group": 113,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999975
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "correct": false,
+      "group": 114,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 53.00887713212242,
+      "correct": false,
+      "group": 121,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 56.42137713212514,
+      "correct": false,
+      "group": 122,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 58.46637713212675,
+      "correct": true,
+      "group": 123,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000066
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 60.43387713212833,
+      "correct": false,
+      "group": 124,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 62.495543798796625,
+      "correct": true,
+      "group": 125,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 63.796377132131006,
+      "correct": false,
+      "group": 126,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "correct": false,
+      "group": 130,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "correct": false,
+      "group": 131,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "correct": false,
+      "group": 132,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53359999999884
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "correct": false,
+      "group": 133,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 133.53623082168744,
+      "correct": false,
+      "group": 141,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 134.91456415501955,
+      "correct": true,
+      "group": 142,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 136.7612308216845,
+      "correct": false,
+      "group": 143,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 137.70623082168368,
+      "correct": true,
+      "group": 144,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 140.38206415501455,
+      "correct": false,
+      "group": 145,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 141.74789748834667,
+      "correct": true,
+      "group": 146,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 143.16539748834535,
+      "correct": false,
+      "group": 147,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 148.53460232296092,
+      "correct": false,
+      "group": 149,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 151.62304,
+      "correct": false,
+      "group": 150,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 154.60330461303727,
+      "correct": false,
+      "group": 151,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 157.69490766647237,
+      "correct": false,
+      "group": 152,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 191.66181,
+      "correct": true,
+      "group": 156,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 32.37930000000051
+    },
+    {
+      "section": "LAST WORD",
+      "time": 192.98838999999998,
+      "correct": false,
+      "group": 157,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 195.5546786588388,
+      "correct": true,
+      "group": 158,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11539999999513
+    },
+    {
+      "section": "LAST WORD",
+      "time": 197.08907,
+      "correct": false,
+      "group": 159,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.5335999999952
+    },
+    {
+      "section": "LAST WORD",
+      "time": 198.67587,
+      "correct": true,
+      "group": 160,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 75.37120000000141
+    },
+    {
+      "section": "LAST WORD",
+      "time": 200.35165999999998,
+      "correct": false,
+      "group": 161,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    },
+    {
+      "section": "LAST WORD",
+      "time": 201.69862,
+      "correct": true,
+      "group": 162,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 74.11540000000241
+    },
+    {
+      "section": "LAST WORD",
+      "time": 203.26503,
+      "correct": false,
+      "group": 163,
+      "wrong_choice_leaves_or_creates_full_wall": true,
+      "orb_to_wall_lead_units": 110.53360000000248
+    }
+  ],
+  "limitations": [
+    "Recorded-route finite-body collision audit, not native completion verification.",
+    "Ship/UFO/ball acceleration and portal contact offsets need native testing.",
+    "Target difficulty is not a measured or assigned demon rating."
+  ],
+  "independent_model_replay": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "BLINDFOLD",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 67.13622949008011,
+      "samples": 3318
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 241.7809180293776,
+      "samples": 3304
+    },
+    {
+      "section": "PARALLAX",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 109.56568592191458,
+      "samples": 3302
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3530
+    },
+    {
+      "section": "FAULTLINE",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 88.8440069939506,
+      "samples": 3325
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 201.56830759659718,
+      "samples": 3305
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3527
+    },
+    {
+      "section": "UNDERTOW",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 100.32047290193185,
+      "samples": 3302
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    }
+  ],
+  "ship_balance_checks": [
+    {
+      "section": "PARALLAX",
+      "inputs_before": 79,
+      "inputs_after": 39,
+      "passes_ms": [
+        0,
+        8,
+        12,
+        20,
+        40
+      ],
+      "runs": [
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": -0.04,
+          "gravity_scale": 1,
+          "errors": {
+            "spike collision": 357,
+            "solid collision": 597
+          },
+          "first": {
+            "spike collision": {
+              "t": 67.09869901507184,
+              "y": 38.37986111101988,
+              "x": 17807.134482793314,
+              "object": 7445
+            },
+            "solid collision": {
+              "t": 67.14453234840514,
+              "y": 27.28437499992699,
+              "x": 17821.4152327933,
+              "object": 7261
+            }
+          },
+          "exit_y": 52.99289913595038,
+          "samples": 3303
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": -0.02,
+          "gravity_scale": 1,
+          "errors": {
+            "spike collision": 69,
+            "solid collision": 183
+          },
+          "first": {
+            "spike collision": {
+              "t": 76.03536568173041,
+              "y": 38.756945555650276,
+              "x": 20591.621082790793,
+              "object": 7508
+            },
+            "solid collision": {
+              "t": 76.44369901506337,
+              "y": 61.44791777771981,
+              "x": 20718.849582790677,
+              "object": 7391
+            }
+          },
+          "exit_y": 47.67979481000214,
+          "samples": 3303
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": -0.012,
+          "gravity_scale": 1,
+          "errors": {
+            "solid collision": 250,
+            "spike collision": 246
+          },
+          "first": {
+            "solid collision": {
+              "t": 68.97669901507017,
+              "y": 101.67547222203044,
+              "x": 18392.28172279279,
+              "object": 7289
+            },
+            "spike collision": {
+              "t": 72.17669901506726,
+              "y": 38.35416888890051,
+              "x": 19389.337722791886,
+              "object": 7480
+            }
+          },
+          "exit_y": 45.66655307962508,
+          "samples": 3303
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": -0.008,
+          "gravity_scale": 1,
+          "errors": {
+            "spike collision": 234,
+            "solid collision": 247
+          },
+          "first": {
+            "spike collision": {
+              "t": 71.81819901506759,
+              "y": 261.0989600001873,
+              "x": 19277.63629279199,
+              "object": 7479
+            },
+            "solid collision": {
+              "t": 72.09319901506734,
+              "y": 265.68229333358727,
+              "x": 19363.320792791914,
+              "object": 7341
+            }
+          },
+          "exit_y": 44.68393221443479,
+          "samples": 3303
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": 0,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 109.56568592191458,
+          "samples": 3302
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": 0.008,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 109.67911085820117,
+          "samples": 3302
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": 0.012,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 109.75982332634462,
+          "samples": 3302
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": 0.02,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 109.96924826263117,
+          "samples": 3302
+        },
+        {
+          "section": "PARALLAX",
+          "mode": "ship",
+          "offset": 0.04,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 110.77281060334829,
+          "samples": 3302
+        }
+      ]
+    },
+    {
+      "section": "UNDERTOW",
+      "inputs_before": 86,
+      "inputs_after": 50,
+      "passes_ms": [
+        -20,
+        -8,
+        0,
+        8,
+        12,
+        20,
+        40
+      ],
+      "runs": [
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": -0.04,
+          "gravity_scale": 1,
+          "errors": {
+            "solid collision": 8
+          },
+          "first": {
+            "solid collision": {
+              "t": 167.12004125425327,
+              "y": 105.13714833347741,
+              "x": 43744.959637754124,
+              "object": 15034
+            }
+          },
+          "exit_y": 116.8147532761626,
+          "samples": 3303
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": -0.02,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 104.70771968716406,
+          "samples": 3303
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": -0.012,
+          "gravity_scale": 1,
+          "errors": {
+            "solid collision": 121
+          },
+          "first": {
+            "solid collision": {
+              "t": 165.28554125425495,
+              "y": 122.4393611108697,
+              "x": 43284.20661775455,
+              "object": 15009
+            }
+          },
+          "exit_y": 117.37443266581826,
+          "samples": 3303
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": -0.008,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 83.85259228265862,
+          "samples": 3303
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": 0,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 100.32047290193185,
+          "samples": 3302
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": 0.008,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 100.24038129897627,
+          "samples": 3302
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": 0.012,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 100.17633549749868,
+          "samples": 3302
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": 0.02,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 100.00024389454298,
+          "samples": 3302
+        },
+        {
+          "section": "UNDERTOW",
+          "mode": "ship",
+          "offset": 0.04,
+          "gravity_scale": 1,
+          "errors": {},
+          "first": {},
+          "exit_y": 99.28004661283346,
+          "samples": 3302
+        }
+      ]
+    }
+  ],
+  "nonship_gameplay_preserved": [
+    "CIPHER",
+    "CUTWIRE",
+    "SWITCHYARD",
+    "BLINDFOLD",
+    "OFFBEAT",
+    "BLIND ELEVATOR",
+    "CROSSCODE",
+    "FAULTLINE",
+    "NEEDLEWORK",
+    "COUNTERFEIT",
+    "FALSE FLOOR",
+    "RECALL",
+    "LAST WORD"
+  ],
+  "native_verification": {
+    "completed": false,
+    "reason": "Local native editor bridge reports disconnected; no native completion run is claimed."
+  },
+  "previous_file": "v8-1573528-memory.gmd"
+}

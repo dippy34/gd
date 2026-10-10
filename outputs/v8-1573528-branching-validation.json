@@ -1,0 +1,594 @@
+{
+  "file": "v8-1573528-branching.gmd",
+  "sha256": "17ddb9d245f117157385613017aba45744836424356d49a25c393277dff8733a",
+  "objects": 26934,
+  "song": 1573528,
+  "seconds": 205.19200690311362,
+  "slow_percent": 85.7143669767422,
+  "rooms": 15,
+  "modes": 7,
+  "nominal_inputs": 550,
+  "random_decisions": 34,
+  "random_checks": [
+    {
+      "section": "CIPHER",
+      "time": 2.03279,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.942,
+      "body_to_wall_after_orb_seconds": 0.19786948558687678
+    },
+    {
+      "section": "CIPHER",
+      "time": 3.41923,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999997,
+      "body_to_wall_after_orb_seconds": 0.38036948558687683
+    },
+    {
+      "section": "CIPHER",
+      "time": 4.5371,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.17370281892021075
+    },
+    {
+      "section": "CIPHER",
+      "time": 5.71401,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687683
+    },
+    {
+      "section": "CIPHER",
+      "time": 7.52991,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.11870281892021023
+    },
+    {
+      "section": "CIPHER",
+      "time": 9.14667,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868777
+    },
+    {
+      "section": "CIPHER",
+      "time": 10.30361,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.2145361522535438
+    },
+    {
+      "section": "CIPHER",
+      "time": 12.15937,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868777
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 28.46295,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868759
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 31.416240000000002,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868759
+    },
+    {
+      "section": "SWITCHYARD",
+      "time": 34.39946,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 53.00887713212242,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 56.42137713212514,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 58.46637713212675,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.38036948558687955
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 60.43387713212833,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 62.495543798796625,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "OFFBEAT",
+      "time": 63.796377132131006,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000002,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 93.82415,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 97.00692000000001,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 99.7407,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.3803694855868723
+    },
+    {
+      "section": "CROSSCODE",
+      "time": 102.98333000000001,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9420000000000073,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 163.30559468937315,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 166.93822999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 170.58992999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "FALSE FLOOR",
+      "time": 174.23165999999998,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 177.4848631372091,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 178.83402980387456,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 180.76402980387277,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 184.42236313720278,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    },
+    {
+      "section": "COUNTERFEIT",
+      "time": 187.12236313720032,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 192.71939,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 195.7146786588388,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 198.66587,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.38036948558688677
+    },
+    {
+      "section": "LAST WORD",
+      "time": 201.85862,
+      "probability_wall": 0.5,
+      "both_branches_correct": true,
+      "wrong_choices_create_or_leave_barrier": true,
+      "reveal_before_orb_seconds": 0.9419999999999789,
+      "body_to_wall_after_orb_seconds": 0.3803694855868578
+    }
+  ],
+  "distinct_flight_phrases": 18,
+  "fitted_fakeouts": 50,
+  "no_pulse_or_alpha_triggers": true,
+  "native_import": {
+    "objects": 26934,
+    "object_counts_match": true,
+    "claim_touch_and_random_branches_survive": true,
+    "random_wall_observed_present_on_attempts": [
+      1,
+      2
+    ],
+    "random_wall_observed_absent_on_attempts": [
+      3
+    ]
+  },
+  "nominal_path_samples": 49408,
+  "route_checks": [
+    {
+      "section": "CIPHER",
+      "samples": 3528,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CUTWIRE",
+      "samples": 2654,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "SWITCHYARD",
+      "samples": 2646,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLINDFOLD",
+      "samples": 3545,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "OFFBEAT",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "PARALLAX",
+      "samples": 3518,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "samples": 2647,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "CROSSCODE",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FAULTLINE",
+      "samples": 3545,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "RECALL",
+      "samples": 3532,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "UNDERTOW",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "NEEDLEWORK",
+      "samples": 2656,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "FALSE FLOOR",
+      "samples": 3523,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "COUNTERFEIT",
+      "samples": 3519,
+      "errors": {},
+      "first": {}
+    },
+    {
+      "section": "LAST WORD",
+      "samples": 3529,
+      "errors": {},
+      "first": {}
+    }
+  ],
+  "independent_replay": [
+    {
+      "section": "CIPHER",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "CUTWIRE",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2652
+    },
+    {
+      "section": "SWITCHYARD",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2649
+    },
+    {
+      "section": "BLINDFOLD",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 201.1059603147424,
+      "samples": 3328
+    },
+    {
+      "section": "OFFBEAT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 241.78091802937817,
+      "samples": 3308
+    },
+    {
+      "section": "PARALLAX",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 91.36117810328552,
+      "samples": 3302
+    },
+    {
+      "section": "BLIND ELEVATOR",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2647
+    },
+    {
+      "section": "CROSSCODE",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3530
+    },
+    {
+      "section": "FAULTLINE",
+      "mode": "wave",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 113.0868989910068,
+      "samples": 3327
+    },
+    {
+      "section": "RECALL",
+      "mode": "spider",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3532
+    },
+    {
+      "section": "UNDERTOW",
+      "mode": "ship",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 115.85190843558743,
+      "samples": 3302
+    },
+    {
+      "section": "NEEDLEWORK",
+      "mode": "robot",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 2651
+    },
+    {
+      "section": "FALSE FLOOR",
+      "mode": "ball",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3527
+    },
+    {
+      "section": "COUNTERFEIT",
+      "mode": "ufo",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 229.92528263295688,
+      "samples": 3307
+    },
+    {
+      "section": "LAST WORD",
+      "mode": "cube",
+      "offset": 0,
+      "gravity_scale": 1,
+      "errors": {},
+      "first": {},
+      "exit_y": 15.0,
+      "samples": 3531
+    }
+  ],
+  "limitations": [
+    "No native damage-enabled completion verification or assigned demon rating.",
+    "Native random starting states visually checked; all switch truth tables tested from serialized objects.",
+    "Approximate physics replay does not fully model native triangle collision, portal entry offsets, or input buffering."
+  ],
+  "visual_review": {
+    "atlas_camera_views": 31,
+    "native_editor_rooms": [
+      "PARALLAX",
+      "FAULTLINE"
+    ],
+    "native_play_preview": "Opening, Ignore Damage enabled; randomized starting states observed.",
+    "native_full_completion": false
+  }
+}
