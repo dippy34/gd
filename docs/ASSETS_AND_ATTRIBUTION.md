@@ -10,6 +10,10 @@ license to level art, music, game assets or other contributors' work.
 - Source `.gmd` inputs, project exports and local authoring/validation scripts.
 - Raw project levels, plans, measurements, revision backups and reports.
 - Gameplay/editor screenshots supplied for this task and project previews.
+- Twelve annotated teaching figures derived from those existing images, plus
+  clearly labeled data/design diagrams. Their [source manifest](visual-guide.json)
+  records original-image hashes, crops, evidence and feedback separately from
+  assistant interpretations. Original source images are not repainted.
 - Research notes, measurements and small object/schema reference data used by
   the tools. The historical object mapping is not a copy of the game atlases.
 - Curated documentation derived from owner feedback, without private messages,

@@ -1,0 +1,71 @@
+{
+  "generator": "tools/build_visual_guide.mjs",
+  "generator_sha256": "4841feb95a3ff5729b106168a185b3a352f6871c1f5cba58abbdd192c7e7c47b",
+  "manifest_sha256": "db07def50f0f37ae3fe6a1cbfa3a9c2d471b8078a1f859e33903e17c93ae9cf2",
+  "size": [
+    1600,
+    1000
+  ],
+  "boards": [
+    {
+      "id": "01-bad-cube",
+      "path": "docs/images/visual-guide/01-bad-cube.png",
+      "sha256": "2c52e12f1f76e30c9680316fea2a9b52f2aba4e908e71b6d1844f4a9a0462014"
+    },
+    {
+      "id": "02-bad-exit",
+      "path": "docs/images/visual-guide/02-bad-exit.png",
+      "sha256": "5b14dda297f8ba721580272916d790aa90c4475f0c81b92ef30c1f204cf2198a"
+    },
+    {
+      "id": "03-good-ship",
+      "path": "docs/images/visual-guide/03-good-ship.png",
+      "sha256": "3a16444ea2f2e6e3cbe07b6f0b9577dc461febfbf26bf25e4efbbb4e8a708c92"
+    },
+    {
+      "id": "04-good-identity",
+      "path": "docs/images/visual-guide/04-good-identity.png",
+      "sha256": "0b28800d7a895c08a6d1e8a10001c1806619fa3b1c4a9869c48179b993b2c32a"
+    },
+    {
+      "id": "05-bad-density",
+      "path": "docs/images/visual-guide/05-bad-density.png",
+      "sha256": "9924941a84ada84bc7a8b6330ebb7b73cabdfba3a10909449d23318a0b0bc696"
+    },
+    {
+      "id": "06-bad-fire",
+      "path": "docs/images/visual-guide/06-bad-fire.png",
+      "sha256": "2ba4f6bd7cb7441a589b885eacf6862e414125bd89a9a29167d2988019dfceed"
+    },
+    {
+      "id": "07-good-skins",
+      "path": "docs/images/visual-guide/07-good-skins.png",
+      "sha256": "1c1e01cbf885966249e98a3c29821e01192f07b839fe99e0c9d029eb5d7dc547"
+    },
+    {
+      "id": "08-good-orbs",
+      "path": "docs/images/visual-guide/08-good-orbs.png",
+      "sha256": "c9f188bf65242f158cd667b7e7ed3edf51f8245f0dbd18be94fdd4a9959c6357"
+    },
+    {
+      "id": "09-learned-scope",
+      "path": "docs/images/visual-guide/09-learned-scope.png",
+      "sha256": "ebd81a7af6d743b2d97fd828028fa00d8e11ae9df27f03b2dd89eb4c7907dc9f"
+    },
+    {
+      "id": "10-learned-groups",
+      "path": "docs/images/visual-guide/10-learned-groups.png",
+      "sha256": "0adbe3c00b346538c36ec94e26d2614a726d12c105c861eaf8d98ddec277e248"
+    },
+    {
+      "id": "11-later-assembly",
+      "path": "docs/images/visual-guide/11-later-assembly.png",
+      "sha256": "360ec597a6ebc9839ca0e17e3a4b1717dfcad817c1df8243c93e566e38739365"
+    },
+    {
+      "id": "12-later-motion",
+      "path": "docs/images/visual-guide/12-later-motion.png",
+      "sha256": "728a858a00f8f8290d4663340d6749065e0ba28e086c327b47c4f662c037e213"
+    }
+  ]
+}

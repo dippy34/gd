@@ -3,6 +3,11 @@
 Read `docs/START_HERE.md`, `docs/PROJECT_STATE.md`, `docs/DESIGN_GUIDE.md`, and
 `docs/VISUAL_EXAMPLES.md` before changing a level. Open the actual images in the
 visual guide; prose alone is insufficient for a visual task.
+The guide has six categories and 12 numbered picture lessons. Cite the relevant
+picture/marker in a critique and separate owner feedback from your interpretation.
+Pictures 11–12 are unbuilt teaching diagrams, not approval to edit the level.
+`docs/visual-guide.json` records source images, crops and evidence; use
+`examples/visual-review-questions.md` to check your understanding.
 
 ## Current task and authority
 

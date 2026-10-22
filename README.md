@@ -8,14 +8,20 @@ This is the retained baseline before the discarded fire-border experiments.
 Its accepted components are preserved; that does not mean every remaining part
 has final aesthetic approval. The latest custom-art fire experiment is omitted.
 
-![Preserved ship design — approximate atlas rendering](work/sinking-factory/refined-ship.png)
+**New: [12 annotated picture lessons](docs/VISUAL_EXAMPLES.md)** covering
+what is bad, what is good, bad techniques, good techniques, what I learned, and
+things to improve later. The callouts point to specific features instead of
+leaving Opus to guess what an entire screenshot means.
+
+![Example lesson: bare spike outlines compared with retained steel faces, rims and fitted edges](docs/images/visual-guide/07-good-skins.png)
 
 ## For Opus and other agents
 
 1. Read [START HERE](docs/START_HERE.md), [current state](docs/PROJECT_STATE.md),
    and [design guide](docs/DESIGN_GUIDE.md).
-2. **Open** the images in [visual examples](docs/VISUAL_EXAMPLES.md). They label
-   preserved components, rejected additions and unfinished coverage separately.
+2. **Open** the 12 annotated pages in [visual examples](docs/VISUAL_EXAMPLES.md).
+   Read all six categories and the numbered callouts. Use the
+   [visual review questions](examples/visual-review-questions.md) to check understanding.
 3. Read [AGENTS.md](AGENTS.md) / [CLAUDE.md](CLAUDE.md), then use the
    [onboarding prompt](docs/OPUS_PROMPT.md).
 4. Inspect [real object examples](examples/README.md) and run the checks below.
@@ -47,6 +53,7 @@ Checked-in previews remain usable without those assets.
 | [project-state.json](project-state.json) | Machine-readable active baseline, song, boundaries and invariants |
 | [docs/](docs/START_HERE.md) | Visual taste, project history, technical details, QA and onboarding |
 | [examples/](examples/README.md) | Real orb/group/layer excerpts and feedback-to-action examples |
+| [visual manifest](docs/visual-guide.json) | Image sources, crops, numbered diagnoses, feedback, lessons and future proposals |
 | [inputs/](inputs/README.md) | Immutable source `.gmd` files supplied for this work |
 | [outputs/](outputs/README.md) | Exported revisions, previews, reports and historical notes |
 | [work/sinking-factory/](work/sinking-factory/LATEST.md) | Factory builders, raw levels, manifests and detailed previews |

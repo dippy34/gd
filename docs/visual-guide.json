@@ -1,0 +1,1051 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-22",
+  "purpose": "Picture-led owner-feedback teaching guide for Opus and other agents. No model fine-tuning and no new level edits.",
+  "source_policy": "Original images are unchanged. SVG viewports crop only for presentation; numbered boxes are explanatory overlays. No AI-generated replacement screenshot is used.",
+  "categories": [
+    "What is bad",
+    "What is good",
+    "Bad techniques",
+    "Good techniques",
+    "What I learned",
+    "Things for later"
+  ],
+  "sources": {
+    "cube": {
+      "path": "docs/images/user-cube-overcrowding.png",
+      "sha256": "af4e75cc56a061f1982ff5a05c58888e3125ec588712d5662ee2fb39ad6b4077",
+      "size": [
+        2634,
+        1142
+      ],
+      "kind": "owner-provided editor screenshot",
+      "revision": "Historical owner feedback; exact export hash not established"
+    },
+    "ufo": {
+      "path": "docs/images/user-ufo-overcrowding.png",
+      "sha256": "e82a2270c3d70667e1d2c30a2d09fd973f9e4a3aea5eb8fa703a281dffd9ea5c",
+      "size": [
+        3048,
+        1124
+      ],
+      "kind": "owner-provided editor screenshot",
+      "revision": "Historical owner feedback; exact export hash not established"
+    },
+    "exit": {
+      "path": "docs/images/user-unfinished-exit.png",
+      "sha256": "fd27c38a86d133eb02c5d7f852e5ce0e3c0598172217313ecd7dc16f4c2e185c",
+      "size": [
+        1134,
+        1064
+      ],
+      "kind": "owner-provided editor screenshot",
+      "revision": "Historical owner feedback; exact export hash not established"
+    },
+    "ship": {
+      "path": "work/sinking-factory/refined-ship.png",
+      "sha256": "7f6db0b2528fce7e28746c4acbef51656dc0968411ba51700bd7727fd236267e",
+      "size": [
+        1292,
+        725
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Refined; retained ship treatment"
+    },
+    "wave": {
+      "path": "work/sinking-factory/refined-wave.png",
+      "sha256": "9085e08eb88dbb58f5b2e75186da5ee94381b694ae1e3b1ce07a523c37eeb7ec",
+      "size": [
+        969,
+        544
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Refined; retained wave treatment"
+    },
+    "robot": {
+      "path": "work/sinking-factory/atmosphere-robot.png",
+      "sha256": "07a631cb19aa4746872507b296a36ea70668c1ffb1eef482030d157b549a3dba",
+      "size": [
+        969,
+        544
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Afterburn; early robot, older spike/orb appearance"
+    },
+    "spikes": {
+      "path": "work/sinking-factory/custom-screenshot-spikes.png",
+      "sha256": "5b83a6d8f9a54ab18f71c601bbd9920f7916f2680b622df68ad1052dddebca19",
+      "size": [
+        605,
+        340
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Custom; steel spikes and custom orb retained"
+    },
+    "orbs": {
+      "path": "work/sinking-factory/custom-pressure-switches.png",
+      "sha256": "a8c74acb9ff9ea4837b2a464f67647e84adb97937f2d452e5f58e1832dbfb687",
+      "size": [
+        880,
+        494
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Custom; pressure-switch treatment retained"
+    },
+    "old-spikes": {
+      "path": "work/sinking-factory/foundry-robot-orb.png",
+      "sha256": "8934f3c9ce7764a7a030e6f23f48130ad6eaf4d849c1360ad652b376771a5c4e",
+      "size": [
+        969,
+        544
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Foundry; superseded outline spikes"
+    },
+    "tail": {
+      "path": "work/sinking-factory/refined-final-hazards.png",
+      "sha256": "0344faeba7f3c3ee5afc080ac96776cfdfa12ae3ddd1383de6739f553cf0eddf",
+      "size": [
+        969,
+        544
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Refined; completed tail treatment"
+    },
+    "border": {
+      "path": "work/sinking-factory/closing-fire-comparison.png",
+      "sha256": "57c3ad7093f8bed41c5ac8d1b36246884e724fe1ee962637bf263ed6dc609327",
+      "size": [
+        1440,
+        434
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "CLOSING-FIRE; rejected historical experiment"
+    },
+    "engulfed": {
+      "path": "work/sinking-factory/engulfed-middle.png",
+      "sha256": "35b0bc625333c2045ec2e4358e367288ec67eecdee34393e62834f5df0761b75",
+      "size": [
+        1023,
+        576
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "ENGULFED; rejected historical experiment"
+    },
+    "custom-portal": {
+      "path": "work/sinking-factory/custom-custom-ufo-gate.png",
+      "sha256": "83a3459b6751cb596471574c430bd2c2bf953fed5db829a5213920f9cbcb3fc0",
+      "size": [
+        745,
+        418
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Custom; portal treatment subsequently reverted"
+    },
+    "native-portal": {
+      "path": "work/sinking-factory/refined-cube.png",
+      "sha256": "844ed60b5e7ffee4387f47f958251b010d8de24b24cb8518ac8116f15012f3c4",
+      "size": [
+        969,
+        544
+      ],
+      "kind": "approximate atlas diagnostic",
+      "revision": "Refined; native portal treatment restored in CUSTOM-ORBS"
+    }
+  },
+  "boards": [
+    {
+      "id": "01-bad-cube",
+      "category": "What is bad",
+      "tone": "bad",
+      "title": "Finished pieces can still make a bad scene.",
+      "subtitle": "Cube clutter: the problem is the relationship between the parts, not a lack of small details.",
+      "layout": "single",
+      "takeaway": "REMOVE THE UNRELATED PROP; do not strip all detail from the platform.",
+      "evidence": "Owner rejected cube/UFO clutter. Boxes identify my interpretation of that complaint; source is an editor capture.",
+      "owner_feedback_paraphrase": "Objects in cube/UFO make no sense; there are too many things for no reason.",
+      "assistant_interpretation": "The rod bundle and adjacent cabinet crowd an already established scene. Retain the coherent platform and improve its surfaces.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "cube",
+          "label": "OWNER SCREENSHOT · cropped to remove the editor buttons",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                1018,
+                410
+              ],
+              "box": [
+                967,
+                360,
+                155,
+                650
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                1184,
+                470
+              ],
+              "box": [
+                1125,
+                430,
+                158,
+                310
+              ]
+            },
+            {
+              "id": 3,
+              "at": [
+                375,
+                350
+              ],
+              "box": [
+                190,
+                342,
+                375,
+                120
+              ],
+              "tone": "good"
+            }
+          ],
+          "crop": [
+            100,
+            0,
+            1980,
+            1142
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "title": "Extra rod bundle",
+          "body": "It occupies the space beside the orb. Its role is unclear next to the existing fan and press."
+        },
+        {
+          "id": 2,
+          "title": "One more cabinet",
+          "body": "Another narrow box competes with the same focal area. Detail alone does not justify it."
+        },
+        {
+          "id": 3,
+          "title": "Keep a clear unit",
+          "body": "The suspended platform already has a casing and support. Detail that assembly on purpose.",
+          "tone": "good"
+        }
+      ]
+    },
+    {
+      "id": "02-bad-exit",
+      "category": "What is bad",
+      "tone": "bad",
+      "title": "Decoration stopped before the level did.",
+      "subtitle": "The white/default area is a coverage defect. These views have different cameras; compare coverage only.",
+      "layout": "pair",
+      "takeaway": "CHECK THE LAST HAZARDS and the fade timing, not just the middle of the section.",
+      "evidence": "Left: owner editor capture. Right: Refined diagnostic response; no claim of a matched native before/after.",
+      "owner_feedback_paraphrase": "There is a white part that was not decorated.",
+      "assistant_interpretation": "Cover the final hazards and delay the factory fade. A nice central frame cannot prove that the complete section is finished.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "exit",
+          "label": "BAD · default area and bare hazards",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                683,
+                540
+              ],
+              "box": [
+                645,
+                425,
+                455,
+                610
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                780,
+                748
+              ],
+              "box": [
+                655,
+                682,
+                210,
+                144
+              ]
+            }
+          ],
+          "crop": [
+            240,
+            385,
+            870,
+            650
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Abrupt boundary",
+              "body": "The factory background ends while the route continues."
+            },
+            {
+              "id": 2,
+              "title": "Unfinished hazards",
+              "body": "The end pieces lose the established material treatment."
+            }
+          ]
+        },
+        {
+          "source": "tail",
+          "label": "RESPONSE · coverage through X24925",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                763,
+                230
+              ],
+              "box": [
+                652,
+                70,
+                275,
+                420
+              ],
+              "tone": "good"
+            },
+            {
+              "id": 2,
+              "at": [
+                403,
+                289
+              ],
+              "box": [
+                174,
+                230,
+                451,
+                150
+              ],
+              "tone": "good"
+            }
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Continue the room",
+              "body": "Keep the same depth behind the tail of the section."
+            },
+            {
+              "id": 2,
+              "title": "Finish every casing",
+              "body": "Inspect the final hazard skins and the master fade."
+            }
+          ],
+          "tone": "good"
+        }
+      ]
+    },
+    {
+      "id": "03-good-ship",
+      "category": "What is good",
+      "tone": "good",
+      "title": "The ship feels like one built environment.",
+      "subtitle": "Preserve the old ship treatment the owner asked to restore; judge its structure, not renderer artifacts.",
+      "layout": "single",
+      "takeaway": "THE SILHOUETTE LEADS; surface detail and heat support it.",
+      "evidence": "Owner asked to restore the old ship. Refined atlas diagnostic of the retained treatment; not native-play proof.",
+      "owner_feedback_paraphrase": "I liked the ship, so change that back to the old one.",
+      "assistant_interpretation": "Continuous fitted edges, panel detail inside the walls and recognizable furnace openings give the route a coherent setting.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "ship",
+          "label": "PRESERVE · fitted Afterburn-derived ship",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                380,
+                511
+              ],
+              "box": [
+                295,
+                463,
+                193,
+                115
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                500,
+                258
+              ],
+              "box": [
+                405,
+                216,
+                220,
+                120
+              ]
+            },
+            {
+              "id": 3,
+              "at": [
+                590,
+                102
+              ],
+              "box": [
+                448,
+                5,
+                268,
+                218
+              ]
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "title": "Continuous edge",
+          "body": "The metal rim follows the change in slope. The route has a deliberate silhouette."
+        },
+        {
+          "id": 2,
+          "title": "Detail on surfaces",
+          "body": "Plate seams and vents sit within the wall mass. They are not loose objects in the route."
+        },
+        {
+          "id": 3,
+          "title": "Readable furnace",
+          "body": "Bars, housing and heat form one machine. Light has a visible source."
+        }
+      ]
+    },
+    {
+      "id": "04-good-identity",
+      "category": "What is good",
+      "tone": "good",
+      "title": "Keep the parts with a recognizable identity.",
+      "subtitle": "Wave and early robot were specifically liked. That does not approve every old spike or orb in these images.",
+      "layout": "pair",
+      "takeaway": "PRESERVE THE COMPOSITION; repair the weak component locally.",
+      "evidence": "Owner liked wave and robot. Refined wave / Afterburn robot diagnostics; historical components are labeled.",
+      "owner_feedback_paraphrase": "I really like the wave and the robot part, but the rest is still pretty bad.",
+      "assistant_interpretation": "Retain their structural idea, dark depth and localized heat. Later custom spike/orb work can improve components without replacing the scene.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "wave",
+          "label": "WAVE · fitted rails and a recessed fan",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                707,
+                490
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                273,
+                290
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Route has a strong shape",
+              "body": "Continuous rails follow the angular corridor."
+            },
+            {
+              "id": 2,
+              "title": "A distinct room landmark",
+              "body": "The fan adds factory scale behind the play space."
+            }
+          ]
+        },
+        {
+          "source": "robot",
+          "label": "EARLY ROBOT · suspended hot machinery",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                531,
+                146
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                590,
+                439
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Objects belong together",
+              "body": "Chain, platform and furnace read as one setup."
+            },
+            {
+              "id": 2,
+              "title": "Heat stays localized",
+              "body": "Dark masonry makes the warm source feel brighter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05-bad-density",
+      "category": "Bad techniques",
+      "tone": "bad",
+      "title": "Do not answer “too basic” by filling the air.",
+      "subtitle": "UFO: extra infrastructure competes with a route that already contains many hazards.",
+      "layout": "single",
+      "takeaway": "ADD DETAIL TO EXISTING BODIES before adding another background machine.",
+      "evidence": "Owner rejected UFO clutter. Cyan lines and selection colors are editor UI, not decoration to reproduce.",
+      "owner_feedback_paraphrase": "The cube/UFO are too crowded and many objects appear to have no reason.",
+      "assistant_interpretation": "Classify gameplay hazards, their skins and background machinery separately. Remove redundant decoration, not source gameplay.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "ufo",
+          "label": "OWNER SCREENSHOT · UI excluded where possible",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                987,
+                310
+              ],
+              "box": [
+                560,
+                75,
+                780,
+                820
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                1515,
+                260
+              ],
+              "box": [
+                1415,
+                70,
+                182,
+                820
+              ]
+            },
+            {
+              "id": 3,
+              "at": [
+                1268,
+                432
+              ],
+              "box": [
+                1135,
+                273,
+                284,
+                318
+              ],
+              "tone": "lesson"
+            }
+          ],
+          "crop": [
+            180,
+            30,
+            2070,
+            1010
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "title": "Too many focal edges",
+          "body": "The huge fan and the foreground hazards compete. More detail is not always more depth."
+        },
+        {
+          "id": 2,
+          "title": "Another vertical bundle",
+          "body": "Extra rods and cabinets make the room busier without making its function clearer."
+        },
+        {
+          "id": 3,
+          "title": "Do not delete the route",
+          "body": "Separate source hazards from added skins and props before removing anything.",
+          "tone": "lesson"
+        }
+      ]
+    },
+    {
+      "id": "06-bad-fire",
+      "category": "Bad techniques",
+      "tone": "bad",
+      "title": "More screen coverage did not make better fire.",
+      "subtitle": "Two rejected experiments: a decorative frame, then large repeated flame shapes. Neither is the baseline.",
+      "layout": "pair",
+      "takeaway": "MATCH THE MATERIAL AND MOTION, not only the percentage of the screen covered.",
+      "evidence": "Historical CLOSING-FIRE / ENGULFED diagnostics. Static atlas views cannot establish native animation quality.",
+      "owner_feedback_paraphrase": "The fire should close in and eventually engulf the player, but these results looked poor; the first was preferred over the later version.",
+      "assistant_interpretation": "A mechanical coverage target missed scale, repetition, color and integration. Repeated oversized flames look pasted on the scene.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "border",
+          "label": "EARLIER · a thin picture-frame effect",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                364,
+                41
+              ],
+              "box": [
+                32,
+                31,
+                665,
+                32
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                31,
+                215
+              ],
+              "box": [
+                18,
+                60,
+                28,
+                315
+              ]
+            }
+          ],
+          "crop": [
+            0,
+            24,
+            720,
+            405
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "The rectangle dominates",
+              "body": "The regular straight border reads as framing."
+            },
+            {
+              "id": 2,
+              "title": "Repetition becomes texture",
+              "body": "Uniform tiny flames do not imply a spreading fire."
+            }
+          ]
+        },
+        {
+          "source": "engulfed",
+          "label": "LATER · enlarged repeated motifs",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                433,
+                76
+              ],
+              "box": [
+                194,
+                5,
+                465,
+                132
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                733,
+                489
+              ],
+              "box": [
+                557,
+                406,
+                438,
+                165
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Scale overwhelms the scene",
+              "body": "Large rounded motifs flatten the factory depth."
+            },
+            {
+              "id": 2,
+              "title": "Coverage is only one check",
+              "body": "Closing the gap is not proof of convincing fire."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07-good-skins",
+      "category": "Good techniques",
+      "tone": "good",
+      "title": "Turn an outline into a fitted material.",
+      "subtitle": "Compare the spike treatment. These are historical diagnostics at different scales, not a pixel-diff test.",
+      "layout": "pair",
+      "takeaway": "KEEP THE ORIGINAL HAZARD; fit a non-colliding skin to its silhouette.",
+      "evidence": "Outline spikes were criticized. Steel skins are retained in CUSTOM-ORBS; native collision still needs native testing.",
+      "owner_feedback_paraphrase": "The spikes are not decorated; the spike and block designs are too basic.",
+      "assistant_interpretation": "Use a dark steel face, inset edge, restrained bevel and mounting seam. Do not enlarge the invisible hazard to match new art.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "old-spikes",
+          "label": "BEFORE · mostly glowing outlines",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                370,
+                318
+              ],
+              "box": [
+                265,
+                280,
+                398,
+                61
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                463,
+                159
+              ],
+              "box": [
+                315,
+                135,
+                300,
+                55
+              ]
+            }
+          ],
+          "crop": [
+            250,
+            85,
+            445,
+            280
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "The face stays visually empty",
+              "body": "Bright triangle edges do not describe a material."
+            },
+            {
+              "id": 2,
+              "title": "Glow carries the whole design",
+              "body": "Increasing brightness would keep the same weakness."
+            }
+          ],
+          "tone": "bad"
+        },
+        {
+          "source": "spikes",
+          "label": "RETAINED · faces, rims and attachment",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                277,
+                267
+              ],
+              "box": [
+                213,
+                237,
+                100,
+                56
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                281,
+                102
+              ],
+              "box": [
+                205,
+                79,
+                163,
+                55
+              ]
+            }
+          ],
+          "crop": [
+            30,
+            30,
+            460,
+            275
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Give the blade a face",
+              "body": "Steel planes and an inset edge create a solid object."
+            },
+            {
+              "id": 2,
+              "title": "Fit the platform edge",
+              "body": "Keep teeth aligned with the casing and original bounds."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08-good-orbs",
+      "category": "Good techniques",
+      "tone": "good",
+      "title": "Custom art should preserve the interaction.",
+      "subtitle": "Pressure switches belong to the factory, while the original orb logic remains underneath.",
+      "layout": "single",
+      "takeaway": "HIDE ONLY THE NATIVE VISUAL CORE; keep its gameplay and shared motion.",
+      "evidence": "Owner explicitly kept custom orbs. Custom diagnostic; data invariants are verified by the baseline validator.",
+      "owner_feedback_paraphrase": "Keep custom orbs but undo the custom portals.",
+      "assistant_interpretation": "Keep the pressure-switch casing attached to its parent. Separate visual alpha from toggling gameplay; retain native portal appearance.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "orbs",
+          "label": "KEEP · pressure-switch orb treatment",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                382,
+                301
+              ],
+              "box": [
+                337,
+                261,
+                91,
+                91
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                789,
+                302
+              ],
+              "box": [
+                746,
+                263,
+                84,
+                87
+              ]
+            },
+            {
+              "id": 3,
+              "at": [
+                622,
+                411
+              ],
+              "box": [
+                290,
+                391,
+                557,
+                48
+              ]
+            }
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "id": 1,
+          "title": "A mounted switch",
+          "body": "A complete casing, inset face and warm signal read as part of the machine."
+        },
+        {
+          "id": 2,
+          "title": "Keep native behavior",
+          "body": "Group 1157 hides only eight native orb cores using Alpha. Do not Toggle them off."
+        },
+        {
+          "id": 3,
+          "title": "Carry the attachments",
+          "body": "The press and its fitted art move together. A skin must not remain behind."
+        }
+      ]
+    },
+    {
+      "id": "09-learned-scope",
+      "category": "What I learned",
+      "tone": "lesson",
+      "title": "A rollback can apply to just one component.",
+      "subtitle": "The latest feedback kept custom orbs and reverted custom portals. Treat those as separate decisions.",
+      "layout": "pair",
+      "takeaway": "KEEP CUSTOM ORBS + NATIVE PORTALS. Do not treat either image as blanket approval.",
+      "evidence": "Explicit owner rollback. Left: reverted Custom portal. Right: older Refined native appearance restored in baseline.",
+      "owner_feedback_paraphrase": "Okay, keep custom orbs but undo the custom portals.",
+      "assistant_interpretation": "Track the latest decision for each component. The owner originally requested custom portals, then reverted them while keeping custom orbs; do not label an entire revision approved or rejected.",
+      "whole_scene_approved": false,
+      "panels": [
+        {
+          "source": "custom-portal",
+          "label": "UNDO · the custom portal casing",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                376,
+                222
+              ],
+              "box": [
+                322,
+                189,
+                104,
+                184
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                360,
+                318
+              ]
+            }
+          ],
+          "crop": [
+            280,
+            150,
+            250,
+            260
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "The portal was reverted",
+              "body": "The later feedback changed the portal decision only."
+            },
+            {
+              "id": 2,
+              "title": "Do not reuse it by accident",
+              "body": "Old Custom-era previews contain reverted portals."
+            }
+          ],
+          "tone": "bad"
+        },
+        {
+          "source": "native-portal",
+          "label": "RESTORE · recognizable native portal",
+          "marks": [
+            {
+              "id": 1,
+              "at": [
+                769,
+                432
+              ],
+              "box": [
+                711,
+                394,
+                109,
+                150
+              ]
+            },
+            {
+              "id": 2,
+              "at": [
+                781,
+                508
+              ]
+            }
+          ],
+          "crop": [
+            675,
+            284,
+            294,
+            260
+          ],
+          "notes": [
+            {
+              "id": 1,
+              "title": "Native appearance remains",
+              "body": "Keep its original visual language and restrained trim."
+            },
+            {
+              "id": 2,
+              "title": "The orb decision is separate",
+              "body": "Keep the pressure switches shown in picture 08."
+            }
+          ],
+          "tone": "good"
+        }
+      ]
+    },
+    {
+      "id": "10-learned-groups",
+      "category": "What I learned",
+      "tone": "lesson",
+      "title": "Good-looking art can still break the level.",
+      "subtitle": "The following blue orb shared a group with later objects. Separate behavior before adding more attached art.",
+      "layout": "groups",
+      "takeaway": "AUDIT MEMBERS AND TRIGGER TARGETS. A free-looking number is not proof of a free group.",
+      "evidence": "Data diagram from examples/blue-orb-group-fix.json and project-state.json; not a gameplay screenshot.",
+      "owner_feedback_paraphrase": "Later objects seemed to disappear; the blue following orb was moving objects with the same group ID. Organize the build into editor layers.",
+      "assistant_interpretation": "The fix must isolate the moving assembly, preserve the later pulse, and distinguish editor organization from render depth.",
+      "whole_scene_approved": false,
+      "data_sources": [
+        "examples/blue-orb-group-fix.json",
+        "examples/editor-layers.json",
+        "project-state.json"
+      ]
+    },
+    {
+      "id": "11-later-assembly",
+      "category": "Things for later",
+      "tone": "future",
+      "title": "Prototype one purposeful assembly first.",
+      "subtitle": "SCHEMATIC DESIGN STUDY · not new game art, not an applied level change, not owner-approved.",
+      "layout": "assembly",
+      "takeaway": "WHAT I SHOULD HAVE DONE: review one supported machine before repeating it across a section.",
+      "evidence": "Assistant retrospective proposal. Diagram illustrates mounting and detail placement, not a finished GD asset.",
+      "owner_feedback_paraphrase": null,
+      "assistant_interpretation": "Instead of responding with a large prop pass, first test one coherent casing with support, bounded detail and preserved negative space.",
+      "whole_scene_approved": false,
+      "proposal_status": "unbuilt; does not authorize edits",
+      "success_check": "At gameplay scale, identify the machine function and supports without explaining every prop. Preserve original collision and empty route."
+    },
+    {
+      "id": "12-later-motion",
+      "category": "Things for later",
+      "tone": "future",
+      "title": "Test atmosphere as a sequence, not a still.",
+      "subtitle": "SCHEMATIC MOTION STUDY · proposed checks for ash, machinery and readability; no native animation is claimed.",
+      "layout": "motion",
+      "takeaway": "WHAT I SHOULD HAVE DONE: check movement extremes, native camera and cost before calling it finished.",
+      "evidence": "Assistant retrospective proposal. Dots/arrows/frames are teaching diagrams; no new effect is added to the baseline.",
+      "owner_feedback_paraphrase": "The atmosphere should be darker with more realistic burning ashes; decoration should include moving elements.",
+      "assistant_interpretation": "Start with small dim irregular flakes and motion attached to believable machinery. Test several moments and measure performance before scaling up.",
+      "whole_scene_approved": false,
+      "proposal_status": "unbuilt; does not restart discarded fire experiments",
+      "success_check": "Capture actual game states with camera/time/aspect recorded; inspect interactions, moving attachments, exit coverage and performance."
+    }
+  ]
+}

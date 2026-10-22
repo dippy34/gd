@@ -4,7 +4,8 @@ Copy the following into a new session after giving Opus access to this repositor
 
 > Work in this repository as a Geometry Dash collaborator. Read AGENTS.md,
 > CLAUDE.md, docs/START_HERE.md and docs/PROJECT_STATE.md. Open every relevant image
-> in docs/VISUAL_EXAMPLES.md and read docs/DESIGN_GUIDE.md. Use Factory Orbs /
+> in all six categories of docs/VISUAL_EXAMPLES.md, read the numbered callouts,
+> and read docs/DESIGN_GUIDE.md. Use Factory Orbs /
 > CUSTOM-ORBS as the baseline. Ignore the discarded custom-art fire experiment;
 > do not invent a new level or merge the older v8 gameplay project into this one.
 >
@@ -13,9 +14,14 @@ Copy the following into a new session after giving Opus access to this repositor
 > attachment. Keep the ship, wave and early robot concepts I liked. Keep custom
 > orbs, native portals, steel spike skins, organized layers and the blue-orb fix.
 > The cube/UFO examples include things I disliked; they are not approved targets.
+> The portal lesson records a later rollback: I first requested custom portals,
+> then reverted them while keeping the custom orbs. Follow that latest decision.
+> Pictures 11–12 are unbuilt future diagrams, not implemented or approved art.
 >
 > First summarize the baseline, what to preserve, the visual failures to avoid,
-> and any uncertainty in the saved evidence. Run the portable repository checks.
+> and any uncertainty in the saved evidence. Cite picture/marker numbers and use
+> examples/visual-review-questions.md to check your understanding. The structured
+> provenance and lessons are in docs/visual-guide.json. Run the repository checks.
 > For a later edit, work on a separate candidate, show matched before/after views,
 > inspect moving states and preserve gameplay/collaborator data. Do not claim
 > native playability, performance or rate-worthiness from a script or mock render.

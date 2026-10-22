@@ -5,12 +5,16 @@ work on GitHub and make it understandable to Opus, with explanations and example
 They asked to disregard the most recent custom-art fire experiment. No new level
 design was authorized by the repository request.
 
+On **2026-10-22**, the owner requested explicit pictures teaching good/bad design,
+good/bad techniques, lessons and future improvements. The visual guide now has
+12 annotated pages across those six categories. The level files are unchanged.
+
 ## Read in this order
 
 | Step | Read/open | What it answers |
 | --- | --- | --- |
 | 1 | [Current state](PROJECT_STATE.md) | Which file is the baseline? What must survive? |
-| 2 | [Visual examples](VISUAL_EXAMPLES.md) | What looks intentional? What did the owner reject? |
+| 2 | [12 illustrated lessons](VISUAL_EXAMPLES.md) | Exact good/bad features, techniques, lessons and future diagrams |
 | 3 | [Design guide](DESIGN_GUIDE.md) | How should a future change be judged? |
 | 4 | [Technical reference](TECHNICAL_REFERENCE.md) | Coordinates, groups, layers and serialized fields |
 | 5 | [Workflow](WORKFLOW.md) | How to inspect, change, rebuild and validate safely |
@@ -20,6 +24,8 @@ design was authorized by the repository request.
 factory decoration-only change. [History](HISTORY.md) prevents mixing their song
 IDs, difficulty goals and old exports. [Onboarding prompt](OPUS_PROMPT.md) can be
 pasted into a new Opus session.
+Use the [picture review questions](../examples/visual-review-questions.md) to
+check understanding. The [unmarked originals](VISUAL_SOURCES.md) remain available.
 
 ## Evidence labels
 

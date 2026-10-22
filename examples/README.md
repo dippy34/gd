@@ -16,3 +16,10 @@ Inspect complete group membership and trigger references using the full file.
 
 Visual examples, including negative owner screenshots, are in
 [docs/VISUAL_EXAMPLES.md](../docs/VISUAL_EXAMPLES.md).
+
+## Picture-led review
+
+Use the [12 annotated lessons](../docs/VISUAL_EXAMPLES.md) with the
+[visual review questions](visual-review-questions.md). The
+[visual manifest](../docs/visual-guide.json) provides source hashes, crops, callout
+coordinates, feedback, interpretations and clearly labeled future proposals.

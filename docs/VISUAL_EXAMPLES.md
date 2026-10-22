@@ -1,95 +1,158 @@
-# Visual examples for Opus
+# Learn the visual taste: 12 illustrated examples
 
-Open these images. Each caption states its revision and what is being judged.
-The whole image is not automatically approved just because one component is.
+**Start with the pictures.** Numbered boxes identify the exact feature being
+judged. Each page says what failed or worked, why, and what to do differently.
+Click a picture for its full-size version.
 
-## Preserve: fitted ship structure
+The retained starting file is **Factory Orbs / CUSTOM-ORBS**. This guide adds
+teaching material; it does not change the level or restart the discarded art
+experiment. "Good" identifies a specific retained component, not approval of
+every object in the same screenshot.
 
-![Retained Afterburn-derived ship skin, Refined diagnostic](../work/sinking-factory/refined-ship.png)
+| Requested category | Pictures | What to learn |
+| --- | --- | --- |
+| [What is bad](#what-is-bad) | 01–02 | Cube clutter and the unfinished white exit |
+| [What is good](#what-is-good) | 03–04 | Fitted ship structure; wave and early robot identity |
+| [Bad techniques](#bad-techniques) | 05–06 | Filling empty space; scaling up repeated fire |
+| [Good techniques](#good-techniques) | 07–08 | Steel skins and custom pressure-switch orbs |
+| [What I learned](#what-i-learned) | 09–10 | Component-level feedback, group isolation and editor layers |
+| [Things for later](#things-for-later) | 11–12 | Purposeful assemblies and atmosphere tested in motion |
 
-**Evidence:** owner asked for the old ship to be restored. This is a diagnostic
-render of the retained treatment in Refined, not a new native screenshot.
-Observe how the sloped corridor has continuous fitted metal edging, panels stay
-inside its masses, furnace bars have a destination, and the empty route remains
-a strong silhouette. The exact data is retained in CUSTOM-ORBS. Do not infer that
-the old preview renderer's fire fill or lighting is a pixel-perfect game result.
+**Evidence matters:** owner feedback is paraphrased; the numbered diagnoses are
+my interpretation. Editor captures and approximate atlas renders are labeled.
+The final two pages are **unbuilt diagrams**, not screenshots of completed work.
+Cyan selection lines in editor captures are not level decoration. Historical
+views with different cameras are component comparisons, not matched before/after
+tests. Original pixels are retained, with only presentation crops and annotations.
 
-## Preserve: wave and early robot identity
 
-![Retained wave treatment, Refined diagnostic](../work/sinking-factory/refined-wave.png)
+## What is bad
 
-![Early robot atmosphere, Afterburn diagnostic](../work/sinking-factory/atmosphere-robot.png)
+### 01 · Finished pieces can still make a bad scene.
 
-**Evidence:** the owner explicitly liked the wave and robot before subsequent
-detail passes. Preserve their silhouettes and recognizable industrial setups.
-Compare fittings and background depth, not just orange color or object quantity.
-The data validator protects the retained skin objects across later revisions.
+![Finished pieces can still make a bad scene. The rod bundle and adjacent cabinet crowd an already established scene. Retain the coherent platform and improve its surfaces.](images/visual-guide/01-bad-cube.png)
 
-## Negative: cube details without a clear purpose
+**Your feedback, paraphrased:** Objects in cube/UFO make no sense; there are too many things for no reason.
 
-![Owner-provided editor screenshot identifying cube clutter](images/user-cube-overcrowding.png)
+**My lesson:** The rod bundle and adjacent cabinet crowd an already established scene. Retain the coherent platform and improve its surfaces.
 
-**Evidence:** the owner said objects started making no sense around cube/UFO and
-there were too many things for no reason. Look at the tall narrow rod bundle and
-additional rectangular assembly between existing machinery: even individually
-finished pieces can compete with the scene's structure and orb route. Do not use
-this screenshot as an approved density target. Refined removed additive cabinets,
-pipe bundles, press guides and old hairline hangers.
+### 02 · Decoration stopped before the level did.
 
-![Simplified cube, Refined diagnostic](../work/sinking-factory/refined-cube.png)
+![Decoration stopped before the level did. Cover the final hazards and delay the factory fade. A nice central frame cannot prove that the complete section is finished.](images/visual-guide/02-bad-exit.png)
 
-**Interpretation:** retain purposeful surface detail while reducing unrelated
-free-standing props. This image documents the response, not final user approval.
+**Your feedback, paraphrased:** There is a white part that was not decorated.
 
-## Negative: UFO field needs an organized hierarchy
+**My lesson:** Cover the final hazards and delay the factory fade. A nice central frame cannot prove that the complete section is finished.
 
-![Owner-provided UFO editor screenshot identifying crowding](images/user-ufo-overcrowding.png)
+## What is good
 
-The owner objected to the amount of unrelated detail. Distinguish source hazards
-from their added skins and from background machinery before removing anything.
-The cyan vertical lines and selection outlines are editor UI, not decorations to
-copy. Keep floating hazard housings complete, but avoid surrounding every one
-with a new set of rails, rods and large props.
+### 03 · The ship feels like one built environment.
 
-## Regression: unfinished white exit
+![The ship feels like one built environment. Continuous fitted edges, panel detail inside the walls and recognizable furnace openings give the route a coherent setting.](images/visual-guide/03-good-ship.png)
 
-![Owner-provided screenshot showing factory art ending before the hazards](images/user-unfinished-exit.png)
+**Your feedback, paraphrased:** I liked the ship, so change that back to the old one.
 
-This shows the old decoration ending too early. The white/default region and
-unskinned hazards are a coverage defect, not an intended bright scene transition.
-The baseline extends coverage through X24925 and delays the factory fade beyond
-the last hazards. Check both geometry coverage and runtime alpha timing.
+**My lesson:** Continuous fitted edges, panel detail inside the walls and recognizable furnace openings give the route a coherent setting.
 
-![Covered tail hazards, Refined diagnostic](../work/sinking-factory/refined-final-hazards.png)
+### 04 · Keep the parts with a recognizable identity.
 
-## Custom spikes and orbs: inspect components separately
+![Keep the parts with a recognizable identity. Retain their structural idea, dark depth and localized heat. Later custom spike/orb work can improve components without replacing the scene.](images/visual-guide/04-good-identity.png)
 
-![Steel spike detail, Custom diagnostic](../work/sinking-factory/custom-screenshot-spikes.png)
+**Your feedback, paraphrased:** I really like the wave and the robot part, but the rest is still pretty bad.
 
-The complaint was that outlined triangles were still undecorated. The replacement
-adds steel faces and inset detail while preserving the original hazard geometry.
-This component is retained in CUSTOM-ORBS; it does not authorize custom portals.
+**My lesson:** Retain their structural idea, dark depth and localized heat. Later custom spike/orb work can improve components without replacing the scene.
 
-![Pressure-switch orb assembly, Custom diagnostic](../work/sinking-factory/custom-pressure-switches.png)
+## Bad techniques
 
-The owner explicitly kept custom orbs, then undid custom portals. This earlier
-Custom screenshot demonstrates the orb treatment only. Any portal treatment
-visible in a Custom-era image is superseded by the native portal rollback.
+### 05 · Do not answer “too basic” by filling the air.
 
-## Rejected border experiments
+![Do not answer “too basic” by filling the air. Classify gameplay hazards, their skins and background machinery separately. Remove redundant decoration, not source gameplay.](images/visual-guide/05-bad-density.png)
 
-[CLOSING-FIRE comparison](../outputs/The%20Sinking%20Factory%20-%20CLOSING-FIRE-preview.png)
-and [ENGULFED preview](../outputs/The%20Sinking%20Factory%20-%20ENGULFED-preview.png)
-remain as **negative/historical references**. Feedback: the border should close
-in and engulf the player, but these results looked poor and the earlier one was
-preferred over a later attempt. The subsequent custom-art experiment has been
-excluded at the user's request. None of these are the current baseline.
+**Your feedback, paraphrased:** The cube/UFO are too crowded and many objects appear to have no reason.
 
-## Comparing a new change
+**My lesson:** Classify gameplay hazards, their skins and background machinery separately. Remove redundant decoration, not source gameplay.
 
-Use the same camera, zoom, aspect ratio and trigger time for before/after views.
-Show the changed assembly, a full gameplay frame and a movement extreme. Label
-whether each is native or approximate. Record a specific defect and the response
-in [feedback examples](../examples/feedback-cases.jsonl); do not label an unreviewed
-render “approved.” The raw source screenshots here contain game/editor content
-only; private chat screenshots are not published.
+### 06 · More screen coverage did not make better fire.
+
+![More screen coverage did not make better fire. A mechanical coverage target missed scale, repetition, color and integration. Repeated oversized flames look pasted on the scene.](images/visual-guide/06-bad-fire.png)
+
+**Your feedback, paraphrased:** The fire should close in and eventually engulf the player, but these results looked poor; the first was preferred over the later version.
+
+**My lesson:** A mechanical coverage target missed scale, repetition, color and integration. Repeated oversized flames look pasted on the scene.
+
+## Good techniques
+
+### 07 · Turn an outline into a fitted material.
+
+![Turn an outline into a fitted material. Use a dark steel face, inset edge, restrained bevel and mounting seam. Do not enlarge the invisible hazard to match new art.](images/visual-guide/07-good-skins.png)
+
+**Your feedback, paraphrased:** The spikes are not decorated; the spike and block designs are too basic.
+
+**My lesson:** Use a dark steel face, inset edge, restrained bevel and mounting seam. Do not enlarge the invisible hazard to match new art.
+
+### 08 · Custom art should preserve the interaction.
+
+![Custom art should preserve the interaction. Keep the pressure-switch casing attached to its parent. Separate visual alpha from toggling gameplay; retain native portal appearance.](images/visual-guide/08-good-orbs.png)
+
+**Your feedback, paraphrased:** Keep custom orbs but undo the custom portals.
+
+**My lesson:** Keep the pressure-switch casing attached to its parent. Separate visual alpha from toggling gameplay; retain native portal appearance.
+
+## What I learned
+
+### 09 · A rollback can apply to just one component.
+
+![A rollback can apply to just one component. Track the latest decision for each component. The owner originally requested custom portals, then reverted them while keeping custom orbs; do not label an entire revision approved or rejected.](images/visual-guide/09-learned-scope.png)
+
+**Your feedback, paraphrased:** Okay, keep custom orbs but undo the custom portals.
+
+**My lesson:** Track the latest decision for each component. The owner originally requested custom portals, then reverted them while keeping custom orbs; do not label an entire revision approved or rejected.
+
+You originally asked for custom portals too, then asked to undo them. The lesson is to follow that later, specific decision—not to claim you never requested them.
+
+### 10 · Good-looking art can still break the level.
+
+![Good-looking art can still break the level. The fix must isolate the moving assembly, preserve the later pulse, and distinguish editor organization from render depth.](images/visual-guide/10-learned-groups.png)
+
+**Your feedback, paraphrased:** Later objects seemed to disappear; the blue following orb was moving objects with the same group ID. Organize the build into editor layers.
+
+**My lesson:** The fix must isolate the moving assembly, preserve the later pulse, and distinguish editor organization from render depth.
+
+The diagram uses [real before/after objects](../examples/blue-orb-group-fix.json) and [editor-layer records](../examples/editor-layers.json). The data fix is checked; native gameplay has not been certified.
+
+## Things for later
+
+### 11 · Prototype one purposeful assembly first.
+
+![Prototype one purposeful assembly first. Instead of responding with a large prop pass, first test one coherent casing with support, bounded detail and preserved negative space.](images/visual-guide/11-later-assembly.png)
+
+**My proposed next step:** Instead of responding with a large prop pass, first test one coherent casing with support, bounded detail and preserved negative space.
+
+**How to judge it:** At gameplay scale, identify the machine function and supports without explaining every prop. Preserve original collision and empty route.
+
+### 12 · Test atmosphere as a sequence, not a still.
+
+![Test atmosphere as a sequence, not a still. Start with small dim irregular flakes and motion attached to believable machinery. Test several moments and measure performance before scaling up.](images/visual-guide/12-later-motion.png)
+
+**Your feedback, paraphrased:** The atmosphere should be darker with more realistic burning ashes; decoration should include moving elements.
+
+**My proposed next step:** Start with small dim irregular flakes and motion attached to believable machinery. Test several moments and measure performance before scaling up.
+
+**How to judge it:** Capture actual game states with camera/time/aspect recorded; inspect interactions, moving attachments, exit coverage and performance.
+
+## Use this with Opus
+
+Ask Opus to open the relevant pictures, then identify the numbered feature,
+the owner feedback it responds to, and the component that must stay. A useful
+critique should point to a visible cause, not say "make it better" or prescribe
+more objects. Use the [visual review questions](../examples/visual-review-questions.md)
+to check whether the model understood the pictures before a new design pass.
+
+For the original unmarked images and revision context, open
+[visual sources](VISUAL_SOURCES.md). The [visual manifest](visual-guide.json)
+contains every source path, checksum, crop rectangle, annotation, evidence label,
+feedback paraphrase and lesson in machine-readable form. These are repository
+context examples; no training job has been run.
+
+The [maintenance notes](VISUAL_GUIDE_MAINTENANCE.md) explain how to add a new
+case and regenerate the figures. Keep new proposals separate from accepted work.

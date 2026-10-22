@@ -71,5 +71,13 @@
     "historical_CURRENT_is_stale": true
   },
   "native_playtest": false,
-  "performance_verified": false
+  "performance_verified": false,
+  "visual_guide": {
+    "updated": "2026-10-22",
+    "path": "docs/VISUAL_EXAMPLES.md",
+    "manifest": "docs/visual-guide.json",
+    "pictures": 12,
+    "categories": 6,
+    "level_changed": false
+  }
 }
